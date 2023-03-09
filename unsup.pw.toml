@@ -1,0 +1,13 @@
+filename = "unsup-0.2.0-pre3.jar"
+name = "unsup"
+side = "client"
+
+[download]
+url = "https://git.sleeping.town/attachments/c521d178-8938-40a5-b21b-0333eef4099e"
+hash = "56fd3c2f6566e11a3242418fff73e6a26212fd705818de33ad30d099338cf3dbf2b6b00e019c777aba9263f41956ec2f2b267c1c252b83fe482b0961ab03e089"
+hash-format = sha512
+
+[option]
+optional = false
+default = true
+description = "unsup is designed for syncing Minecraft modpacks"

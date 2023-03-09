@@ -2,6 +2,11 @@ name = "Advancement Plaques"
 filename = "AdvancementPlaques-1.19.2-fabric-1.4.6.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Advancement plaques is an aesthetic mod that addorns the advancement toast"
+
 [download]
 mode = "url"
 url = "https://cdn.modrinth.com/data/9NM0dXub/versions/GBfneXwP/AdvancementPlaques-1.19.2-fabric-1.4.6.jar"
