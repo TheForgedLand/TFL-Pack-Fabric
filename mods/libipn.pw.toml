@@ -1,0 +1,14 @@
+name = "libIPN"
+filename = "libIPN-fabric-1.19-2.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/KiaYgRoc/libIPN-fabric-1.19-2.0.2.jar"
+hash-format = "sha512"
+hash = "b65f325a75dd7703bf47cd435970508999ab3916e719d1b946ed5201e57e49d6530ed2a393aeb609bff86df6a4f93502f736575f8ee4d38fbfc571dd4f156891"
+
+[update]
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "KiaYgRoc"

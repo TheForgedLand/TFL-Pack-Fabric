@@ -1,0 +1,14 @@
+name = "Roughly Enough Loot Tables"
+filename = "RoughlyEnoughLootTables-1.19-1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5hppfLUZ/versions/GvXMNQdq/RoughlyEnoughLootTables-1.19-1.0.jar"
+hash-format = "sha512"
+hash = "21175b60c0ad7c93ec27b47238a0de6ca381678fe18f6a5ee6ada20221949e347f63b0f1ccc0e72323ecaa5d76a22b1396fcea693dd084a520738c467ad55d7a"
+
+[update]
+[update.modrinth]
+mod-id = "5hppfLUZ"
+version = "GvXMNQdq"

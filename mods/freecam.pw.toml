@@ -1,0 +1,14 @@
+name = "Freecam (Modrinth Edition)"
+filename = "freecam-modrinth-1.1.6+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/yjLgFQ4M/freecam-modrinth-1.1.6%2B1.19.jar"
+hash-format = "sha512"
+hash = "4041730d0f882a2a798da777a08ffc2beef1999fcf0ba57595b8b79f408471c48032ac3eb5c2e58b36b932defc7eace07e3c581ef48fb0ebaaf16550902b1472"
+
+[update]
+[update.modrinth]
+mod-id = "XeEZ3fK2"
+version = "yjLgFQ4M"

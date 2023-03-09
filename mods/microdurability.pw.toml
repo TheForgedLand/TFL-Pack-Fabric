@@ -1,0 +1,14 @@
+name = "microDurability"
+filename = "microdurability-0.3.6+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/JW3bGnLO/versions/0.3.6%2B1.19/microdurability-0.3.6%2B1.19.jar"
+hash-format = "sha512"
+hash = "03547487bba85a7ca9fd3e13ae348539bbe8d46fd83a4f2050e232dbf6db37d0e39e5e44ca6273ebfa43555ac23e8ccf811acc1c736ac48d56df15b28dbdb316"
+
+[update]
+[update.modrinth]
+mod-id = "JW3bGnLO"
+version = "kbTj92Ij"

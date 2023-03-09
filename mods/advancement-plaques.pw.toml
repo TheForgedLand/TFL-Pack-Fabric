@@ -1,0 +1,14 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.19.2-fabric-1.4.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/GBfneXwP/AdvancementPlaques-1.19.2-fabric-1.4.6.jar"
+hash-format = "sha512"
+hash = "d57c18d7e6c3477b97bd8db1df1fdd2af985f6f982ce96e87a060eae177d9fc998d7640e78d22684b087fd087e8d1526d5496f627c380804f1161f1c555dbee8"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "GBfneXwP"

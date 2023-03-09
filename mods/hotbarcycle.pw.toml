@@ -1,0 +1,14 @@
+name = "HotbarCycle"
+filename = "hotbarcycle-1.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/it3li8KI/versions/4uxliNFr/hotbarcycle-1.1.0%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "fae408e9d1012ba896b2a53bc3d0451d34851315a291220a0ade12eb1450c465a6eb215358d15b76b8c6b342835ea4a36fd4a7df5a31143db6a8795041ce5a68"
+
+[update]
+[update.modrinth]
+mod-id = "it3li8KI"
+version = "4uxliNFr"

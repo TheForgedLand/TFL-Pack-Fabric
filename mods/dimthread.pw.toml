@@ -1,0 +1,14 @@
+name = "Dimensional Threading"
+filename = "DimThread-1.2.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dbqXA6Ma/versions/1.2.7/DimThread-1.2.7.jar"
+hash-format = "sha512"
+hash = "121798ab471a69c95ec3fe9762608322323e7f5e841d325507e018ef3c61b8b3039e1f4ecf003af8fbbe84a0f472e588cd43500921bac845dd0ffb58ab39efb4"
+
+[update]
+[update.modrinth]
+mod-id = "dbqXA6Ma"
+version = "zRJFsHQG"

@@ -1,0 +1,13 @@
+name = "TFL"
+author = "Alice C"
+version = "1.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a94b2cf4ab6493d960692d7ce45e8c2525ceb1022ac2ba6cd6f50f739dceeccd"
+
+[versions]
+fabric = "0.14.17"
+minecraft = "1.19.2"

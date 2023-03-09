@@ -1,0 +1,14 @@
+name = "Extra Alchemy"
+filename = "extraalchemy-fabric-1.19.2-1.9.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n0S5OkPo/versions/TpwPJBqV/extraalchemy-fabric-1.19.2-1.9.0.jar"
+hash-format = "sha512"
+hash = "f2a7408d0311e797c9e590a24ea62eedb02e0104a9efd3d2373494ed13f240af9fe36af38311b0db5c3459f91bcf70310e70de85fcb23f69ebb05984f6ed8c08"
+
+[update]
+[update.modrinth]
+mod-id = "n0S5OkPo"
+version = "TpwPJBqV"
