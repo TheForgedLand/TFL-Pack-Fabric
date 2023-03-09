@@ -1,7 +1,7 @@
-name = "Origins++"
-filename = "origins-plus-plus-2.0-CF.jar"
+name = "origins"
+filename = "Origins-1.19.2-1.7.1-CF.jar"
 
 [download]
-url = "https://github.com/AliCCfire/TFL-modpack/raw/main/customMods/origins-plus-plus-2.0-CF.jar"
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Origins-1.19.2-1.7.1-CF.jar"
 hash-format = "sha1"
-hash = "4eefb0269cea49a02d3548538fddac77d7b96d69"
+hash = "a97ee7db9daf0b646cf32cc44cf7bbc332edddb3"
