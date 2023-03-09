@@ -61,13 +61,8 @@ hash = "a3326c6be394dd05dc7758f6187a4e2ddd416fd47b387ea40eef180c65b5ea7e"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "e23d4fb66a81f5e23e9fd25a62fc5613e219f54cfd1c9b8531ffe414af1a0852"
-metafile = true
-
-[[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
+hash = "b2bc57658f23e8ece8c061fbdbb79b6da90ffd607992566a3e547ef3215de79e"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "986ec88f2ec8d6ce8a23591adff9604911199f32da0e5605a258d3d68d257edc"
+hash = "bdc0026a453334abaa888c085ea5f34c7a818406a79b8c4702d5345f883787cb"
 metafile = true
 
 [[files]]
@@ -316,16 +311,6 @@ hash = "ad85600fddb58af75bee8cbf6807ac9b0bf0d57a2a963da8a57f77e80fe275b7"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "cbebacd0da212da5a0b13a001c66c7c951ec3e1e6ebd774bda1b25f435f80161"
-metafile = true
-
-[[files]]
-file = "mods/nether-coords.pw.toml"
-hash = "6b8855b33549c010b55d68f68e26d25dce81a640a7e753ca5ea86f97120c5ace"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "8a1fd17d88e7fd25c3a6b819e7899ee2826da99a46d0920d7b6157eba9d57505"
 metafile = true
@@ -342,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+hash = "93d172828f186dcd1367a69f01b3f291302320fe6cc91e81e29bae9c6f857011"
 metafile = true
 
 [[files]]
@@ -363,11 +348,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
-metafile = true
-
-[[files]]
-file = "mods/rei-custom-command.pw.toml"
-hash = "ab85150d1f4ce274d291623a7177fc09d4196a420d47256e017d28e9d6023626"
 metafile = true
 
 [[files]]
@@ -412,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "0b069393342fadaacdfa7f97dac3c1aa8bd917599e5630e1166f14146fe2fa43"
+hash = "9c08011eaed91ca490a032279dd468d414a0153db6d8d24438a9cbf5a162d1bb"
 metafile = true
 
 [[files]]
@@ -462,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfl-utils.pw.toml"
-hash = "e2c659e902e1473cc5c6fa6464071560ca57957ef21ea1fd8d8b0442d8ed9ba9"
+hash = "6816d90d81c186de7a84b47c327d925ab7131d8251933dd1affb80bb21e5bed6"
 metafile = true
 
 [[files]]
@@ -492,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "f806ade95e46f317b3c1bdf3910b969a5a55459113497db24515d6fe77026511"
+hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
 
 [[files]]
@@ -513,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "6995d781f38deeeec26954784ad9040636c431769b083b196de6be4fabe83790"
 metafile = true
 
 [[files]]

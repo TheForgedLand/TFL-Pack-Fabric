@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PowerShell Launch Script",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "$mods = 'Kitsune-1.1.9-CF.jar','Origins-1.19.2-1.7.1-CF.jar','origins-plus-plus-2.0-CF.jar','tfl-0.0.1+1.19.2-dev.jar'; foreach ($mod in $mods){packwiz url add https://github.com/AliCCfire/TFL-modpack/raw/CMOD/{$mod}}",
+            "cwd": "${cwd}"
+        }
+
+    ]
+}

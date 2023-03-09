@@ -1,0 +1,7 @@
+name = "kitsune"
+filename = "Kitsune-1.1.9-CF.jar"
+
+[download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Kitsune-1.1.9-CF.jar"
+hash-format = "sha1"
+hash = "9dc10898ec185fe031ced7a23b7f20a5cdbb33f9"
