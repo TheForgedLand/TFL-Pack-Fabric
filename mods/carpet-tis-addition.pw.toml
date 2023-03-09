@@ -3,10 +3,9 @@ filename = "carpet-tis-addition-mc1.19.2-v1.44.0.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/jE0SjGuf/versions/7kjUbFQo/carpet-tis-addition-mc1.19.2-v1.44.0.jar"
-hash-format = "sha512"
-hash = "c26b4e4658f02b0765a1066917b9f5032cb5c4b2cc6a1a5e4fc6a970ab2c21702c878a781d5c6b3b0dec8aa0c507c28a5baad2e868168a522dad78cc23150106"
+hash-format = "sha1"
+hash = "64386196ce3d07581434c4ee54e4ffc7bcab0a8e"
 
 [update]
 [update.modrinth]

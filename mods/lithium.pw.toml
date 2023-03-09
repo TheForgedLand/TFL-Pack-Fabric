@@ -3,10 +3,9 @@ filename = "lithium-fabric-mc1.19.2-0.11.0.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GYl3zwgt/lithium-fabric-mc1.19.2-0.11.0.jar"
-hash-format = "sha512"
-hash = "2787480d2c01b1aa4985304297f18aa7cf05a9e11e4ae25a8d9d3374f2d0f8c60dcc6cd2d393eeb75755de90b9be066b9458e9ea846070bf65882230da59876f"
+hash-format = "sha1"
+hash = "52be9a4a6170464d52c3bd5fd450947bbd926468"
 
 [update]
 [update.modrinth]

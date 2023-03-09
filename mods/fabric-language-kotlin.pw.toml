@@ -3,10 +3,9 @@ filename = "fabric-language-kotlin-1.9.1+kotlin.1.8.10.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar"
-hash-format = "sha512"
-hash = "2c95e763bda39d471b5e252ba00b68b296d0bdb4c78f666886f6ebae99d2e7583b8a664fa35f2248dc844db66c7b77d2c3fde1d41801d070fc8083ddda886c0a"
+hash-format = "sha1"
+hash = "12f265ea91e73ac2c74c6f66d446671122bbb1c8"
 
 [update]
 [update.modrinth]

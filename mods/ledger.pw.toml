@@ -1,12 +1,11 @@
 name = "Ledger"
 filename = "ledger-1.2.5.jar"
-side = "both"
+side = "server"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar"
-hash-format = "sha512"
-hash = "905e2fd08ad3de5d056ba437d31937a01c1820bb126b1d173cb0bd5c21a99e0ea317a19e6f42883196720c6a9960dc5419ea100dbf95ff6329c133e0ad711efb"
+hash-format = "sha1"
+hash = "22b7846c9485c0778799978b1e5b77da1763571a"
 
 [update]
 [update.modrinth]

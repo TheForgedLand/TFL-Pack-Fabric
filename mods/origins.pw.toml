@@ -1,7 +1,13 @@
-name = "origins"
-filename = "Origins-1.19.2-1.7.1-CF.jar"
+name = "Origins"
+filename = "Origins-1.19.2-1.7.1.jar"
+side = "both"
 
 [download]
-url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Origins-1.19.2-1.7.1-CF.jar"
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/FxSutbg1/Origins-1.19.2-1.7.1.jar"
 hash-format = "sha1"
-hash = "a97ee7db9daf0b646cf32cc44cf7bbc332edddb3"
+hash = "b1410b30daeb585da247d0c48a3a9fe2f650fede"
+
+[update]
+[update.modrinth]
+mod-id = "3BeIrqZR"
+version = "FxSutbg1"

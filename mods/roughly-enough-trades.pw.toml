@@ -1,12 +1,11 @@
 name = "Roughly Enough Trades"
 filename = "RoughlyEnoughTrades-1.19-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/SRDQqMfX/versions/CdXT6NYx/RoughlyEnoughTrades-1.19-1.0.jar"
-hash-format = "sha512"
-hash = "71947108dde2f08b62d587127f99946285b61c64b683e4d52311a855a87faefee5ca1650a363d011e4a7125e383f7dafcd90e399ad3ac8cd69c52ccd8c443d10"
+hash-format = "sha1"
+hash = "48b9b7086431d1de129b4e3c180a97edd91a646b"
 
 [update]
 [update.modrinth]

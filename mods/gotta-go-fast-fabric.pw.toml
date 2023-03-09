@@ -1,12 +1,11 @@
 name = "Gotta Go Fast [Fabric]"
 filename = "gottagofast-1.0.2-1.19.2.jar"
-side = "both"
+side = "server"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/Ioquzjs2/versions/fPBefgHI/gottagofast-1.0.2-1.19.2.jar"
-hash-format = "sha512"
-hash = "4eba14a8abd77c1fd499bc3835c83f8e7e50260ec77218afce074ad90d987871294f6ba06a22aa33f54b1e9debf516f70c07e05c843600fdd6ac4ca27c8d588e"
+hash-format = "sha1"
+hash = "80b7fb1778f4640f2736c55b1d6c6579ec505b38"
 
 [update]
 [update.modrinth]

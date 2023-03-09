@@ -1,14 +1,13 @@
 name = "Origins: Classes"
-filename = "Origins-Classes-1.19-1.4.0.jar"
+filename = "Origins-Classes-1.19.3-1.5.0.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/FiDptjtR/versions/1.4.0/Origins-Classes-1.19-1.4.0.jar"
-hash-format = "sha512"
-hash = "78be5eecee57875d4d3060b678e660a56d46bb5f33779fdea19e557ad9059b82b9fb175f9085276b0082189e240b4aef715d260f820bb50f30ee898b8ee72fef"
+url = "https://cdn.modrinth.com/data/FiDptjtR/versions/EvpHrYJU/Origins-Classes-1.19.3-1.5.0.jar"
+hash-format = "sha1"
+hash = "0760f0f0b335e6136f367c84a520d192f9d7fee6"
 
 [update]
 [update.modrinth]
 mod-id = "FiDptjtR"
-version = "9ATzOPjO"
+version = "EvpHrYJU"

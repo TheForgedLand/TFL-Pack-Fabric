@@ -1,12 +1,11 @@
 name = "ToolTipFix"
 filename = "tooltipfix-1.1.1-1.19.jar"
-side = "both"
+side = "client"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/xDXBXur9/tooltipfix-1.1.1-1.19.jar"
-hash-format = "sha512"
-hash = "81f6a9a0166e2d77f4c35b29fe4fe112be7903ed5414600a34f6bac4b07d811767b224bb4a7aaf582882ca228285893b0e7455b41c6e3b3584a5631d40e6dd5f"
+hash-format = "sha1"
+hash = "a5693f4886c190cc7bd66afdff063ebe333b2d6c"
 
 [update]
 [update.modrinth]

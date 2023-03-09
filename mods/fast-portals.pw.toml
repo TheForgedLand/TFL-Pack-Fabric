@@ -3,10 +3,9 @@ filename = "fast-portals-1.0.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/HTSaaFuA/versions/1s7oB1EW/fast-portals-1.0.1.jar"
-hash-format = "sha512"
-hash = "e01b8cd1bc5bde96ce641f7e1687553158ed7c39471c898497fff232959a5b4b13b1fd98203e969c965b9e3f36775199b81dd8d9e67cf8e39eb18b1aa358b6bf"
+hash-format = "sha1"
+hash = "05bdc9d67129e8d756d1f325a20e902ada5afc66"
 
 [update]
 [update.modrinth]

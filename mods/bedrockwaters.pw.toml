@@ -1,12 +1,11 @@
 name = "BedrockWaters"
 filename = "bedrockwaters-1.7.3+1.19.2.jar"
-side = "both"
+side = "client"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/3WAUHe3k/versions/gL34oBJl/bedrockwaters-1.7.3%2B1.19.2.jar"
-hash-format = "sha512"
-hash = "f250db96621f91ada0167e424801c5870283710e80ccfc0ca9f4a385eb473e947bbe6654a70e9d33ab4efee4a5107f755b08b7cc562e4120a5948268e6326f5e"
+hash-format = "sha1"
+hash = "5540bc4918419c37196ad15102570d40d83bfd17"
 
 [update]
 [update.modrinth]

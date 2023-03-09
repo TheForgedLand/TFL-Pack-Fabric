@@ -3,10 +3,9 @@ filename = "expandeddelight-0.2.5.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/e9V6wFcR/versions/fWJXTJ4j/expandeddelight-0.2.5.jar"
-hash-format = "sha512"
-hash = "262f7f305ea669595068ad94fe84cf9b1fd83c5c46c39a3d497b4ec7c68bc49219de435e08561ebaaa35bf0880dc2bbe88f946ecb9fbbca71fb4fdb92998c494"
+hash-format = "sha1"
+hash = "6ed826961abc8a6ddccf45c0ef5baa6485fdef9b"
 
 [update]
 [update.modrinth]

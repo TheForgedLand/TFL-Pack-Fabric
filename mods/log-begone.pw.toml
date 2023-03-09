@@ -3,10 +3,9 @@ filename = "Log-Begone-Fabric-1.19-1.0.4.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/k0Uyxnf8/Log-Begone-Fabric-1.19-1.0.4.jar"
-hash-format = "sha512"
-hash = "4bca06dfb75a2f97d995301357f7b3ebef56012a2da135b25793da40aaf2daf5641a317439d16abaa9bac9dc7616678d49db23b2bdb659664d66dcf6c5446d52"
+hash-format = "sha1"
+hash = "611b8ce9bd6b4b2ce247a388b35d03a21a1e4e9c"
 
 [update]
 [update.modrinth]

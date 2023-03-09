@@ -3,10 +3,9 @@ filename = "better-enchanted-books-1.19-1.4.1.jar"
 side = "both"
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.4.1/better-enchanted-books-1.19-1.4.1.jar"
-hash-format = "sha512"
-hash = "e7e605c684414ebdd0c070bbb80859265eb19c34ada4c4b24942a59b639a2ed90680f1496b3eb3bd1c9c094b981bb88ee0baeb3ca542840486090d1970005a26"
+hash-format = "sha1"
+hash = "df185305604269a15ea6ced6973035140ebbbef1"
 
 [update]
 [update.modrinth]
