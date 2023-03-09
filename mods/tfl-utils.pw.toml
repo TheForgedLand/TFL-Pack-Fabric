@@ -1,0 +1,7 @@
+name = "tfl_Utils"
+filename = "tfl-0.0.1+1.19.2-dev.jar"
+
+[download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/main/customMods/tfl-0.0.1%2B1.19.2-dev.jar"
+hash-format = "sha1"
+hash = "5c44ce9c31a615026272215a2c97b902a5129ff6"

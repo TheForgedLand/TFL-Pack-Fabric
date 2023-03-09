@@ -231,6 +231,11 @@ hash = "9ba9c9bdb1b9136f1c90a95bff94d19d0ae4c04ecf70f3428763aaef6430441d"
 metafile = true
 
 [[files]]
+file = "mods/kitsune.pw.toml"
+hash = "2cf368f7d15ff8a0c87e6f425d497af572f32c88c0dbcd3e90616253aedffa1e"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9f71b685e4093a6986f36f435cac61c1ec33af1faafad37484365caf25fa495f"
 metafile = true
@@ -323,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/origins-umbrellas.pw.toml"
 hash = "dbd0c44f35d6bddd71dfed2caab1cc6800e886d779771c3b6eed928f7ed5c833"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "4da29d5312df0a874c0c69bdc0ff2affeb058da0dd74999be58e519de98fbb50"
 metafile = true
 
 [[files]]
@@ -438,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/stepup.pw.toml"
 hash = "3e9a6783c5a8e3403cca23bdf0e0b92d468bb01ff0dab1fe93d8e80e2be08a22"
+metafile = true
+
+[[files]]
+file = "mods/tfl-utils.pw.toml"
+hash = "f1c1700b50c5ca4353389d2ce47f30cd345a4b1ca09cc7e244336893cd27d882"
 metafile = true
 
 [[files]]

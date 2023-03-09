@@ -1,0 +1,7 @@
+name = "Origins++"
+filename = "origins-plus-plus-2.0-CF.jar"
+
+[download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/main/customMods/origins-plus-plus-2.0-CF.jar"
+hash-format = "sha1"
+hash = "4eefb0269cea49a02d3548538fddac77d7b96d69"
