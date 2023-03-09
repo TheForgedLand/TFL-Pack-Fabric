@@ -3,13 +3,11 @@ author = "Alice C"
 version = "1.2.1"
 description = "A special modpack made for TheForgedLand SMP"
 pack-format = "packwiz:1.1.0"
-unsup = "0.2.0"
-
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "313c7d4c1f464cdaf63dbb215cfa3a3e639a58afab29a519aae14c677ec61cc9"
+hash = "2f93e6b4ea33598fa4b44ed21246033696b814c59e56ba9e7469f7e5ea5d8ddd"
 
 [versions]
 fabric = "0.14.17"

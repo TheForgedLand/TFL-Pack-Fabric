@@ -2,27 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "e48511c2383774aefb7683796ab97de03b092323d5f1c7b3a7647a93b2c28072"
+hash = "40e0557ddd931d541e7593d0d5142210ef979175f2df84592f0f159945360319"
 metafile = true
 
 [[files]]
 file = "mods/advancements-debug.pw.toml"
-hash = "ef720c5c205565fa0f785da359fec5d1e3c7cd6a4fd0e44a65d10ad6230bbd02"
+hash = "49d4509d807cc3dbc091a14104d12d505b6bbf227eb07fd72b508084d7226465"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "0d67444c87df1df6652fa5df0cc8ca7c21895b4621ff99ff80ac4c3c3f8d8fcc"
+hash = "ab9e241e65114437f6e4ed67af930f7ddb7df573fa17956855c374b4f0c21022"
 metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "25bff3678a97650952bda82484c71020b8401e9ac57007562744ffc2e6c00931"
+hash = "dc24a0b84f1b29575ddb1c010f0b34e2139f6c7467d90668ca26fa72450b67ea"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ab7cce57c9e15ee76279cc4876822f1f82b45c39c588de5f7f67dd8f5faa814e"
+hash = "1b2f323b4c0e03a95f80bce88e2075a84f859a977b30f57d3b311d338c14b725"
 metafile = true
 
 [[files]]
@@ -516,5 +516,10 @@ hash = "6995d781f38deeeec26954784ad9040636c431769b083b196de6be4fabe83790"
 metafile = true
 
 [[files]]
-file = "unsup-0.2.0-pre3.jar"
-hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
+file = "unsup.ini"
+hash = "622d068d1529a6586343573232b797f745f8eb31c668bd092c3bf6b81e504a9f"
+
+[[files]]
+file = "unsup.pw.toml"
+hash = "81fa75138235adb8a67eca85b732fa511539371ab8d22eee09dc9d84ed577a40"
+metafile = true
