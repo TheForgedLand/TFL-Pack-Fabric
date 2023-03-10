@@ -496,10 +496,9 @@ hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
 
 [[files]]
-file = "unsup.ini"
-hash = "622d068d1529a6586343573232b797f745f8eb31c668bd092c3bf6b81e504a9f"
+file = "unsup-0.2.0-pre3.jar"
+hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
 
 [[files]]
-file = "unsup.pw.toml"
-hash = "81fa75138235adb8a67eca85b732fa511539371ab8d22eee09dc9d84ed577a40"
-metafile = true
+file = "unsup.ini"
+hash = "622d068d1529a6586343573232b797f745f8eb31c668bd092c3bf6b81e504a9f"
