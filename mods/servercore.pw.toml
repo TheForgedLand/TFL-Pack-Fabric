@@ -11,3 +11,8 @@ hash = "4bea059cb5ae5dcbe0959d6fcf5ac2120e7f1f40"
 [update.modrinth]
 mod-id = "4WWQxlQP"
 version = "kzD8EGTS"
+
+[option]
+optional = true
+default = true
+description = "Server performance and config mod. don't mess around with it unless you know what you are doing"

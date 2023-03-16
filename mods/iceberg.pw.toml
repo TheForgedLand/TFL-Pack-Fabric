@@ -11,3 +11,8 @@ hash = "cff3a1f0aa7bd3c6f3ac29ae5cb9e6aba991ecd1"
 [update.modrinth]
 mod-id = "5faXoLqX"
 version = "qC0waeNX"
+
+[option]
+optional = true
+default = true
+description = "library. Essencial dependency for some mods"

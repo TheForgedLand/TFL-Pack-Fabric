@@ -11,3 +11,8 @@ hash = "8c39ce0a82cb2b5f9e909f47a61d7825e29ccf05"
 [update.modrinth]
 mod-id = "P7dR8mSH"
 version = "6iOab8Tp"
+
+[option]
+optional = false
+default = true
+description = "do i really need to explain why this is important?"

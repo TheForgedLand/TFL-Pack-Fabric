@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4026788
 project-id = 529720
+
+[option]
+optional = true
+default = true
+description = "bug fixing tool for the server. don't mess around with it unless you know what you are doing"

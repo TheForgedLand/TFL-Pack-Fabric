@@ -11,3 +11,8 @@ hash = "b1118b1b30508dab9aa1625facc8ea6e4a4f6a49"
 [update.modrinth]
 mod-id = "pOQTcQmj"
 version = "nGnXDTky"
+
+[option]
+optional = false
+default = true
+description = "Vanilla+ mod that adds toggleable features, both technical and Aesthetic"

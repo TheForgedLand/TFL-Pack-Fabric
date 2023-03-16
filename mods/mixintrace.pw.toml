@@ -11,3 +11,8 @@ hash = "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"
 [update.modrinth]
 mod-id = "sGmHWmeL"
 version = "LGYOH4RN"
+
+[option]
+optional = true
+default = true
+description = "traces mixin errors for better debugging"

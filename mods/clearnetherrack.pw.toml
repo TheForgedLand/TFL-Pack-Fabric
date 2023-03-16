@@ -11,3 +11,8 @@ hash = "b5336de7a62e865de1edfb6169382ad96e31bb7f"
 [update.modrinth]
 mod-id = "ylQg0h2j"
 version = "30TvUi4z"
+
+[option]
+optional = true
+default = true
+description = "simple mod to clear excess netherrack items usually created by netherite mining operations"

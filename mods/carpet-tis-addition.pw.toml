@@ -11,3 +11,8 @@ hash = "64386196ce3d07581434c4ee54e4ffc7bcab0a8e"
 [update.modrinth]
 mod-id = "jE0SjGuf"
 version = "7kjUbFQo"
+
+[option]
+optional = true
+default = true
+description = "bug fixes for the server. do not mess with unless you know what you are doing"

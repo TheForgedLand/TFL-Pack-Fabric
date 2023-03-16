@@ -11,3 +11,8 @@ hash = "a635a001ed6b22da929696baa7e2c657b5416654"
 [update.modrinth]
 mod-id = "onSQdWhM"
 version = "KiaYgRoc"
+
+[option]
+optional = true
+default = true
+description = "Library for specific mods"

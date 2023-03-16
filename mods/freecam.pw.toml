@@ -11,3 +11,8 @@ hash = "bf8a291a31541332abfe5dd0bc2e24eb89fde81c"
 [update.modrinth]
 mod-id = "XeEZ3fK2"
 version = "yjLgFQ4M"
+
+[option]
+optional = true
+default = false
+description = "fly around in freecam to see how's your building going"

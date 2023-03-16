@@ -11,3 +11,8 @@ hash = "183b33b1df6fd1a6dd1f59af3cc3c1b8875e64aa"
 [update.modrinth]
 mod-id = "RPOSBQgq"
 version = "rf2jLZvC"
+
+[option]
+optional = true
+default = true
+description = "Swap items for Their similar counterparts in your inventory"

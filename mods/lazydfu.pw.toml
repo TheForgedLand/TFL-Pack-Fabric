@@ -11,3 +11,8 @@ hash = "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
 [update.modrinth]
 mod-id = "hvFnDODi"
 version = "4SHylIO9"
+
+[option]
+optional = true
+default = true
+description = "faster world loading"

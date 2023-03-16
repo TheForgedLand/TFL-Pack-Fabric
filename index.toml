@@ -493,7 +493,9 @@ metafile = true
 [[files]]
 file = "unsup-0.2.0-pre3.jar"
 hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
+alias = "unsup.jar"
 
 [[files]]
 file = "unsup.ini"
-hash = "622d068d1529a6586343573232b797f745f8eb31c668bd092c3bf6b81e504a9f"
+hash = "41f236402f73421e71b616c49c3d869c6f3e56c806be7b2bf7c85914f5972885"
+preserve = true

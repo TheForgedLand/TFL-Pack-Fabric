@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4384405
 project-id = 419699
+
+[option]
+optional = false
+default = true
+description = "Mod Library for Forge/Fabric cross compatibility. required by some mods"

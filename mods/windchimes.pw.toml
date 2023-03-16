@@ -11,3 +11,8 @@ hash = "dbee2266355d3ae3f348efccbd9ecc1b2fa3a710"
 [update.modrinth]
 mod-id = "iM50gcBD"
 version = "wBCMyoJp"
+
+[option]
+optional = false
+default = true
+description = "Decorative windchimes to prop up your house"

@@ -11,3 +11,8 @@ hash = "eba4066f1cf699db22cb05607d58a6e83f674a97"
 [update.modrinth]
 mod-id = "AnNXBWLE"
 version = "xaBdd49w"
+
+[option]
+optional = true
+default = false
+description = "Ever wanted to just step on blocks as if they were slabs?"

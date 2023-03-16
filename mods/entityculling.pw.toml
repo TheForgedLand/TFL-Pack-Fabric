@@ -11,3 +11,8 @@ hash = "534d7dc7a3f241300e09e7e95d3ae5d4ee5be886"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "twdGLDHv"
+
+[option]
+optional = true
+default = true
+description = "Only entities in the field of view get rendered"

@@ -11,3 +11,8 @@ hash = "ee55ee2303178233c065a374a4a9ca8108798b81"
 [update.modrinth]
 mod-id = "bpii4Xsa"
 version = "qgncfSZo"
+
+[option]
+optional = true
+default = true
+description = "Aesthetic mod that adds new ambience noises"

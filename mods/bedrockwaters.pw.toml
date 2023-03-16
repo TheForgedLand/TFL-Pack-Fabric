@@ -11,3 +11,8 @@ hash = "5540bc4918419c37196ad15102570d40d83bfd17"
 [update.modrinth]
 mod-id = "3WAUHe3k"
 version = "gL34oBJl"
+
+[option]
+optional = true
+default = true
+description = "Aesthetic mod that adds more varied water colours, much like in bedrock edition"

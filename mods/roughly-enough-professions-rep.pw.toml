@@ -11,3 +11,8 @@ hash = "be640293d22c39eefe01dbf1c46022c975f9cfda"
 [update.modrinth]
 mod-id = "V8XJ8f5f"
 version = "ifWiwS2Z"
+
+[option]
+optional = true
+default = true
+description = "to better know how to enslave villagers"

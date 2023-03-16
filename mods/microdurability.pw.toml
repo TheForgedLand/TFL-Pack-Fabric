@@ -11,3 +11,8 @@ hash = "fda6e80e539097300b1c5cb7643992717960aeb1"
 [update.modrinth]
 mod-id = "JW3bGnLO"
 version = "kbTj92Ij"
+
+[option]
+optional = true
+default = true
+description = "A minimalistic aesthetic way of knowing your armor durability"

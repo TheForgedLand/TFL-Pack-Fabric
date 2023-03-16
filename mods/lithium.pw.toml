@@ -11,3 +11,8 @@ hash = "52be9a4a6170464d52c3bd5fd450947bbd926468"
 [update.modrinth]
 mod-id = "gvQqBUqZ"
 version = "GYl3zwgt"
+
+[option]
+optional = true
+default = true
+description = "performance mod"

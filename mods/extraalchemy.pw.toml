@@ -11,3 +11,8 @@ hash = "77a5606dff5fe4c63d2d30cfb0be22c2e9347ef6"
 [update.modrinth]
 mod-id = "n0S5OkPo"
 version = "TpwPJBqV"
+
+[option]
+optional = false
+default = true
+description = "More alchemical items and potions!"

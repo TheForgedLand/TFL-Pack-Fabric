@@ -11,3 +11,8 @@ hash = "08ad06f42de2a29be5768c233dedf957ec7355c1"
 [update.modrinth]
 mod-id = "ErpAAAaf"
 version = "7LmnFHXo"
+
+[option]
+optional = true
+default = true
+description = "physics in items has always been cool and always will be (with this they stay flat on the ground instead of spinning like the sombrero roach meme)"

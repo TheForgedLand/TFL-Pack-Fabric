@@ -11,3 +11,8 @@ hash = "12f265ea91e73ac2c74c6f66d446671122bbb1c8"
 [update.modrinth]
 mod-id = "Ha28R6CL"
 version = "lgFl3olb"
+
+[option]
+optional = true
+default = true
+description = "kotlin language library for modbuilding. Essencial dependency of some kotlin based mods"

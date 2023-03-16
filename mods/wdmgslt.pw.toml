@@ -11,3 +11,8 @@ hash = "665c88df082e465eebc6b4e4850504e969dfedd0"
 [update.modrinth]
 mod-id = "59WpRx9h"
 version = "E2tRkqsD"
+
+[option]
+optional = true
+default = true
+description = "now you don't have glass break sounds whenever breaking glass with silk touch"

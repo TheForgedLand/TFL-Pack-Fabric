@@ -11,3 +11,8 @@ hash = "cdddc9360b679db04d3be9a56540a706aa8436e5"
 [update.modrinth]
 mod-id = "oJtNN7Tj"
 version = "7EsAM2c8"
+
+[option]
+optional = true
+default = true
+description = "bug fix for some extreme occasions"

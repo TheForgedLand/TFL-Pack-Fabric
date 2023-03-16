@@ -11,3 +11,8 @@ hash = "3579d6fe96c6395a774c0e41a15595a2af63fcdc"
 [update.modrinth]
 mod-id = "5hppfLUZ"
 version = "GvXMNQdq"
+
+[option]
+optional = true
+default = true
+description = "Ever wanted to know what you can actually get from a temple chest?"

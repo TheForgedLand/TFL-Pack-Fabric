@@ -11,3 +11,8 @@ hash = "2c83e025d1d6ff65f8638650616f07d09f2372f9"
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "xn2d7ltf"
+
+[option]
+optional = true
+default = true
+description = "fixes some common memory leaks"

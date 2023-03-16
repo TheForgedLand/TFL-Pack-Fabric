@@ -11,3 +11,8 @@ hash = "cd243c418e04a154b8dffc67bb1bfbf3a09d8769"
 [update.modrinth]
 mod-id = "r0v8vy1s"
 version = "F0ROppUm"
+
+[option]
+optional = true
+default = true
+description = "makes redstone mechanics more consistent"

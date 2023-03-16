@@ -11,3 +11,8 @@ hash = "5ee4d71ca173a6c2164a252ae092f2b9d9afd4cf"
 [update.modrinth]
 mod-id = "4EakbH8e"
 version = "baQ9tohQ"
+
+[option]
+optional = false
+default = true
+description = "farming is quite a delight amiright?"

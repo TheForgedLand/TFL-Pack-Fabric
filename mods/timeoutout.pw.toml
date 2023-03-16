@@ -11,3 +11,8 @@ hash = "ca85e8276c84d67361331ad2aadd5ed1eab3cf8c"
 [update.modrinth]
 mod-id = "7cFX55fD"
 version = "iDUwwz5Q"
+
+[option]
+optional = true
+default = true
+description = "now it takes slighty longer for you to be kicked for a connection loss"

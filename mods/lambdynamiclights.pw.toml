@@ -11,3 +11,8 @@ hash = "a2f8ab8fc203a6b4a2d2a756ab5e74ac621ebfdd"
 [update.modrinth]
 mod-id = "yBW8D80W"
 version = "YQkZSlfq"
+
+[option]
+optional = true
+default = true
+description = "dynamic lights for a fancy time"

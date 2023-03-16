@@ -11,3 +11,8 @@ hash = "05bdc9d67129e8d756d1f325a20e902ada5afc66"
 [update.modrinth]
 mod-id = "HTSaaFuA"
 version = "1s7oB1EW"
+
+[option]
+optional = true
+default = true
+description = "travel to the nether faster"

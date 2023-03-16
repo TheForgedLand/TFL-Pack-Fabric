@@ -11,3 +11,8 @@ hash = "611b8ce9bd6b4b2ce247a388b35d03a21a1e4e9c"
 [update.modrinth]
 mod-id = "9ON3zv6e"
 version = "k0Uyxnf8"
+
+[option]
+optional = true
+default = true
+description = "Instance log organizer"

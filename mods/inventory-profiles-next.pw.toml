@@ -11,3 +11,8 @@ hash = "418e3ee6bdd33efa22e9ab9c3c8d910fc16dc09c"
 [update.modrinth]
 mod-id = "O7RBXm3n"
 version = "XntjJhTW"
+
+[option]
+optional = true
+default = true
+description = "Inventory organizing with the click of a button!"

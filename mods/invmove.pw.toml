@@ -11,3 +11,8 @@ hash = "54d4ef70464f66234fd6c21b880256c51e8d0f78"
 [update.modrinth]
 mod-id = "REfW2AEX"
 version = "sWRkeaiE"
+
+[option]
+optional = true
+default = true
+description = "Move while inside GUIs"

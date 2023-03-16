@@ -11,3 +11,8 @@ hash = "340fd2049b12211df0f39693f6db7aa4d5846ec4"
 [update.modrinth]
 mod-id = "EwPIWPJ9"
 version = "2ll4FgjP"
+
+[option]
+optional = true
+default = true
+description = "compatibility addon for dynamiccrosshair"

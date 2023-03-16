@@ -11,3 +11,8 @@ hash = "b9c5f99a073423fc4cd0414b9c398f950329e560"
 [update.modrinth]
 mod-id = "ZcR9weSm"
 version = "5Rbzl2ai"
+
+[option]
+optional = true
+default = true
+description = "Highly configurable Aesthetic mod that adds fancy dynamics for the crosshair."

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4401128
 project-id = 310111
+
+[option]
+optional = true
+default = true
+description = "Item registry mod so you can see special craftings"

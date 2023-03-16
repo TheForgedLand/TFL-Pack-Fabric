@@ -11,3 +11,8 @@ hash = "8414cbce145a5f48102e6cc811dfd1459afe44f3"
 [update.modrinth]
 mod-id = "FWumhS4T"
 version = "r8xRVPEI"
+
+[option]
+optional = true
+default = true
+description = "smoother booting"
