@@ -61,11 +61,6 @@ hash = "ee614c2228590b079c2c5493bbe552d3a2dd0be7e91d691ec508616d9402f9b5"
 metafile = true
 
 [[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "189547ceeddefa37b1f659d4b21f35cee111f02e6c56fa33aa49bd795a0823b5"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "f4f7398b7e7eb16c1a247cb1878f417abb7957d010f3d05242be0c91039eb30c"
 metafile = true
@@ -412,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c1cdeef4ca46fe3243afe3c2ada611da70c2a38e19f44c13145714309c4f470b"
+hash = "d2b41e9e2453ad2aed65c2810053850fe9caec01b6c242cdc7b652a37790c04b"
 metafile = true
 
 [[files]]
@@ -492,5 +487,4 @@ alias = "unsup.jar"
 
 [[files]]
 file = "unsup.ini"
-hash = "6c6b6a3c5f4bdcc6f0d6d8df205750f522787a323dff9df1a2f558c6208d398b"
-preserve = true
+hash = "4ea53f815fe1dfd62fd6ccf4e5cf81fb636414244e8488df1ed45fc6ac027f53"
