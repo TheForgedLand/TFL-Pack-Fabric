@@ -11,3 +11,8 @@ hash = "5f0a1b5418f0f16b9d66eb8ae832291371d321b5"
 [update.modrinth]
 mod-id = "QRYqnI15"
 version = "pU8oyH0U"
+
+[option]
+optional = false
+default = true
+description = "Bags and satchets to expand your inventory!"

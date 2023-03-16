@@ -11,3 +11,8 @@ hash = "5edec0968a0b24d559de8c82660d526bc0bd5648"
 [update.modrinth]
 mod-id = "atHH8NyV"
 version = "QqAHVnpI"
+
+[option]
+optional = true
+default = true
+description = "Aesthetic addition to Item tooltips so you feel fancier"

@@ -11,3 +11,8 @@ hash = "1b66e20a98bd26d8fd2f21c63d666795d9d9a60d"
 [update.modrinth]
 mod-id = "rxMTwxyO"
 version = "oTJoSDPx"
+
+[option]
+optional = true
+default = true
+description = "fixes bugs regarding the Advancement system"

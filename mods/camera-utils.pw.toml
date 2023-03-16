@@ -11,3 +11,8 @@ hash = "097e61337c34d23aa92a77fea5fc1796a9582fe0"
 [update.modrinth]
 mod-id = "rrwQMaWQ"
 version = "efnXM4hB"
+
+[option]
+optional = true
+default = true
+description = "zoom, custom 3rd person, camera mounts... quite useful for streamers and youtubers alike"

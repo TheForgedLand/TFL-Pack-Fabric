@@ -1,13 +1,18 @@
 name = "Roughly Enough Items Fabric/Forge (REI)"
-filename = "RoughlyEnoughItems-9.1.591.jar"
+filename = "RoughlyEnoughItems-9.1.595.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7c7956e2f11c6518b576273185c0512b2c0779f"
+hash = "e4603da9f1b64e672018a359d83125d2c8235d07"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4401128
+file-id = 4440718
 project-id = 310111
+
+[option]
+optional = true
+description = "Item registry mod so you can see special craftings"
+default = true

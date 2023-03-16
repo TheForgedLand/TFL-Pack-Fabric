@@ -11,3 +11,8 @@ hash = "12fbb67fa9be310a2c85e33658b2b022a02f135a"
 [update.modrinth]
 mod-id = "t5W7Jfwy"
 version = "ZlyksjwT"
+
+[option]
+optional = false
+default = true
+description = "Size changing library for Origins and other mods"

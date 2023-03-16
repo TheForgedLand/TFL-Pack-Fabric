@@ -5,3 +5,8 @@ filename = "Origins-Classes-1.19-1.4.0.jar"
 url = "https://cdn.modrinth.com/data/FiDptjtR/versions/1.4.0/Origins-Classes-1.19-1.4.0.jar"
 hash-format = "sha1"
 hash = "0e789bc4f5c5150f5e62b5955adce8b528aabcda"
+
+[option]
+optional = false
+default = true
+description = "Varied classes for you to choose from!"

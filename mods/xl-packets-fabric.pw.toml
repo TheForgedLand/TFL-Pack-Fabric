@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4110462
 project-id = 390168
+
+[option]
+optional = true
+default = true
+description = "larger packet sizes"

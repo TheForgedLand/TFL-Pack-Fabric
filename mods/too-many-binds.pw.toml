@@ -11,3 +11,8 @@ hash = "2ec41e7572014a3d55f55132e1ba1325b44cb7e3"
 [update.modrinth]
 mod-id = "548fsydf"
 version = "PxnbyXpO"
+
+[option]
+optional = true
+default = true
+description = "ever wanted to just not bind a key and access it later? (only works for keys in the keybinds option list)"

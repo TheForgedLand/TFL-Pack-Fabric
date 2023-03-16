@@ -11,3 +11,8 @@ hash = "95847e7ac49fbccb679f7e8ede37835a0cd65bf2"
 [update.modrinth]
 mod-id = "2Uev7LdA"
 version = "UWFTYBmq"
+
+[option]
+optional = true
+default = true
+description = "fancy grass fancy grass"

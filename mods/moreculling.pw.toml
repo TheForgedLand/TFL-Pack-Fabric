@@ -11,3 +11,8 @@ hash = "412128117420615ffbc07c987a9cfb7ee7827e01"
 [update.modrinth]
 mod-id = "51shyZVL"
 version = "ZVroNexd"
+
+[option]
+optional = true
+default = true
+description = "Even more culling for better performance (and Aesthetics)."

@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4424635
 project-id = 317780
+
+[option]
+optional = true
+default = true
+description = "now you actually know where you are"

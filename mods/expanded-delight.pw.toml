@@ -11,3 +11,8 @@ hash = "6ed826961abc8a6ddccf45c0ef5baa6485fdef9b"
 [update.modrinth]
 mod-id = "e9V6wFcR"
 version = "fWJXTJ4j"
+
+[option]
+optional = false
+default = true
+description = "Extra features for Farmer's Delight"

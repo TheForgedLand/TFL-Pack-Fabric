@@ -11,3 +11,8 @@ hash = "a5693f4886c190cc7bd66afdff063ebe333b2d6c"
 [update.modrinth]
 mod-id = "2RKFTmiB"
 version = "xDXBXur9"
+
+[option]
+optional = true
+default = true
+description = "fixes tooltips clipping out of the screen (why didn't you do this already, mojang...)"

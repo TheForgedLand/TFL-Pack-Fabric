@@ -11,3 +11,8 @@ hash = "51768c0f2f4ce5c132d077f0c3564de2964a9eb7"
 [update.modrinth]
 mod-id = "l6YH9Als"
 version = "g60nhl1v"
+
+[option]
+optional = true
+default = true
+description = "performance analysis and debugging mod"

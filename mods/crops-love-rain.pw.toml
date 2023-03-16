@@ -11,3 +11,8 @@ hash = "f43103db2c02dbc21f99df5901eef71c9693da27"
 [update.modrinth]
 mod-id = "cRci7UZp"
 version = "ydd68ewP"
+
+[option]
+optional = true
+default = true
+description = "Crops grow faster when its raining"

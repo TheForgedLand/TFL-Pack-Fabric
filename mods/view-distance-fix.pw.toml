@@ -11,3 +11,8 @@ hash = "4b4f46321cb818d3a2f33cb0b196d24a156ab8c6"
 [update.modrinth]
 mod-id = "nxrXbh5K"
 version = "6YGGQq3R"
+
+[option]
+optional = true
+default = true
+description = "server  view-distance configuration doesn't affect client's"

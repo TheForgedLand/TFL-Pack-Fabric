@@ -11,3 +11,8 @@ hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "yTfou6df"
+
+[option]
+optional = true
+default = true
+description = "stuff so sodium works well with other mods, such as create"

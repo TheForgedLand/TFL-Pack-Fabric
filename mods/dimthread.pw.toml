@@ -11,3 +11,8 @@ hash = "97f264d549abd90aa3eedfe912ff7398aeb60201"
 [update.modrinth]
 mod-id = "dbqXA6Ma"
 version = "zRJFsHQG"
+
+[option]
+optional = true
+default = true
+description = "multithreading dimensions for performance reasons"

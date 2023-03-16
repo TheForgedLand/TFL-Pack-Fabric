@@ -11,3 +11,8 @@ hash = "df185305604269a15ea6ced6973035140ebbbef1"
 [update.modrinth]
 mod-id = "yjpXhps7"
 version = "LiSauhSD"
+
+[option]
+optional = true
+default = true
+description = "Aesthetic mod that makes Enchanted books more discernible"

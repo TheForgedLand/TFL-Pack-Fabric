@@ -11,3 +11,8 @@ hash = "22b7846c9485c0778799978b1e5b77da1763571a"
 [update.modrinth]
 mod-id = "LVN9ygNV"
 version = "KwzHK3mh"
+
+[option]
+optional = true
+default = true
+description = "better logging for the server (i'm always watching)"

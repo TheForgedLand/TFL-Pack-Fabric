@@ -11,3 +11,8 @@ hash = "88c0fcf573a511760be66c562b14f9a3a056fee2"
 [update.modrinth]
 mod-id = "rcLriA4v"
 version = "RcXP5WO3"
+
+[option]
+optional = true
+default = true
+description = "Allows for more complex keybind configurations"

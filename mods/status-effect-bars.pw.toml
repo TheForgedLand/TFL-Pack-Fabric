@@ -11,3 +11,8 @@ hash = "4d35d73c786d082c90dbd26895096fe33e36b0be"
 [update.modrinth]
 mod-id = "x02cBj9Y"
 version = "LA3OYeBL"
+
+[option]
+optional = true
+default = true
+description = "Aesthetic minimalistic bars for potion effects"

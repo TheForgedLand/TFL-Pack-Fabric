@@ -11,3 +11,8 @@ hash = "872303fd4d71f7c2297e80b6fa7a25760e1fb13e"
 [update.modrinth]
 mod-id = "a7X986Fs"
 version = "d5dmyLmc"
+
+[option]
+optional = true
+default = true
+description = "simple chat calculator"

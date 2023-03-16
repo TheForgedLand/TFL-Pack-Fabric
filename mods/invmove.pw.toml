@@ -1,13 +1,18 @@
 name = "InvMove"
-filename = "InvMove-1.19-0.8.2-Fabric.jar"
+filename = "InvMove-1.19-0.8.3-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/REfW2AEX/versions/sWRkeaiE/InvMove-1.19-0.8.2-Fabric.jar"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/1uJ8OF0p/InvMove-1.19-0.8.3-Fabric.jar"
 hash-format = "sha1"
-hash = "54d4ef70464f66234fd6c21b880256c51e8d0f78"
+hash = "dfd54f9ff421314b853939593cd8a81a48f51730"
 
 [update]
 [update.modrinth]
 mod-id = "REfW2AEX"
-version = "sWRkeaiE"
+version = "1uJ8OF0p"
+
+[option]
+optional = true
+description = "Move while inside GUIs"
+default = true

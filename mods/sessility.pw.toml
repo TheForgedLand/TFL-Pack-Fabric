@@ -11,3 +11,8 @@ hash = "5b22507ed4d69dab9606e306351402651dfa9875"
 [update.modrinth]
 mod-id = "G9rHXWug"
 version = "cS0lXSSQ"
+
+[option]
+optional = true
+default = true
+description = "you afk? now we know"

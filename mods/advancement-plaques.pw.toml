@@ -11,3 +11,8 @@ hash = "4af48cf2e71ea3f1ba7987b3bf39662ae3838714"
 [update.modrinth]
 mod-id = "9NM0dXub"
 version = "GBfneXwP"
+
+[option]
+optional = true
+default = true
+description = "Makes aesthetic changes to the Advancement system"

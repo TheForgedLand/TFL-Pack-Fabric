@@ -11,3 +11,8 @@ hash = "80d848bf6f2840cdd666a54a217d47b8e615e144"
 [update.modrinth]
 mod-id = "nKWFvKt2"
 version = "H7Ba7Act"
+
+[option]
+optional = false
+default = true
+description = "Umbrellas to protect from sun and rain alike"

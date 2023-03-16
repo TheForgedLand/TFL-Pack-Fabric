@@ -11,3 +11,8 @@ hash = "2b089de609c54ae6cc8f38ad92df358dfd3d0e64"
 [update.modrinth]
 mod-id = "bD7YqcA3"
 version = "ba0gQl1e"
+
+[option]
+optional = true
+default = false
+description = "Ever wanted to see your (or other's) skin without forfeiting your armor? now you can!"

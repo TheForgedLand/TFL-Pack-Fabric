@@ -11,3 +11,8 @@ hash = "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
 [update.modrinth]
 mod-id = "rI0hvYcd"
 version = "TrPcZLjs"
+
+[option]
+optional = true
+default = true
+description = "new particles to liven up your game"
