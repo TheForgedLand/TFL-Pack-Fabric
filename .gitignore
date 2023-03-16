@@ -5,4 +5,4 @@
 *.mrpack
 
 .history
-.vscode
+\.vscode
