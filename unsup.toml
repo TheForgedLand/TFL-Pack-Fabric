@@ -1,0 +1,21 @@
+[flavor_groups.performance]
+name = "performance mods"
+description = "these mods may make your game run better!
+side = "both"
+[[flavour_groups.performance.choices]]
+name = "Enabled"
+description = null
+id = "performance_enabled"
+[[flavour_groups.performance.choices]]
+name = "Disabled"
+id = "performance_disabled"
+description = null
+
+
+
+
+
+[metafile.advancements-debug]
+flavors = "performance_enabled"
+[metafile.carpet]
+flavors = "
