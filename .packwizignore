@@ -8,3 +8,4 @@
 .packwizignore
 .history
 .vscode
+.unsup-state.json

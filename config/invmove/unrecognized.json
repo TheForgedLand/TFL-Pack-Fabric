@@ -1,0 +1,6 @@
+{
+  "allowMovement": {
+    "org.anti_ad.mc.ipnext.gui.ConfigScreen": true
+  },
+  "hideBackground": {}
+}
