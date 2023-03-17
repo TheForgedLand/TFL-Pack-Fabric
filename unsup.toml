@@ -12,10 +12,977 @@ id = "performance_disabled"
 description = null
 
 
+[flavor_groups.prism-lib]
+name = "Prism"
+description = "Mod Library"
+id = "prism-lib"
 
+  [[flavor_groups.prism-lib.choices]]
+  name = "On"
+  id = "prism-lib_on"
 
+  [[flavor_groups.prism-lib.choices]]
+  name = "Off"
+  id = "prism-lib_off"
 
-[metafile.advancements-debug]
-flavors = "performance_enabled"
-[metafile.carpet]
-flavors = "
+[flavor_groups.roughly-enough-items]
+name = "Roughly Enough Items Fabric/Forge (REI)"
+description = "Item registry mod so you can see special craftings"
+id = "roughly-enough-items"
+
+  [[flavor_groups.roughly-enough-items.choices]]
+  name = "On"
+  id = "roughly-enough-items_on"
+
+  [[flavor_groups.roughly-enough-items.choices]]
+  name = "Off"
+  id = "roughly-enough-items_off"
+
+[flavor_groups.clearnetherrack]
+name = "Clear Netherrack"
+description = "simple mod to clear excess netherrack items usually created by netherite mining operations"
+id = "clearnetherrack"
+
+  [[flavor_groups.clearnetherrack.choices]]
+  name = "On"
+  id = "clearnetherrack_on"
+
+  [[flavor_groups.clearnetherrack.choices]]
+  name = "Off"
+  id = "clearnetherrack_off"
+
+[flavor_groups.trinkets]
+name = "Trinkets"
+description = "trinkets so you can put fancy glasses and bags with armor"
+id = "trinkets"
+
+  [[flavor_groups.trinkets.choices]]
+  name = "On"
+  id = "trinkets_on"
+
+  [[flavor_groups.trinkets.choices]]
+  name = "Off"
+  id = "trinkets_off"
+
+[flavor_groups.dynamiccrosshair]
+name = "Dynamic Crosshair"
+description = "Highly configurable Aesthetic mod that adds fancy dynamics for the crosshair."
+id = "dynamiccrosshair"
+
+  [[flavor_groups.dynamiccrosshair.choices]]
+  name = "On"
+  id = "dynamiccrosshair_on"
+
+  [[flavor_groups.dynamiccrosshair.choices]]
+  name = "Off"
+  id = "dynamiccrosshair_off"
+
+[flavor_groups.lambdabettergrass]
+name = "LambdaBetterGrass"
+description = "fancy grass fancy grass"
+id = "lambdabettergrass"
+
+  [[flavor_groups.lambdabettergrass.choices]]
+  name = "On"
+  id = "lambdabettergrass_on"
+
+  [[flavor_groups.lambdabettergrass.choices]]
+  name = "Off"
+  id = "lambdabettergrass_off"
+
+[flavor_groups.lithium]
+name = "Lithium"
+description = "performance mod"
+id = "lithium"
+
+  [[flavor_groups.lithium.choices]]
+  name = "On"
+  id = "lithium_on"
+
+  [[flavor_groups.lithium.choices]]
+  name = "Off"
+  id = "lithium_off"
+
+[flavor_groups.smoothboot-fabric]
+name = "Smooth Boot (Fabric)"
+description = "smoother booting"
+id = "smoothboot-fabric"
+
+  [[flavor_groups.smoothboot-fabric.choices]]
+  name = "On"
+  id = "smoothboot-fabric_on"
+
+  [[flavor_groups.smoothboot-fabric.choices]]
+  name = "Off"
+  id = "smoothboot-fabric_off"
+
+[flavor_groups.invmove]
+name = "InvMove"
+description = "Move while inside GUIs"
+id = "invmove"
+
+  [[flavor_groups.invmove.choices]]
+  name = "On"
+  id = "invmove_on"
+
+  [[flavor_groups.invmove.choices]]
+  name = "Off"
+  id = "invmove_off"
+
+[flavor_groups.tooltipfix]
+name = "ToolTipFix"
+description = "fixes tooltips clipping out of the screen (why didn't you do this already, mojang...)"
+id = "tooltipfix"
+
+  [[flavor_groups.tooltipfix.choices]]
+  name = "On"
+  id = "tooltipfix_on"
+
+  [[flavor_groups.tooltipfix.choices]]
+  name = "Off"
+  id = "tooltipfix_off"
+
+[flavor_groups.camera-utils]
+name = "Camera Utils"
+description = "zoom, custom 3rd person, camera mounts... quite useful for streamers and youtubers alike"
+id = "camera-utils"
+
+  [[flavor_groups.camera-utils.choices]]
+  name = "On"
+  id = "camera-utils_on"
+
+  [[flavor_groups.camera-utils.choices]]
+  name = "Off"
+  id = "camera-utils_off"
+
+[flavor_groups.clickthrough]
+name = "ClickThrough"
+description = "allows interacting through signs and item frames as if they weren't there"
+id = "clickthrough"
+
+  [[flavor_groups.clickthrough.choices]]
+  name = "On"
+  id = "clickthrough_on"
+
+  [[flavor_groups.clickthrough.choices]]
+  name = "Off"
+  id = "clickthrough_off"
+
+[flavor_groups.simple-voice-chat]
+name = "Simple Voice Chat"
+description = "proximity voice chat and groups for you to hang out with friends"
+id = "simple-voice-chat"
+
+  [[flavor_groups.simple-voice-chat.choices]]
+  name = "On"
+  id = "simple-voice-chat_on"
+
+  [[flavor_groups.simple-voice-chat.choices]]
+  name = "Off"
+  id = "simple-voice-chat_off"
+
+[flavor_groups.clumps]
+name = "Clumps"
+description = "Exp orbs clump together"
+id = "clumps"
+
+  [[flavor_groups.clumps.choices]]
+  name = "On"
+  id = "clumps_on"
+
+  [[flavor_groups.clumps.choices]]
+  name = "Off"
+  id = "clumps_off"
+
+[flavor_groups.chatcalc]
+name = "ChatCalc"
+description = "simple chat calculator"
+id = "chatcalc"
+
+  [[flavor_groups.chatcalc.choices]]
+  name = "On"
+  id = "chatcalc_on"
+
+  [[flavor_groups.chatcalc.choices]]
+  name = "Off"
+  id = "chatcalc_off"
+
+[flavor_groups.roughly-enough-loot-tables]
+name = "Roughly Enough Loot Tables"
+description = "Ever wanted to know what you can actually get from a temple chest?"
+id = "roughly-enough-loot-tables"
+
+  [[flavor_groups.roughly-enough-loot-tables.choices]]
+  name = "On"
+  id = "roughly-enough-loot-tables_on"
+
+  [[flavor_groups.roughly-enough-loot-tables.choices]]
+  name = "Off"
+  id = "roughly-enough-loot-tables_off"
+
+[flavor_groups.xl-packets-fabric]
+name = "XL Packets Fabric"
+description = "larger packet sizes"
+id = "xl-packets-fabric"
+
+  [[flavor_groups.xl-packets-fabric.choices]]
+  name = "On"
+  id = "xl-packets-fabric_on"
+
+  [[flavor_groups.xl-packets-fabric.choices]]
+  name = "Off"
+  id = "xl-packets-fabric_off"
+
+[flavor_groups.interactic]
+name = "Interactic"
+description = "physics in items has always been cool and always will be (with this they stay flat on the ground instead of spinning like the sombrero roach meme)"
+id = "interactic"
+
+  [[flavor_groups.interactic.choices]]
+  name = "On"
+  id = "interactic_on"
+
+  [[flavor_groups.interactic.choices]]
+  name = "Off"
+  id = "interactic_off"
+
+[flavor_groups.stepup]
+name = "StepUp"
+description = "Ever wanted to just step on blocks as if they were slabs?"
+id = "stepup"
+
+  [[flavor_groups.stepup.choices]]
+  name = "On"
+  id = "stepup_on"
+
+  [[flavor_groups.stepup.choices]]
+  name = "Off"
+  id = "stepup_off"
+
+[flavor_groups.lazydfu]
+name = "LazyDFU"
+description = "faster world loading"
+id = "lazydfu"
+
+  [[flavor_groups.lazydfu.choices]]
+  name = "On"
+  id = "lazydfu_on"
+
+  [[flavor_groups.lazydfu.choices]]
+  name = "Off"
+  id = "lazydfu_off"
+
+[flavor_groups.starlight]
+name = "Starlight (Fabric)"
+description = "better organizing light so it doesn't break your game as much. significantly better performance"
+id = "starlight"
+
+  [[flavor_groups.starlight.choices]]
+  name = "On"
+  id = "starlight_on"
+
+  [[flavor_groups.starlight.choices]]
+  name = "Off"
+  id = "starlight_off"
+
+[flavor_groups.roughly-enough-resources]
+name = "Roughly Enough Resources"
+description = "I don't know what it does either!"
+id = "roughly-enough-resources"
+
+  [[flavor_groups.roughly-enough-resources.choices]]
+  name = "On"
+  id = "roughly-enough-resources_on"
+
+  [[flavor_groups.roughly-enough-resources.choices]]
+  name = "Off"
+  id = "roughly-enough-resources_off"
+
+[flavor_groups.xaeros-world-map]
+name = "Xaero's World Map"
+description = "now you actually know where you are"
+id = "xaeros-world-map"
+
+  [[flavor_groups.xaeros-world-map.choices]]
+  name = "On"
+  id = "xaeros-world-map_on"
+
+  [[flavor_groups.xaeros-world-map.choices]]
+  name = "Off"
+  id = "xaeros-world-map_off"
+
+[flavor_groups.morecullingextra]
+name = "More Culling Extra"
+description = "EVEN MORE CULLING!!!!!!!"
+id = "morecullingextra"
+
+  [[flavor_groups.morecullingextra.choices]]
+  name = "On"
+  id = "morecullingextra_on"
+
+  [[flavor_groups.morecullingextra.choices]]
+  name = "Off"
+  id = "morecullingextra_off"
+
+[flavor_groups.sodium]
+name = "Sodium"
+description = "finally a kind of salt that will get your game running better and not give you hypertention"
+id = "sodium"
+
+  [[flavor_groups.sodium.choices]]
+  name = "On"
+  id = "sodium_on"
+
+  [[flavor_groups.sodium.choices]]
+  name = "Off"
+  id = "sodium_off"
+
+[flavor_groups.too-many-binds]
+name = "Too Many Binds"
+description = "ever wanted to just not bind a key and access it later? (only works for keys in the keybinds option list)"
+id = "too-many-binds"
+
+  [[flavor_groups.too-many-binds.choices]]
+  name = "On"
+  id = "too-many-binds_on"
+
+  [[flavor_groups.too-many-binds.choices]]
+  name = "Off"
+  id = "too-many-binds_off"
+
+[flavor_groups.memoryleakfix]
+name = "Memory Leak Fix"
+description = "fixes some common memory leaks"
+id = "memoryleakfix"
+
+  [[flavor_groups.memoryleakfix.choices]]
+  name = "On"
+  id = "memoryleakfix_on"
+
+  [[flavor_groups.memoryleakfix.choices]]
+  name = "Off"
+  id = "memoryleakfix_off"
+
+[flavor_groups.fast-portals]
+name = "Fast Portals"
+description = "travel to the nether faster"
+id = "fast-portals"
+
+  [[flavor_groups.fast-portals.choices]]
+  name = "On"
+  id = "fast-portals_on"
+
+  [[flavor_groups.fast-portals.choices]]
+  name = "Off"
+  id = "fast-portals_off"
+
+[flavor_groups.dynamiccrosshaircompat]
+name = "Dynamic Crosshair Compat"
+description = "compatibility addon for dynamiccrosshair"
+id = "dynamiccrosshaircompat"
+
+  [[flavor_groups.dynamiccrosshaircompat.choices]]
+  name = "On"
+  id = "dynamiccrosshaircompat_on"
+
+  [[flavor_groups.dynamiccrosshaircompat.choices]]
+  name = "Off"
+  id = "dynamiccrosshaircompat_off"
+
+[flavor_groups.carpet]
+name = "Carpet"
+description = "bug fixes and dev tools for the server. do not mess with unless you know what you are doing"
+id = "carpet"
+
+  [[flavor_groups.carpet.choices]]
+  name = "On"
+  id = "carpet_on"
+
+  [[flavor_groups.carpet.choices]]
+  name = "Off"
+  id = "carpet_off"
+
+[flavor_groups.inventory-profiles-next]
+name = "Inventory Profiles Next"
+description = "Inventory organizing with the click of a button!"
+id = "inventory-profiles-next"
+
+  [[flavor_groups.inventory-profiles-next.choices]]
+  name = "On"
+  id = "inventory-profiles-next_on"
+
+  [[flavor_groups.inventory-profiles-next.choices]]
+  name = "Off"
+  id = "inventory-profiles-next_off"
+
+[flavor_groups.block_limit_fix]
+name = "Block Limit Fix"
+description = "bug fix for some extreme occasions"
+id = "block_limit_fix"
+
+  [[flavor_groups.block_limit_fix.choices]]
+  name = "On"
+  id = "block_limit_fix_on"
+
+  [[flavor_groups.block_limit_fix.choices]]
+  name = "Off"
+  id = "block_limit_fix_off"
+
+[flavor_groups.advancement-plaques]
+name = "Advancement Plaques"
+description = "Makes aesthetic changes to the Advancement system"
+id = "advancement-plaques"
+
+  [[flavor_groups.advancement-plaques.choices]]
+  name = "On"
+  id = "advancement-plaques_on"
+
+  [[flavor_groups.advancement-plaques.choices]]
+  name = "Off"
+  id = "advancement-plaques_off"
+
+[flavor_groups.show-me-your-skin]
+name = "Show Me Your Skin!"
+description = "Ever wanted to see your (or other's) skin without forfeiting your armor? now you can!"
+id = "show-me-your-skin"
+
+  [[flavor_groups.show-me-your-skin.choices]]
+  name = "On"
+  id = "show-me-your-skin_on"
+
+  [[flavor_groups.show-me-your-skin.choices]]
+  name = "Off"
+  id = "show-me-your-skin_off"
+
+[flavor_groups.roughly-enough-trades]
+name = "Roughly Enough Trades"
+description = "Every trade imaginable, to better exploit your questionable villager workforce"
+id = "roughly-enough-trades"
+
+  [[flavor_groups.roughly-enough-trades.choices]]
+  name = "On"
+  id = "roughly-enough-trades_on"
+
+  [[flavor_groups.roughly-enough-trades.choices]]
+  name = "Off"
+  id = "roughly-enough-trades_off"
+
+[flavor_groups.legendary-tooltips]
+name = "Legendary Tooltips"
+description = "Aesthetic addition to Item tooltips so you feel fancier"
+id = "legendary-tooltips"
+
+  [[flavor_groups.legendary-tooltips.choices]]
+  name = "On"
+  id = "legendary-tooltips_on"
+
+  [[flavor_groups.legendary-tooltips.choices]]
+  name = "Off"
+  id = "legendary-tooltips_off"
+
+[flavor_groups.log-begone]
+name = "Log Begone"
+description = "Instance log organizer"
+id = "log-begone"
+
+  [[flavor_groups.log-begone.choices]]
+  name = "On"
+  id = "log-begone_on"
+
+  [[flavor_groups.log-begone.choices]]
+  name = "Off"
+  id = "log-begone_off"
+
+[flavor_groups.status]
+name = "Status"
+description = "so everyone knows if you wanna collab when streaming (or just wanna be left alone)"
+id = "status"
+
+  [[flavor_groups.status.choices]]
+  name = "On"
+  id = "status_on"
+
+  [[flavor_groups.status.choices]]
+  name = "Off"
+  id = "status_off"
+
+[flavor_groups.bedrockwaters]
+name = "BedrockWaters"
+description = "Aesthetic mod that adds more varied water colours, much like in bedrock edition"
+id = "bedrockwaters"
+
+  [[flavor_groups.bedrockwaters.choices]]
+  name = "On"
+  id = "bedrockwaters_on"
+
+  [[flavor_groups.bedrockwaters.choices]]
+  name = "Off"
+  id = "bedrockwaters_off"
+
+[flavor_groups.status-effect-bars]
+name = "Status Effect Bars"
+description = "Aesthetic minimalistic bars for potion effects"
+id = "status-effect-bars"
+
+  [[flavor_groups.status-effect-bars.choices]]
+  name = "On"
+  id = "status-effect-bars_on"
+
+  [[flavor_groups.status-effect-bars.choices]]
+  name = "Off"
+  id = "status-effect-bars_off"
+
+[flavor_groups.carpet-fixes]
+name = "Carpet-Fixes"
+description = "bug fixing tool for the server. don't mess around with it unless you know what you are doing"
+id = "carpet-fixes"
+
+  [[flavor_groups.carpet-fixes.choices]]
+  name = "On"
+  id = "carpet-fixes_on"
+
+  [[flavor_groups.carpet-fixes.choices]]
+  name = "Off"
+  id = "carpet-fixes_off"
+
+[flavor_groups.libipn]
+name = "libIPN"
+description = "Library for specific mods"
+id = "libipn"
+
+  [[flavor_groups.libipn.choices]]
+  name = "On"
+  id = "libipn_on"
+
+  [[flavor_groups.libipn.choices]]
+  name = "Off"
+  id = "libipn_off"
+
+[flavor_groups.libre-exp-fix]
+name = "LibreExpFix"
+description = "Fixes experience bugs regarding teleportation"
+id = "libre-exp-fix"
+
+  [[flavor_groups.libre-exp-fix.choices]]
+  name = "On"
+  id = "libre-exp-fix_on"
+
+  [[flavor_groups.libre-exp-fix.choices]]
+  name = "Off"
+  id = "libre-exp-fix_off"
+
+[flavor_groups.modmenu]
+name = "Mod Menu"
+description = "a mod menu so you can config stuff to your liking"
+id = "modmenu"
+
+  [[flavor_groups.modmenu.choices]]
+  name = "On"
+  id = "modmenu_on"
+
+  [[flavor_groups.modmenu.choices]]
+  name = "Off"
+  id = "modmenu_off"
+
+[flavor_groups.sodium-extra]
+name = "Sodium Extra"
+description = "Even more sodium options"
+id = "sodium-extra"
+
+  [[flavor_groups.sodium-extra.choices]]
+  name = "On"
+  id = "sodium-extra_on"
+
+  [[flavor_groups.sodium-extra.choices]]
+  name = "Off"
+  id = "sodium-extra_off"
+
+[flavor_groups.itemswapper]
+name = "ItemSwapper"
+description = "Swap items for Their similar counterparts in your inventory"
+id = "itemswapper"
+
+  [[flavor_groups.itemswapper.choices]]
+  name = "On"
+  id = "itemswapper_on"
+
+  [[flavor_groups.itemswapper.choices]]
+  name = "Off"
+  id = "itemswapper_off"
+
+[flavor_groups.microdurability]
+name = "microDurability"
+description = "A minimalistic aesthetic way of knowing your armor durability"
+id = "microdurability"
+
+  [[flavor_groups.microdurability.choices]]
+  name = "On"
+  id = "microdurability_on"
+
+  [[flavor_groups.microdurability.choices]]
+  name = "Off"
+  id = "microdurability_off"
+
+[flavor_groups.reeses-sodium-options]
+name = "Reese's Sodium Options"
+description = "Better UI for sodium"
+id = "reeses-sodium-options"
+
+  [[flavor_groups.reeses-sodium-options.choices]]
+  name = "On"
+  id = "reeses-sodium-options_on"
+
+  [[flavor_groups.reeses-sodium-options.choices]]
+  name = "Off"
+  id = "reeses-sodium-options_off"
+
+[flavor_groups.crops-love-rain]
+name = "Crops Love Rain"
+description = "Crops grow faster when its raining"
+id = "crops-love-rain"
+
+  [[flavor_groups.crops-love-rain.choices]]
+  name = "On"
+  id = "crops-love-rain_on"
+
+  [[flavor_groups.crops-love-rain.choices]]
+  name = "Off"
+  id = "crops-love-rain_off"
+
+[flavor_groups.ferrite-core]
+name = "FerriteCore"
+description = "performance mod"
+id = "ferrite-core"
+
+  [[flavor_groups.ferrite-core.choices]]
+  name = "On"
+  id = "ferrite-core_on"
+
+  [[flavor_groups.ferrite-core.choices]]
+  name = "Off"
+  id = "ferrite-core_off"
+
+[flavor_groups.servercore]
+name = "ServerCore"
+description = "Server performance and config mod. don't mess around with it unless you know what you are doing"
+id = "servercore"
+
+  [[flavor_groups.servercore.choices]]
+  name = "On"
+  id = "servercore_on"
+
+  [[flavor_groups.servercore.choices]]
+  name = "Off"
+  id = "servercore_off"
+
+[flavor_groups.spark]
+name = "spark"
+description = "performance analysis and debugging mod"
+id = "spark"
+
+  [[flavor_groups.spark.choices]]
+  name = "On"
+  id = "spark_on"
+
+  [[flavor_groups.spark.choices]]
+  name = "Off"
+  id = "spark_off"
+
+[flavor_groups.charmonium]
+name = "Charmonium"
+description = "Aesthetic mod that adds new ambience noises"
+id = "charmonium"
+
+  [[flavor_groups.charmonium.choices]]
+  name = "On"
+  id = "charmonium_on"
+
+  [[flavor_groups.charmonium.choices]]
+  name = "Off"
+  id = "charmonium_off"
+
+[flavor_groups.fabric-language-kotlin]
+name = "Fabric Language Kotlin"
+description = "kotlin language library for modbuilding. Essencial dependency of some kotlin based mods"
+id = "fabric-language-kotlin"
+
+  [[flavor_groups.fabric-language-kotlin.choices]]
+  name = "On"
+  id = "fabric-language-kotlin_on"
+
+  [[flavor_groups.fabric-language-kotlin.choices]]
+  name = "Off"
+  id = "fabric-language-kotlin_off"
+
+[flavor_groups.iceberg]
+name = "Iceberg"
+description = "library. Essencial dependency for some mods"
+id = "iceberg"
+
+  [[flavor_groups.iceberg.choices]]
+  name = "On"
+  id = "iceberg_on"
+
+  [[flavor_groups.iceberg.choices]]
+  name = "Off"
+  id = "iceberg_off"
+
+[flavor_groups.advancements-debug]
+name = "Advancements Debug"
+description = "fixes bugs regarding the Advancement system"
+id = "advancements-debug"
+
+  [[flavor_groups.advancements-debug.choices]]
+  name = "On"
+  id = "advancements-debug_on"
+
+  [[flavor_groups.advancements-debug.choices]]
+  name = "Off"
+  id = "advancements-debug_off"
+
+[flavor_groups.lambdynamiclights]
+name = "LambDynamicLights"
+description = "dynamic lights for a fancy time"
+id = "lambdynamiclights"
+
+  [[flavor_groups.lambdynamiclights.choices]]
+  name = "On"
+  id = "lambdynamiclights_on"
+
+  [[flavor_groups.lambdynamiclights.choices]]
+  name = "Off"
+  id = "lambdynamiclights_off"
+
+[flavor_groups.roughly-enough-professions-rep]
+name = "Roughly Enough Professions (REP)"
+description = "to better know how to enslave villagers"
+id = "roughly-enough-professions-rep"
+
+  [[flavor_groups.roughly-enough-professions-rep.choices]]
+  name = "On"
+  id = "roughly-enough-professions-rep_on"
+
+  [[flavor_groups.roughly-enough-professions-rep.choices]]
+  name = "Off"
+  id = "roughly-enough-professions-rep_off"
+
+[flavor_groups.reacharound]
+name = "Reacharound"
+description = "Put blocks in weird ways you normally couldn't"
+id = "reacharound"
+
+  [[flavor_groups.reacharound.choices]]
+  name = "On"
+  id = "reacharound_on"
+
+  [[flavor_groups.reacharound.choices]]
+  name = "Off"
+  id = "reacharound_off"
+
+[flavor_groups.amecs]
+name = "Amecs"
+description = "Allows for more complex keybind configurations"
+id = "amecs"
+
+  [[flavor_groups.amecs.choices]]
+  name = "On"
+  id = "amecs_on"
+
+  [[flavor_groups.amecs.choices]]
+  name = "Off"
+  id = "amecs_off"
+
+[flavor_groups.borderless-mining]
+name = "Borderless Mining"
+description = "More options for the fullscreen mode"
+id = "borderless-mining"
+
+  [[flavor_groups.borderless-mining.choices]]
+  name = "On"
+  id = "borderless-mining_on"
+
+  [[flavor_groups.borderless-mining.choices]]
+  name = "Off"
+  id = "borderless-mining_off"
+
+[flavor_groups.entityculling]
+name = "EntityCulling"
+description = "Only entities in the field of view get rendered"
+id = "entityculling"
+
+  [[flavor_groups.entityculling.choices]]
+  name = "On"
+  id = "entityculling_on"
+
+  [[flavor_groups.entityculling.choices]]
+  name = "Off"
+  id = "entityculling_off"
+
+[flavor_groups.freecam]
+name = "Freecam (Modrinth Edition)"
+description = "fly around in freecam to see how's your building going"
+id = "freecam"
+
+  [[flavor_groups.freecam.choices]]
+  name = "On"
+  id = "freecam_on"
+
+  [[flavor_groups.freecam.choices]]
+  name = "Off"
+  id = "freecam_off"
+
+[flavor_groups.forgetmechunk]
+name = "ForgetMeChunk"
+description = "performance mod for better chunk managing"
+id = "forgetmechunk"
+
+  [[flavor_groups.forgetmechunk.choices]]
+  name = "On"
+  id = "forgetmechunk_on"
+
+  [[flavor_groups.forgetmechunk.choices]]
+  name = "Off"
+  id = "forgetmechunk_off"
+
+[flavor_groups.hotbarcycle]
+name = "HotbarCycle"
+description = "cycle your hotbar like stardew valley!"
+id = "hotbarcycle"
+
+  [[flavor_groups.hotbarcycle.choices]]
+  name = "On"
+  id = "hotbarcycle_on"
+
+  [[flavor_groups.hotbarcycle.choices]]
+  name = "Off"
+  id = "hotbarcycle_off"
+
+[flavor_groups.moreculling]
+name = "More Culling"
+description = "Even more culling for better performance (and Aesthetics)."
+id = "moreculling"
+
+  [[flavor_groups.moreculling.choices]]
+  name = "On"
+  id = "moreculling_on"
+
+  [[flavor_groups.moreculling.choices]]
+  name = "Off"
+  id = "moreculling_off"
+
+[flavor_groups.indium]
+name = "Indium"
+description = "stuff so sodium works well with other mods, such as create"
+id = "indium"
+
+  [[flavor_groups.indium.choices]]
+  name = "On"
+  id = "indium_on"
+
+  [[flavor_groups.indium.choices]]
+  name = "Off"
+  id = "indium_off"
+
+[flavor_groups.appleskin]
+name = "AppleSkin"
+description = "Adds extra information about food items"
+id = "appleskin"
+
+  [[flavor_groups.appleskin.choices]]
+  name = "On"
+  id = "appleskin_on"
+
+  [[flavor_groups.appleskin.choices]]
+  name = "Off"
+  id = "appleskin_off"
+
+[flavor_groups.dimthread]
+name = "Dimensional Threading"
+description = "multithreading dimensions for performance reasons"
+id = "dimthread"
+
+  [[flavor_groups.dimthread.choices]]
+  name = "On"
+  id = "dimthread_on"
+
+  [[flavor_groups.dimthread.choices]]
+  name = "Off"
+  id = "dimthread_off"
+
+[flavor_groups.visuality]
+name = "Visuality"
+description = "new particles to liven up your game"
+id = "visuality"
+
+  [[flavor_groups.visuality.choices]]
+  name = "On"
+  id = "visuality_on"
+
+  [[flavor_groups.visuality.choices]]
+  name = "Off"
+  id = "visuality_off"
+
+[flavor_groups.wdmgslt]
+name = "Why Does My Glass Sound Like That"
+description = "now you don't have glass break sounds whenever breaking glass with silk touch"
+id = "wdmgslt"
+
+  [[flavor_groups.wdmgslt.choices]]
+  name = "On"
+  id = "wdmgslt_on"
+
+  [[flavor_groups.wdmgslt.choices]]
+  name = "Off"
+  id = "wdmgslt_off"
+
+[flavor_groups.cloth-config]
+name = "Cloth Config API"
+description = "technical config and debug mod for the server. don't mess with unless you know what you're doing"
+id = "cloth-config"
+
+  [[flavor_groups.cloth-config.choices]]
+  name = "On"
+  id = "cloth-config_on"
+
+  [[flavor_groups.cloth-config.choices]]
+  name = "Off"
+  id = "cloth-config_off"
+
+[flavor_groups.krypton]
+name = "Krypton"
+description = "better networking for the server"
+id = "krypton"
+
+  [[flavor_groups.krypton.choices]]
+  name = "On"
+  id = "krypton_on"
+
+  [[flavor_groups.krypton.choices]]
+  name = "Off"
+  id = "krypton_off"
+
+[flavor_groups.better-enchanted-books]
+name = "Better Enchanted Books"
+description = "Aesthetic mod that makes Enchanted books more discernible"
+id = "better-enchanted-books"
+
+  [[flavor_groups.better-enchanted-books.choices]]
+  name = "On"
+  id = "better-enchanted-books_on"
+
+  [[flavor_groups.better-enchanted-books.choices]]
+  name = "Off"
+  id = "better-enchanted-books_off"
+
+[flavor_groups.mixintrace]
+name = "MixinTrace"
+description = "traces mixin errors for better debugging"
+id = "mixintrace"
+
+  [[flavor_groups.mixintrace.choices]]
+  name = "On"
+  id = "mixintrace_on"
+
+  [[flavor_groups.mixintrace.choices]]
+  name = "Off"
+  id = "mixintrace_off"
