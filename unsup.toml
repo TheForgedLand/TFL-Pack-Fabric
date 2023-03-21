@@ -1,5 +1,5 @@
 [[flavor_groups.legendary_tooltips]]
-name = "legendary tooltips"
+name = "Legendary Tooltips"
 description = "The legendary tooltips mod is a simple aesthetic mod that makes tooltips of special items stand out more"
 side = "client"
 choices = ["legendary_tooltips_on", "legendary_tooltips_off"]
