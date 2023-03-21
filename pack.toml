@@ -3,6 +3,7 @@ author = "Alice C"
 version = "1.2.1"
 description = "A special modpack made for TheForgedLand SMP"
 pack-format = "packwiz:1.1.0"
+unsup = "0.2.0"
 
 [index]
 file = "index.toml"
