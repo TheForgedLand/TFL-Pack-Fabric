@@ -1,0 +1,10 @@
+[[flavour_groups.legendary_tooltips]]
+name = "legendary tooltips"
+description = "The legendary tooltips mod is a simple aesthetic mod that makes tooltips of special items stand out more"
+side = "client
+choices = ["legendary_tooltips_on", "legendary_tooltips_off"]
+
+[metafile.legendary-tooltips]
+flavors = "legendary_tooltips_on"
+[metafile.prism-lib]
+flavors = "legendary_tooltips_on"
