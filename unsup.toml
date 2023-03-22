@@ -28,6 +28,10 @@ choices = ["sodium_on", "sodium_off"]
 flavors = "ui-aesthetics_on"
 [metafile.prism-lib]
 flavors = "ui-aesthetics_on"
+[metafile.advancement-plaques]
+flavors = "ui-aesthetics_on"
+[metafile.iceberg]
+flavors = "ui-aesthetics_on"
 
 [metafile.roughly-enough-items]
 flavors = "rei_on"
