@@ -4,19 +4,25 @@ description = "The legendary tooltips mod is a simple aesthetic mod that makes t
 side = "client"
 choices = ["legendary_tooltips_on", "legendary_tooltips_off"]
 
-[metafile.legendary-tooltips]
-flavors = "legendary_tooltips_on"
-[metafile.prism-lib]
-flavors = "legendary_tooltips_on"
-
-#let's see if this works out
-
 [flavor_groups.rei]
 name = "REI"
 description = "Roughly Enough items (and its addons) will be Essential on your journey through Create and Farmer's Delight, allowing you to search for recipes of any item within the modpack!"
 side = "both"
 choices = ["rei_on","rei_off"]
 
+[flavor_groups.ipn]
+name = "IPN Sorter"
+description = "with Inventory profiles Next, you will be able to quickly sort your inventory with a click of a button! not only that, but there are plenty of other features available in its configs if you are willing to try them out"
+side = "client"
+choices = ["ipn_on", "ipn_off"]
+
+
+
+
+[metafile.legendary-tooltips]
+flavors = "legendary_tooltips_on"
+[metafile.prism-lib]
+flavors = "legendary_tooltips_on"
 [metafile.roughly-enough-items]
 flavors = "rei_on"
 [metafile.roughly-enough-loot-tables]
@@ -28,12 +34,4 @@ flavors = "rei_on"
 [metafile.roughly-enough-trades]
 flavors = "rei_on"
 [metafile.fabric-language-kotlin]
-flavors = "rei_on"
-
-#===================
-
-[flavor_groups.ipn]
-name = "IPN Sorter"
-description = "with Inventory profiles Next, you will be able to quickly sort your inventory with a click of a button! not only that, but there are plenty of other features available in its configs if you are willing to try them out"
-side = "client"
-choices = ["ipn_on", "ipn_off"]
+flavors = ["rei_on","ipn_on"]
