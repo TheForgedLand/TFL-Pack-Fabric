@@ -9,4 +9,5 @@
 .history
 .vscode
 .unsup-state.json
+unsup.ini
 unsup.toml
