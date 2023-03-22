@@ -1,8 +1,8 @@
-[flavor_groups.legendary_tooltips]
-name = "Legendary Tooltips"
+[flavor_groups.ui-aesthetics]
+name = "UI Aesthetics"
 description = "The legendary tooltips mod is a simple aesthetic mod that makes tooltips of special items stand out more"
 side = "client"
-choices = ["legendary_tooltips_on", "legendary_tooltips_off"]
+choices = ["ui-aesthetics_on", "ui-aesthetics_off"]
 
 [flavor_groups.rei]
 name = "REI"
@@ -25,9 +25,9 @@ choices = ["sodium_on", "sodium_off"]
 
 
 [metafile.legendary-tooltips]
-flavors = "legendary_tooltips_on"
+flavors = "ui-aesthetics_on"
 [metafile.prism-lib]
-flavors = "legendary_tooltips_on"
+flavors = "ui-aesthetics_on"
 
 [metafile.roughly-enough-items]
 flavors = "rei_on"
