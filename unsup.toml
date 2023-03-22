@@ -32,7 +32,8 @@ flavors = "rei_on"
 
 #===================
 
-[flavor_groups.inventory-profiles-next]
+[flavor_groups.ipn]
 name = "IPN Sorter"
 description = "with Inventory profiles Next, you will be able to quickly sort your inventory with a click of a button! not only that, but there are plenty of other features available in its configs if you are willing to try them out"
-side
+side = "client"
+choices = ["ipn_on", "ipn_off"]
