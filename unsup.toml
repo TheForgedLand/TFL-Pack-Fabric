@@ -33,5 +33,7 @@ flavors = "rei_on"
 flavors = "rei_on"
 [metafile.roughly-enough-trades]
 flavors = "rei_on"
+[metafile.inventory-profiles-next]
+flavors = "ipn_on"
 [metafile.fabric-language-kotlin]
 flavors = ["rei_on","ipn_on"]
