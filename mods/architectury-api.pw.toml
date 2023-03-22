@@ -13,6 +13,6 @@ file-id = 4384405
 project-id = 419699
 
 [option]
-optional = false
+optional = true
 default = true
 description = "Mod Library for Forge/Fabric cross compatibility. required by some mods"
