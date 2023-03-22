@@ -46,7 +46,6 @@ flavors = ["gui-tools_on","server_mods_on"]
 
 [metafile.appleskin]
 flavors = ["gui-tools_on","server_mods_on"]
-[metafile.]
 
 [metafile.inventory-profiles-next]
 flavors = "gui-tools_on"
