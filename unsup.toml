@@ -29,3 +29,9 @@ flavors = "rei_on"
 flavors = "rei_on"
 [metafile.fabric-language-kotlin]
 flavors = "rei_on"
+
+#===================
+
+[flavor_groups.inventory-profiles-next]
+name = "Inventory Sorter"
+description = "with Inventory profiles Next, you will be able to quickly sort your inventory with a click of a button! not only that, but there are plenty of other features available in its configs if you are willing to try them out"
