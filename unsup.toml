@@ -16,6 +16,11 @@ description = "with Inventory profiles Next, you will be able to quickly sort yo
 side = "client"
 choices = ["ipn_on", "ipn_off"]
 
+[flavor_groups.sodium]
+name = "Sodium"
+description = "Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues. It boasts wide compatibility with the Fabric mod ecosystem when compared to other mods, and it does so without compromising on how the game looks, giving you that authentic block game feel"
+side = "client"
+choices = ["sodium_on", "sodium_off"]
 
 
 
@@ -23,6 +28,7 @@ choices = ["ipn_on", "ipn_off"]
 flavors = "legendary_tooltips_on"
 [metafile.prism-lib]
 flavors = "legendary_tooltips_on"
+
 [metafile.roughly-enough-items]
 flavors = "rei_on"
 [metafile.roughly-enough-loot-tables]
@@ -33,9 +39,20 @@ flavors = "rei_on"
 flavors = "rei_on"
 [metafile.roughly-enough-trades]
 flavors = "rei_on"
+
 [metafile.inventory-profiles-next]
 flavors = "ipn_on"
 [metafile.libipn]
 flavors = "ipn_on"
+
 [metafile.fabric-language-kotlin]
 flavors = ["rei_on","ipn_on"]
+
+[metafile.sodium]
+flavors = "sodium_on"
+[metafile.sodium-extra]
+flavors = "sodium_on"
+[metafile.reeses-sodium-options]
+flavors = "sodium_on"
+[metafile.indium]
+flavors = "sodium_on"
