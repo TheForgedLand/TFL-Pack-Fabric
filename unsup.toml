@@ -8,3 +8,22 @@ choices = ["legendary_tooltips_on", "legendary_tooltips_off"]
 flavors = "legendary_tooltips_on"
 [metafile.prism-lib]
 flavors = "legendary_tooltips_on"
+
+[flavor_groups.rei]
+name = "REI"
+description = "Roughly Enough items (and its addons) will be Essential on your journey through Create and Farmer's Delight, allowing you to search for recipes of any item within the modpack!"
+side = "both"
+choices = ["rei_on","rei_off"]
+
+[metafile.roughly-enough-items]
+flavors = "rei_on"
+[metafile.roughly-enough-loot-tables]
+flavors = "rei_on"
+[metafile.roughly-enough-professions-rep]
+flavors = "rei_on"
+[metafile.roughly-enough-resources]
+flavors = "rei_on"
+[metafile.roughly-enough-trades]
+flavors = "rei_on"
+[metafile.fabric-language-kotlin]
+flavors = "rei_on"
