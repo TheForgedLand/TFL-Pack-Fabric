@@ -834,7 +834,3 @@ preserve = true
 file = "unsup-0.2.0-pre3.jar"
 hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
 alias = "unsup.jar"
-
-[[files]]
-file = "unsup.ini"
-hash = "4ea53f815fe1dfd62fd6ccf4e5cf81fb636414244e8488df1ed45fc6ac027f53"
