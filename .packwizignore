@@ -11,3 +11,5 @@
 .unsup-state.json
 unsup.ini
 unsup.toml
+flavors.yaml
+update-flavors.py

@@ -1,63 +1,279 @@
 [flavor_groups.server]
 side = "server"
-choices = ["server_mods_on", "server_mods_off"]
+choices = [ "server_on", "server_off",]
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
 description = "These aesthetic mods will add small aesthetic tweaks to your game"
 side = "client"
-choices = ["ui-aesthetics_on", "ui-aesthetics_off"]
+choices = [ "ui-aesthetics_on", "ui-aesthetics_off",]
 
-[flavor_groups.gui-tools]
-name = "GUI Tools"
-description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight"
+[flavor_groups.ui-tools]
+name = "Interface-tools-tools"
+description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight! \n amongst those tools, you will find:<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</ul>"
 side = "client"
-choices = ["gui-tools_on", "gui-tools_off"]
+choices = [ "ui-tools_on", "ui-tools_off",]
 
 [flavor_groups.sodium]
 name = "Sodium"
 description = "Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues. It boasts wide compatibility with the Fabric mod ecosystem when compared to other mods, and it does so without compromising on how the game looks, giving you that authentic block game feel"
 side = "client"
-choices = ["sodium_on", "sodium_off"]
+choices = [ "sodium_on", "sodium_off",]
 
+[flavor_groups.performance]
+name = "performance"
+description = ""
+side = "both"
+choices = [ "performance_on", "performance_off",]
 
+[flavor_groups.extra]
+name = "Extra!"
+description = ""
+side = "client"
+choices = [ "extra_on", "extra_off",]
 
-[metafile.legendary-tooltips]
-flavors = "ui-aesthetics_on"
-[metafile.prism-lib]
-flavors = "ui-aesthetics_on"
+[flavor_groups.immersion]
+name = "Immersion!"
+description = ""
+side = "client"
+choices = [ "immersion_on", "immersion_off",]
+
+[flavor_groups.bug-fixes]
+name = "Bugfixes!"
+description = ""
+side = "both"
+choices = [ "bug-fixes_on", "bug-fixes_off",]
+
 [metafile.advancement-plaques]
-flavors = "ui-aesthetics_on"
-[metafile.iceberg]
-flavors = "ui-aesthetics_on"
+flavors = [ "ui-aesthetics_on",]
 
-[metafile.roughly-enough-items]
-flavors = ["gui-tools_on","server_mods_on"]
-[metafile.roughly-enough-loot-tables]
-flavors = ["gui-tools_on","server_mods_on"]
-[metafile.roughly-enough-professions-rep]
-flavors = ["gui-tools_on","server_mods_on"]
-[metafile.roughly-enough-resources]
-flavors = ["gui-tools_on","server_mods_on"]
-[metafile.roughly-enough-trades]
-flavors = ["gui-tools_on","server_mods_on"]
-[metafile.fabric-language-kotlin]
-flavors = ["gui-tools_on","server_mods_on"]
+[metafile.advancements-debug]
+flavors = [ "bug-fixes_on",]
+
+[metafile.alternate-current]
+flavors = [ "server_online",]
+
+[metafile.amecs]
+flavors = [ "ui-tools_on",]
 
 [metafile.appleskin]
-flavors = ["gui-tools_on","server_mods_on"]
+flavors = [ "ui-tools_on",]
+
+[metafile.architectury-api]
+flavors = [ "ui-tools_on",]
+
+[metafile.bedrockwaters]
+flavors = [ "immersion_on",]
+
+[metafile.better-enchanted-books]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.block_limit_fix]
+flavors = [ "bug-fixes_on",]
+
+[metafile.borderless-mining]
+flavors = [ "ui-tools_on",]
+
+[metafile.camera-utils]
+flavors = [ "ui-tools_on",]
+
+[metafile.carpet-fixes]
+flavors = [ "server_on",]
+
+[metafile.carpet]
+flavors = [ "server_on",]
+
+[metafile.charmonium]
+flavors = [ "immersion_on",]
+
+[metafile.chatcalc]
+flavors = [ "extra_on",]
+
+[metafile.clearnetherrack]
+flavors = [ "server_on",]
+
+[metafile.clickthrough]
+flavors = [ "extra_on",]
+
+[metafile.cloth-config]
+flavors = [ "server_on",]
+
+[metafile.clumps]
+flavors = [ "performance_on",]
+
+[metafile.crops-love-rain]
+flavors = [ "server_on",]
+
+[metafile.dynamiccrosshair]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.dynamiccrosshaircompat]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.entityculling]
+flavors = [ "performance_on",]
+
+[metafile.fabric-language-kotlin]
+flavors = [ "ui-tools_on",]
+
+[metafile.fast-portals]
+flavors = [ "server_on",]
+
+[metafile.ferrite-core]
+flavors = [ "performance_on",]
+
+[metafile.forgetmechunk]
+flavors = [ "performance_on",]
+
+[metafile.freecam]
+flavors = [ "extra_on",]
+
+[metafile.gotta-go-fast-fabric]
+flavors = [ "bug-fixes_on",]
+
+[metafile.hotbarcycle]
+flavors = [ "extra_on",]
+
+[metafile.iceberg]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.indium]
+flavors = [ "sodium_on",]
+
+[metafile.interactic]
+flavors = [ "immersion_on",]
 
 [metafile.inventory-profiles-next]
-flavors = "gui-tools_on"
-[metafile.libgui-tools]
-flavors = "gui-tools_on"
+flavors = [ "ui-tools_on",]
 
+[metafile.invmove]
+flavors = [ "extra_on",]
+
+[metafile.itemswapper]
+flavors = [ "extra_on", "server_on",]
+
+[metafile.krypton]
+flavors = [ "server_on",]
+
+[metafile.lambdabettergrass]
+flavors = [ "immersion_on",]
+
+[metafile.lambdynamiclights]
+flavors = [ "immersion_on",]
+
+[metafile.lazydfu]
+flavors = [ "performance_on",]
+
+[metafile.ledger]
+flavors = [ "server_on",]
+
+[metafile.legendary-tooltips]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.libipn]
+flavors = [ "ui-tools_on",]
+
+[metafile.libre-exp-fix]
+flavors = [ "bug-fixes_on",]
+
+[metafile.lithium]
+flavors = [ "performance_on",]
+
+[metafile.log-begone]
+flavors = [ "server_on",]
+
+[metafile.memoryleakfix]
+flavors = [ "bug-fixes_on",]
+
+[metafile.microdurability]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.mixintrace]
+flavors = [ "server_on", "debug_on",]
+
+[metafile.modmenu]
+flavors = [ "ui-tools_on",]
+
+[metafile.moreculling]
+flavors = [ "performance_on", "immersion_on",]
+
+[metafile.morecullingextra]
+flavors = [ "performance_on", "immersion_on",]
+
+[metafile.prism-lib]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.reacharound]
+flavors = [ "extra_on",]
+
+[metafile.reeses-sodium-options]
+flavors = [ "sodium_on",]
+
+[metafile.roughly-enough-items]
+flavors = [ "ui-tools_on",]
+
+[metafile.roughly-enough-loot-tables]
+flavors = [ "ui-tools_on",]
+
+[metafile.roughly-enough-professions-rep]
+flavors = [ "ui-tools_on",]
+
+[metafile.roughly-enough-resources]
+flavors = [ "ui-tools_on",]
+
+[metafile.roughly-enough-trades]
+flavors = [ "ui-tools_on",]
+
+[metafile.servercore]
+flavors = [ "server_on",]
+
+[metafile.sessility]
+flavors = [ "server_on",]
+
+[metafile.show-me-your-skin]
+flavors = [ "extra_on",]
+
+[metafile.smoothboot-fabric]
+flavors = [ "performance_on",]
+
+[metafile.sodium-extra]
+flavors = [ "sodium_on",]
 
 [metafile.sodium]
-flavors = "sodium_on"
-[metafile.sodium-extra]
-flavors = "sodium_on"
-[metafile.reeses-sodium-options]
-flavors = "sodium_on"
-[metafile.indium]
-flavors = "sodium_on"
+flavors = [ "sodium_on",]
+
+[metafile.spark]
+flavors = [ "server_on", "debug_on",]
+
+[metafile.starlight]
+flavors = [ "performance_on",]
+
+[metafile.status-effect-bars]
+flavors = [ "ui-aesthetics_on",]
+
+[metafile.stepup]
+flavors = [ "extra_on",]
+
+[metafile.timeoutout]
+flavors = [ "bug-fixes_on",]
+
+[metafile.too-many-binds]
+flavors = [ "ui-tools_on",]
+
+[metafile.tooltipfix]
+flavors = [ "bug-fixes_on",]
+
+[metafile.view-distance-fix]
+flavors = [ "bug-fixes_on",]
+
+[metafile.visuality]
+flavors = [ "immersion_on",]
+
+[metafile.wdmgslt]
+flavors = [ "immersion_on",]
+
+[metafile.xaeros-world-map]
+flavors = [ "extra_on",]
+
+[metafile.xl-packets-fabric]
+flavors = [ "server_on",]

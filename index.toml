@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/status.pw.toml"
-hash = "675c30e5a250d9ee42148077c62b2afaa1ff0d5a2cae2ec9d5aa14f48525aeb5"
+hash = "45d6c52a5b6701c2f76f9c92ae4afb572b7f67066d7c27d11b75724b3c38cb8f"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "246e27f0b7e123adf9184beabeb29387f2262208ee70efa6cd9ecb6d591cd999"
+hash = "397d6446f9307df516f6a6a792aac9e7bc871791d80005c8301033740894250b"
 metafile = true
 
 [[files]]

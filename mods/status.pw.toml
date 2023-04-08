@@ -13,6 +13,6 @@ mod-id = "b93awgkg"
 version = "PlroDSu5"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "so everyone knows if you wanna collab when streaming (or just wanna be left alone)"

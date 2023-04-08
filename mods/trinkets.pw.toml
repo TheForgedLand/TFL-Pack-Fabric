@@ -13,6 +13,6 @@ mod-id = "5aaWibi9"
 version = "OLwsMJv4"
 
 [option]
-optional = true
+optional = false
 default = true
 description = "trinkets so you can put fancy glasses and bags with armor"
