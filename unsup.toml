@@ -1,5 +1,7 @@
 [flavor_groups.server]
 side = "server"
+name = "server"
+description = ""
 choices = [ "server_on", "server_off",]
 
 [flavor_groups.ui-aesthetics]
