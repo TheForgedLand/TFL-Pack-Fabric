@@ -1,18 +1,18 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.19.2-2.3.28.jar"
+filename = "voicechat-fabric-1.19.2-2.4.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/rpBFgFO1/voicechat-fabric-1.19.2-2.3.28.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/RObPBOyE/voicechat-fabric-1.19.2-2.4.3.jar"
 hash-format = "sha1"
-hash = "5149dbaf7e5494526e9e45b5dc7e5a0bd8683a37"
+hash = "8a95d2d93c1ebb5961198f99745b971cfb11680d"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "rpBFgFO1"
+version = "RObPBOyE"
 
 [option]
-optional = true
-default = true
+optional = false
 description = "proximity voice chat and groups for you to hang out with friends"
+default = true

@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "49c91ab2d0dcca918dff2082f47639321c45fd1034b08c89e1e88a7010ee91c1"
+hash = "1ec2e1ea07ba06cf072dc100c59b5cf607f5bf08bf5d412d5f193d4f7face9af"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "71591cfbdb895d7e0a8697a32933007e606473376c4f6c156e5c2090dce20131"
+hash = "94050b8926c64245153d127fe79af4bd89a60e6325958104c331b0bc706b3d98"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "4255e11e8ef5cd812ce71951cd98129d0162d64aea90e5310756c4f1e7059afc"
+hash = "a175900369696dad556a3c9f4a970d6a3f3aa960c04eb759841ecf820865e009"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "d4c646a60ca0917bc46abfe1dd973852df0c845986f223f18bc6e7a06f090614"
+hash = "b5afcf95e52a7e0cffbc22294ce01b65ba459f659e8f91256ff51d11f2abdc31"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c355c891ebf3f7ef6e79ceed06af374b8c941a1ca3070167a331d8a5e387a2ea"
+hash = "e534960c474cb40e9300e8d0cad3f272a5d5e4f5de2026fe666d38a2480803a0"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-portals.pw.toml"
-hash = "56c1e342db75483d56b77aa8545aabaa0a5be22441686628e2bdf3c3759e782c"
+hash = "9940b812e957ebd8f89ee7c65dfaa7013f0c64b312232ede29fb7ccb3e83bde0"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "29b2b8cb59f21681de6adae96ec97fd7ade35e4eaa1f161cf95a40f3725acf65"
+hash = "b93a99881c2929e6d735a0cfa2f95833e51cd633ebc4b3684a0a78eade4606cf"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "748ca9d7221cbba7ae23af285a25148a214975c80d2f1c23e423f23043cfae8c"
+hash = "743746a509c70d989fbd750074f8b04c5c9aad97f809d29eda151e7b7a474b1e"
 metafile = true
 
 [[files]]
@@ -607,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "389c6e7c821f3eb226b71a3367f7f2b9f0d2e10139e0da7ac4b9a57c9e377721"
+hash = "308f635ee6db7a6c038e465d28f6a6379a10f20e1283d33d5fb56192138ddaa7"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "71c1ae13032e5bcfe401d444fc7fde6edc1afbedd14d48a2e48a16ab8f8e37c1"
+hash = "023970ed52e087540b1ec3e937149d3a63733a1b4b42dcd632dc9b490d25deab"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "758629400c551f69315333b6b506b1b4e4d33559076e925df8757edfd3c558df"
+hash = "057d25912931a5a6f78da7c6e1807d5d767c425f6837a35b59e8f762af517e85"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "03aac5b820b74fba183e4d51dc9d160911259ad9a10e063923a76108ed93aa46"
+hash = "33a15d5c5e4800372415d905d11d9313c9beb829fb28c55fb052095f43ec8d63"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "59cca88f93abe618d558b751ec6350a01c340791098e1534d661909f672657ba"
+hash = "60928fc215a5cf6985642de215862d30c83544abd7e7a613998a59494aa47071"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d2b41e9e2453ad2aed65c2810053850fe9caec01b6c242cdc7b652a37790c04b"
+hash = "1aed76609eed182882563bfe4556c254afabb4ac9161fc71754dd83da50147d6"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1af223e9c4a30c66f4fcd26b2c5b9635b8461f23849442a0c7d15535431b31eb"
+hash = "afc0b68b3d4ae0b41db32fdd33fb13baedbb0a2e2bdb387206d5f802058b0496"
 metafile = true
 
 [[files]]

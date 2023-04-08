@@ -1,16 +1,16 @@
 name = "Dynamic Crosshair Compat"
-filename = "dynamiccrosshair-compat-3.2+1.19.2.jar"
+filename = "dynamiccrosshair-compat-3.2.1+1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EwPIWPJ9/versions/vxkYdxr1/dynamiccrosshair-compat-3.2%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/EwPIWPJ9/versions/E4z0Mpe1/dynamiccrosshair-compat-3.2.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "5ed839c3a056eb6c3ae0277e79bec9f6fecdce57"
+hash = "eed4ba12c0a826b9e44174f1544ab6e39d01cb30"
 
 [update]
 [update.modrinth]
 mod-id = "EwPIWPJ9"
-version = "vxkYdxr1"
+version = "E4z0Mpe1"
 
 [option]
 optional = true
