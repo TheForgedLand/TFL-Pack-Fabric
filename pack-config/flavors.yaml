@@ -28,7 +28,7 @@ forgetmechunk: performance_on
 freecam: extra_on
 gotta-go-fast-fabric: bug-fixes_on
 hotbarcycle: extra_on
-iceberg: ui-aesthetics_on
+iceberg: ui-aesthetics_on,extra_on
 indium: sodium_on
 interactic: immersion_on
 inventory-profiles-next: ui-tools_on

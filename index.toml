@@ -457,12 +457,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "9b17999a040d99149ce43c0859ce5b3c771c97898bd2985106a0de06939f411f"
+hash = "d74946773d932354ff46d6e9c4f2b95b9d456b216a6a3cd62077a78a991dc895"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "b5afcf95e52a7e0cffbc22294ce01b65ba459f659e8f91256ff51d11f2abdc31"
+hash = "2189d6a37792cb6f282c15cc6edb67b85db65d980c3fd68897d8d490691db1a4"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "e158e37262adba157f0bcc9fb02fb436f8b8e1d87bf8666922bd472e1ca99f23"
+hash = "34bfe724c74eb274e73ac5db0629ed8a2d089cd508cc76dce4fd4c5c50b5e44b"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "38249e5f11d763b5c29577f99d30b6bde70ab626402252d4a5791cdbd92fb01d"
+hash = "683a805fe24c8de1b67a1da9e75b5b4f8d111c815f0e3bc99f1a6490600ddde8"
 metafile = true
 
 [[files]]
@@ -829,6 +829,10 @@ preserve = true
 file = "options.txt"
 hash = "74dd52d407fe4b953ff866fd196d3cd7537178b6fb60389cf768c091ba765a35"
 preserve = true
+
+[[files]]
+file = "refresh.py"
+hash = "e4565ac4e088374a543732c5bce124fff95999f5368ff398e2a0451cb5ee381e"
 
 [[files]]
 file = "unsup-0.2.0-pre3.jar"

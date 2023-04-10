@@ -11,7 +11,7 @@ side = "client"
 choices = [ "ui-aesthetics_on", "ui-aesthetics_off",]
 
 [flavor_groups.ui-tools]
-name = "Interface-tools-tools"
+name = "Interface-tools"
 description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight! \n amongst those tools, you will find:<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</ul>"
 side = "client"
 choices = [ "ui-tools_on", "ui-tools_off",]
