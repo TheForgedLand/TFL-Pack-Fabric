@@ -12,4 +12,6 @@
 unsup.ini
 unsup.toml
 flavors.yaml
-update-flavors.py
+refresh.ipynb
+flavorgroups.toml
+.pytest_cache

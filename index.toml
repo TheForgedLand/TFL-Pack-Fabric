@@ -347,7 +347,7 @@ preserve = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "1adb407d715aad70454069878f82fa65b4d0b09d56fefa3f5bcf99ba90ec617d"
+hash = "f6a6f53732ba9fa6d9abfcba92550e9591054447fbf85a50224ae7b7cf8f9a15"
 metafile = true
 
 [[files]]
@@ -829,6 +829,14 @@ preserve = true
 file = "options.txt"
 hash = "74dd52d407fe4b953ff866fd196d3cd7537178b6fb60389cf768c091ba765a35"
 preserve = true
+
+[[files]]
+file = "pack-config/__pycache__/refresh_test.cpython-310-pytest-7.3.0.pyc"
+hash = "b023c96e48f8b3d90d896cd3217c0dfd432bf4b25e0af97b871facefb597fa10"
+
+[[files]]
+file = "pack-config/refresh_test.py"
+hash = "ad52e0fbab8564edb1746645d1d9b1c05097bb0f1b3e4367541a692ad351e508"
 
 [[files]]
 file = "unsup-0.2.0-pre3.jar"
