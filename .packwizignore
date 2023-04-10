@@ -11,7 +11,6 @@
 .unsup-state.json
 unsup.ini
 unsup.toml
-flavors.yaml
 refresh.ipynb
-flavorgroups.toml
 .pytest_cache
+pack-config
