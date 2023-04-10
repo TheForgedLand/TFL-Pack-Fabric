@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "94050b8926c64245153d127fe79af4bd89a60e6325958104c331b0bc706b3d98"
+hash = "8eaf55dc374731a774e8667bf63fbca37874bdd7635a86330be39bf60c7c8aa6"
 metafile = true
 
 [[files]]
