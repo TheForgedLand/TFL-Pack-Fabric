@@ -41,8 +41,18 @@ hash = "6ec0c5e2b311ed2cbf723ee7b8e8c44c78413bd96b369df634046808a7a52398"
 preserve = true
 
 [[files]]
+file = "config/carpet/default_carpet-fixes.conf.orig"
+hash = "fd7909dc74e17f1321134a45a468550be097679dc9ccef358ca60e3a4145655b"
+preserve = true
+
+[[files]]
 file = "config/carpet/default_carpet.conf"
 hash = "dd95721929538c1db8a851cbaf1fe1b8b2327e5e03f382957814b2c5dc05bbf7"
+preserve = true
+
+[[files]]
+file = "config/carpet/default_carpet.conf.orig"
+hash = "99eb718187c4dbfba2a0e18d74b0f821afc3e0fdc90a644369261273d2d49918"
 preserve = true
 
 [[files]]
@@ -191,6 +201,11 @@ hash = "515c588753b26bef5b593b8552bd81ad5daba8aa3856b372ccd744da36da868c"
 preserve = true
 
 [[files]]
+file = "config/mmode.json"
+hash = "05aebee43aefc370f540bbf646d09bf7e4a8359f9b397839f02d8fc602b92ace"
+preserve = true
+
+[[files]]
 file = "config/modmenu.json"
 hash = "3bda12aaf4b1cf5108e448013f62855bda12e41d1591fc2cb09924b351d5f1b0"
 preserve = true
@@ -316,6 +331,11 @@ hash = "a6190a53fcd334afe2bd3e73906af6c21e06a54c12229707ecc96aa7cdcce7fe"
 preserve = true
 
 [[files]]
+file = "config/universal-graves.json"
+hash = "dbb359e19c2bb0d2633f5104aedd883f86522aeb8aa86c8f845e2b902bf8bcf0"
+preserve = true
+
+[[files]]
 file = "config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 preserve = true
@@ -382,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "8ee1fcae70e6de3ca9b5a58534b95284e0d07e467091d741db28e168e0a73dab"
+hash = "9fe141e5e49e71b2c07af271a268ee93d24a7638cf83f126a398e10ed0addd7f"
 metafile = true
 
 [[files]]
@@ -432,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "2bb9666df25254a6bd10e4e2d099a8285cd462bf17779ae27ab79bb0cdcffb2d"
+hash = "13705263d1f2f4a5b4189c0ac90dc41f9194d36a810aa2ee5da48f56cd73d694"
 metafile = true
 
 [[files]]
@@ -607,7 +627,12 @@ metafile = true
 
 [[files]]
 file = "mods/log-begone.pw.toml"
-hash = "308f635ee6db7a6c038e465d28f6a6379a10f20e1283d33d5fb56192138ddaa7"
+hash = "cca6d134874dde15f86b71c692563c92cecf6fb12c61ce4f89c597e91db04171"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
 metafile = true
 
 [[files]]
@@ -638,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/morecullingextra.pw.toml"
 hash = "7019377891fdddb3c8c0b6208725cb533774859972aca4e5a6fb33ae14f40a36"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "24b4b4b251d11c54bf325affd216adf6ff19cbe753f6eb3c4b36da9dccc11e3b"
 metafile = true
 
 [[files]]
@@ -791,6 +821,16 @@ hash = "397d6446f9307df516f6a6a792aac9e7bc871791d80005c8301033740894250b"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "5db41327f83479b50f4952a0e2c561a31f43ad3932e605a13a6960ece40558d9"
+metafile = true
+
+[[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "ab56d0138a1c77eca2950188357f17eb473f320656a85ae0e91c69b82aa4b350"
 metafile = true
@@ -802,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/wdmgslt.pw.toml"
-hash = "320e9a539817650910fcc8a7a3e414b8da416ca6981ec48e0c71652dfd55c7ca"
+hash = "aa94b19c20d13045d96cf492691d13add91fcc56b65f5d15724c92df381ca361"
 metafile = true
 
 [[files]]

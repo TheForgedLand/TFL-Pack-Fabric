@@ -1,6 +1,6 @@
 name = "Why Does My Glass Sound Like That"
 filename = "whydoesmyglasssoundlikethat-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/59WpRx9h/versions/E2tRkqsD/whydoesmyglasssoundlikethat-1.0.jar"

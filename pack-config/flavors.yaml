@@ -1,6 +1,6 @@
 advancement-plaques: ui-aesthetics_on
 advancements-debug: bug-fixes_on
-alternate-current: server_online
+alternate-current: server_on
 amecs: ui-tools_on
 appleskin: ui-tools_on
 architectury-api: ui-tools_on
@@ -43,6 +43,7 @@ legendary-tooltips: ui-aesthetics_on
 libipn: ui-tools_on
 libre-exp-fix: bug-fixes_on
 lithium: performance_on
+luckperms: server_on
 log-begone: server_on
 memoryleakfix: bug-fixes_on
 microdurability: ui-aesthetics_on
@@ -50,6 +51,7 @@ mixintrace: server_on,debug_on
 modmenu: ui-tools_on
 moreculling: performance_on,immersion_on
 morecullingextra: performance_on,immersion_on
+multiworld-mod: server_on
 prism-lib: ui-aesthetics_on
 reacharound: extra_on
 reeses-sodium-options: performance_on
@@ -71,6 +73,8 @@ stepup: extra_on
 timeoutout: bug-fixes_on
 too-many-binds: ui-tools_on
 tooltipfix: bug-fixes_on
+universal-graves: server_on
+vanish: server_on
 view-distance-fix: bug-fixes_on
 visuality: immersion_on
 wdmgslt: immersion_on

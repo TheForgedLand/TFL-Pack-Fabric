@@ -18,7 +18,7 @@ choices = [ "ui-tools_on", "ui-tools_off",]
 
 [flavor_groups.performance]
 name = "performance"
-description = "mods:\n<ul><li>clumps</li><li>entityculling</li><li>ferrite-core</li><li>forgetmechunk</li><li>indium</li><li>lazydfu</li><li>lithium</li><li>moreculling</li><li>morecullingextra</li><li>reeses-performance-options</li><li>smoothboot-fabric</li><li>performance-extra</li><li>performance</li><li>starlight</li></ul>\n"
+description = "mods:\n<ul><li>clumps</li><li>entityculling</li><li>ferrite-core</li><li>forgetmechunk</li><li>indium</li><li>lazydfu</li><li>lithium</li><li>moreculling</li><li>morecullingextra</li><li>reeses-sodium-options</li><li>smoothboot-fabric</li><li>sodium-extra</li><li>sodium</li><li>starlight</li></ul>\n"
 side = "both"
 choices = [ "performance_on", "performance_off",]
 
@@ -53,7 +53,7 @@ flavors = [ "ui-aesthetics_on",]
 flavors = [ "bug-fixes_on",]
 
 [metafile.alternate-current]
-flavors = [ "server_online",]
+flavors = [ "server_on",]
 
 [metafile.amecs]
 flavors = [ "ui-tools_on",]
@@ -181,6 +181,9 @@ flavors = [ "bug-fixes_on",]
 [metafile.lithium]
 flavors = [ "performance_on",]
 
+[metafile.luckperms]
+flavors = [ "server_on",]
+
 [metafile.log-begone]
 flavors = [ "server_on",]
 
@@ -201,6 +204,9 @@ flavors = [ "performance_on", "immersion_on",]
 
 [metafile.morecullingextra]
 flavors = [ "performance_on", "immersion_on",]
+
+[metafile.multiworld-mod]
+flavors = [ "server_on",]
 
 [metafile.prism-lib]
 flavors = [ "ui-aesthetics_on",]
@@ -264,6 +270,12 @@ flavors = [ "ui-tools_on",]
 
 [metafile.tooltipfix]
 flavors = [ "bug-fixes_on",]
+
+[metafile.universal-graves]
+flavors = [ "server_on",]
+
+[metafile.vanish]
+flavors = [ "server_on",]
 
 [metafile.view-distance-fix]
 flavors = [ "bug-fixes_on",]
