@@ -1,50 +1,50 @@
 [flavor_groups.server]
 side = "server"
-name = "server"
-description = ""
+name = "Server Tools"
+description = "These are the tools used by the server to fix bugs and improve performance. they are not meant to be installed on the client, so only add them to your game if you want to simulate the server's environment. <b>make sure you know what you are doing</b>\n"
 choices = [ "server_on", "server_off",]
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
-description = "These aesthetic mods will add small aesthetic tweaks to your game"
+description = "These aesthetic mods will add small aesthetic tweaks to your game\nMods list:\n<ul><li>legendary-tooltips</li><li>advancement-plaques</li><li>better-enchanted-books</li><li>dynamiccrosshair</li><li>dynamiccrosshaircompat</li><li>iceberg</li><li>microdurability</li><li>prism-lib</li><li>status-effect-bars</li></ul>\n"
 side = "client"
 choices = [ "ui-aesthetics_on", "ui-aesthetics_off",]
 
 [flavor_groups.ui-tools]
 name = "Interface-tools"
-description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight! \n amongst those tools, you will find:<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</ul>"
+description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight!\namongst those tools, you will find:\n<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</li></ul>\n"
 side = "client"
 choices = [ "ui-tools_on", "ui-tools_off",]
 
-[flavor_groups.sodium]
-name = "Sodium"
-description = "Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues. It boasts wide compatibility with the Fabric mod ecosystem when compared to other mods, and it does so without compromising on how the game looks, giving you that authentic block game feel"
-side = "client"
-choices = [ "sodium_on", "sodium_off",]
-
 [flavor_groups.performance]
 name = "performance"
-description = ""
+description = "mods:\n<ul><li>clumps</li><li>entityculling</li><li>ferrite-core</li><li>forgetmechunk</li><li>indium</li><li>lazydfu</li><li>lithium</li><li>moreculling</li><li>morecullingextra</li><li>reeses-performance-options</li><li>smoothboot-fabric</li><li>performance-extra</li><li>performance</li><li>starlight</li></ul>\n"
 side = "both"
 choices = [ "performance_on", "performance_off",]
 
 [flavor_groups.extra]
 name = "Extra!"
-description = ""
+description = "mods:\n<ul><li>chatcalc</li><li>clickthrough</li><li>freecam</li><li>hotbarcycle</li><li>iceberg</li><li>invmove</li><li>itemswapper</li><li>reacharound</li><li>show-me-your-skin</li><li>stepup</li><li>xaeros-world-map</li></ul>\n"
 side = "client"
 choices = [ "extra_on", "extra_off",]
 
 [flavor_groups.immersion]
 name = "Immersion!"
-description = ""
+description = "mods:\n<ul><li>bedrockwaters</li><li>charmonium</li><li>interactic</li><li>lambdabettergrass</li><li>lambdynamiclights</li><li>moreculling</li><li>morecullingextra</li><li>visuality</li><li>wdmgslt</li></ul>\n"
 side = "client"
 choices = [ "immersion_on", "immersion_off",]
 
 [flavor_groups.bug-fixes]
 name = "Bugfixes!"
-description = ""
+description = "mods:\n<ul><li>advancements-debug</li><li>block_limit_fix</li><li>gotta-go-fast-fabric</li><li>libre-exp-fix</li><li>memoryleakfix</li><li>timeoutout</li><li>tooltipfix</li><li>view-distance-fix</li></ul>\n"
 side = "both"
 choices = [ "bug-fixes_on", "bug-fixes_off",]
+
+[flavor_groups.debug]
+name = "Debug Toolkit"
+description = "mods:\n<ul><li>mixintrace</li><li>spark</li></ul>\n"
+side = "both"
+choices = [ "debug_on", "debug_off",]
 
 [metafile.advancement-plaques]
 flavors = [ "ui-aesthetics_on",]
@@ -137,10 +137,10 @@ flavors = [ "bug-fixes_on",]
 flavors = [ "extra_on",]
 
 [metafile.iceberg]
-flavors = [ "ui-aesthetics_on",]
+flavors = [ "ui-aesthetics_on", "extra_on",]
 
 [metafile.indium]
-flavors = [ "sodium_on",]
+flavors = [ "performance_on",]
 
 [metafile.interactic]
 flavors = [ "immersion_on",]
@@ -208,8 +208,8 @@ flavors = [ "ui-aesthetics_on",]
 [metafile.reacharound]
 flavors = [ "extra_on",]
 
-[metafile.reeses-sodium-options]
-flavors = [ "sodium_on",]
+[metafile.reeses-performance-options]
+flavors = [ "performance_on",]
 
 [metafile.roughly-enough-items]
 flavors = [ "ui-tools_on",]
@@ -238,11 +238,11 @@ flavors = [ "extra_on",]
 [metafile.smoothboot-fabric]
 flavors = [ "performance_on",]
 
-[metafile.sodium-extra]
-flavors = [ "sodium_on",]
+[metafile.performance-extra]
+flavors = [ "performance_on",]
 
-[metafile.sodium]
-flavors = [ "sodium_on",]
+[metafile.performance]
+flavors = [ "performance_on",]
 
 [metafile.spark]
 flavors = [ "server_on", "debug_on",]
