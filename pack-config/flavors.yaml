@@ -52,7 +52,7 @@ moreculling: performance_on,immersion_on
 morecullingextra: performance_on,immersion_on
 prism-lib: ui-aesthetics_on
 reacharound: extra_on
-reeses-performance-options: performance_on
+reeses-sodium-options: performance_on
 roughly-enough-items: ui-tools_on
 roughly-enough-loot-tables: ui-tools_on
 roughly-enough-professions-rep: ui-tools_on
@@ -62,8 +62,8 @@ servercore: server_on
 sessility: server_on
 show-me-your-skin: extra_on
 smoothboot-fabric: performance_on
-performance-extra: performance_on
-performance: performance_on
+sodium-extra: performance_on
+sodium: performance_on
 spark: server_on,debug_on
 starlight: performance_on
 status-effect-bars: ui-aesthetics_on

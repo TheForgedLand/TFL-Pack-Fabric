@@ -208,7 +208,7 @@ flavors = [ "ui-aesthetics_on",]
 [metafile.reacharound]
 flavors = [ "extra_on",]
 
-[metafile.reeses-performance-options]
+[metafile.reeses-sodium-options]
 flavors = [ "performance_on",]
 
 [metafile.roughly-enough-items]
@@ -238,10 +238,10 @@ flavors = [ "extra_on",]
 [metafile.smoothboot-fabric]
 flavors = [ "performance_on",]
 
-[metafile.performance-extra]
+[metafile.sodium-extra]
 flavors = [ "performance_on",]
 
-[metafile.performance]
+[metafile.sodium]
 flavors = [ "performance_on",]
 
 [metafile.spark]
