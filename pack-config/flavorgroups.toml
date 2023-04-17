@@ -1,14 +1,16 @@
-[flavor_groups.server]
-side = "server"
-name = "Server Tools"
+[flavor_groups.minimap]
+name = "Minimap mods:"
+[[flavor_groups.minimap.choices]]
+id = "xaero"
+name = "Xaero's Minimaps"
 description = """
-These are the tools used by the server to fix bugs and improve performance. \
-they are not meant to be installed on the client, so only add them to your game \
-if you want to simulate the server's environment. \
-<b>make sure you know what you are doing</b>
+Xaero's minimap & World map will make quick work of your travel and avoid you from getting lost around!
 """
-choices = [ "server_on", "server_off",]
-
+[[flavor_groups.minimap.choices]]
+id = "journey"
+name = "Journeymap!"
+description = """With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use.
+"""
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
@@ -145,3 +147,14 @@ mods:
 """
 side = "both"
 choices = [ "debug_on", "debug_off"]
+
+[flavor_groups.server]
+side = "server"
+name = "Server Tools"
+description = """
+These are the tools used by the server to fix bugs and improve performance. \
+they are not meant to be installed on the client, so only add them to your game \
+if you want to simulate the server's environment. \
+<b>make sure you know what you are doing</b>
+"""
+choices = [ "server_on", "server_off",]

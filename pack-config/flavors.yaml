@@ -34,6 +34,7 @@ interactic: immersion_on
 inventory-profiles-next: ui-tools_on
 invmove: extra_on
 itemswapper: extra_on,server_on
+journeymap: journey
 krypton: server_on
 lambdabettergrass: immersion_on
 lambdynamiclights: immersion_on
@@ -78,5 +79,6 @@ vanish: server_on
 view-distance-fix: bug-fixes_on
 visuality: immersion_on
 wdmgslt: immersion_on
-xaeros-world-map: extra_on
+xaeros-world-map: xaero
+xaeros-minimap: xaero
 xl-packets-fabric: server_on

@@ -576,6 +576,11 @@ hash = "34bfe724c74eb274e73ac5db0629ed8a2d089cd508cc76dce4fd4c5c50b5e44b"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "42a6bd87bce975b2077fd2ed9a0ed275497328631bdd70db47c4b58f6076736f"
+metafile = true
+
+[[files]]
 file = "mods/kitsune.pw.toml"
 hash = "5c2f492f8432844962ba88e47e02dda8caade0a8ddf45d96cebdf25a66f7ef82"
 metafile = true
@@ -848,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "ab711be6dd36622a2f683a599942dcc954e18dcafd91a15c0e2a117b3fdc7c76"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4e7b7ee4952f4caffd8314510b050ac8c7e542fe8371e450ee7d96789b99c2c0"
 metafile = true
 
 [[files]]
