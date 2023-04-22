@@ -7,4 +7,4 @@ they are not meant to be installed on the client, so only add them to your game 
 if you want to simulate the server's environment. \
 <b>make sure you know what you are doing</b>
 """
-choices = [ "on", "off"]
+choices = [ "srv_on", "srv_off"]

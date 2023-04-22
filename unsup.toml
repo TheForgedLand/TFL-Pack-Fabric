@@ -2,292 +2,202 @@
 side = "server"
 name = "Server Tools"
 description = "These are the tools used by the server to fix bugs and improve performance. they are not meant to be installed on the client, so only add them to your game if you want to simulate the server's environment. <b>make sure you know what you are doing</b>\n"
-choices = [ "server_on", "server_off",]
-
-[flavor_groups.ui-aesthetics]
-name = "UI Aesthetics"
-description = "These aesthetic mods will add small aesthetic tweaks to your game\nMods list:\n<ul><li>legendary-tooltips</li><li>advancement-plaques</li><li>better-enchanted-books</li><li>dynamiccrosshair</li><li>dynamiccrosshaircompat</li><li>iceberg</li><li>microdurability</li><li>prism-lib</li><li>status-effect-bars</li></ul>\n"
-side = "client"
-choices = [ "ui-aesthetics_on", "ui-aesthetics_off",]
-
-[flavor_groups.ui-tools]
-name = "Interface-tools"
-description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight!\namongst those tools, you will find:\n<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</li></ul>\n"
-side = "client"
-choices = [ "ui-tools_on", "ui-tools_off",]
-
-[flavor_groups.performance]
-name = "performance"
-description = "mods:\n<ul><li>clumps</li><li>entityculling</li><li>ferrite-core</li><li>forgetmechunk</li><li>indium</li><li>lazydfu</li><li>lithium</li><li>moreculling</li><li>morecullingextra</li><li>reeses-sodium-options</li><li>smoothboot-fabric</li><li>sodium-extra</li><li>sodium</li><li>starlight</li></ul>\n"
-side = "both"
-choices = [ "performance_on", "performance_off",]
-
-[flavor_groups.extra]
-name = "Extra!"
-description = "mods:\n<ul><li>chatcalc</li><li>clickthrough</li><li>freecam</li><li>hotbarcycle</li><li>iceberg</li><li>invmove</li><li>itemswapper</li><li>reacharound</li><li>show-me-your-skin</li><li>stepup</li><li>xaeros-world-map</li></ul>\n"
-side = "client"
-choices = [ "extra_on", "extra_off",]
-
-[flavor_groups.immersion]
-name = "Immersion!"
-description = "mods:\n<ul><li>bedrockwaters</li><li>charmonium</li><li>interactic</li><li>lambdabettergrass</li><li>lambdynamiclights</li><li>moreculling</li><li>morecullingextra</li><li>visuality</li><li>wdmgslt</li></ul>\n"
-side = "client"
-choices = [ "immersion_on", "immersion_off",]
-
-[flavor_groups.bug-fixes]
-name = "Bugfixes!"
-description = "mods:\n<ul><li>advancements-debug</li><li>block_limit_fix</li><li>gotta-go-fast-fabric</li><li>libre-exp-fix</li><li>memoryleakfix</li><li>timeoutout</li><li>tooltipfix</li><li>view-distance-fix</li></ul>\n"
-side = "both"
-choices = [ "bug-fixes_on", "bug-fixes_off",]
-
-[flavor_groups.debug]
-name = "Debug Toolkit"
-description = "mods:\n<ul><li>mixintrace</li><li>spark</li></ul>\n"
-side = "both"
-choices = [ "debug_on", "debug_off",]
-
-[metafile.advancement-plaques]
-flavors = [ "ui-aesthetics_on",]
+choices = [ "srv_on", "srv_off",]
 
 [metafile.advancements-debug]
-flavors = [ "bug-fixes_on",]
+flavors = "srv_on"
 
 [metafile.alternate-current]
-flavors = [ "server_on",]
-
-[metafile.amecs]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.appleskin]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.architectury-api]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
-[metafile.bedrockwaters]
-flavors = [ "immersion_on",]
-
-[metafile.better-enchanted-books]
-flavors = [ "ui-aesthetics_on",]
+[metafile.axes-are-weapons]
+flavors = "srv_on"
 
 [metafile.block_limit_fix]
-flavors = [ "bug-fixes_on",]
-
-[metafile.borderless-mining]
-flavors = [ "ui-tools_on",]
-
-[metafile.camera-utils]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.carpet-fixes]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.carpet]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
-[metafile.charmonium]
-flavors = [ "immersion_on",]
-
-[metafile.chatcalc]
-flavors = [ "extra_on",]
+[metafile.charm]
+flavors = "srv_on"
 
 [metafile.clearnetherrack]
-flavors = [ "server_on",]
-
-[metafile.clickthrough]
-flavors = [ "extra_on",]
+flavors = "srv_on"
 
 [metafile.cloth-config]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.clumps]
-flavors = [ "performance_on",]
+flavors = "srv_on"
+
+[metafile.create-fabric]
+flavors = "srv_on"
 
 [metafile.crops-love-rain]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
-[metafile.dynamiccrosshair]
-flavors = [ "ui-aesthetics_on",]
+[metafile.expanded-delight]
+flavors = "srv_on"
 
-[metafile.dynamiccrosshaircompat]
-flavors = [ "ui-aesthetics_on",]
+[metafile.extraalchemy]
+flavors = "srv_on"
 
-[metafile.entityculling]
-flavors = [ "performance_on",]
+[metafile.fabric-api]
+flavors = "srv_on"
 
 [metafile.fabric-language-kotlin]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
+
+[metafile.farmers-delight-fabric]
+flavors = "srv_on"
 
 [metafile.fast-portals]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.ferrite-core]
-flavors = [ "performance_on",]
-
-[metafile.forgetmechunk]
-flavors = [ "performance_on",]
-
-[metafile.freecam]
-flavors = [ "extra_on",]
+flavors = "srv_on"
 
 [metafile.gotta-go-fast-fabric]
-flavors = [ "bug-fixes_on",]
-
-[metafile.hotbarcycle]
-flavors = [ "extra_on",]
+flavors = "srv_on"
 
 [metafile.iceberg]
-flavors = [ "ui-aesthetics_on", "extra_on",]
-
-[metafile.indium]
-flavors = [ "performance_on",]
+flavors = "srv_on"
 
 [metafile.interactic]
-flavors = [ "immersion_on",]
-
-[metafile.inventory-profiles-next]
-flavors = [ "ui-tools_on",]
-
-[metafile.invmove]
-flavors = [ "extra_on",]
+flavors = "srv_on"
 
 [metafile.itemswapper]
-flavors = [ "extra_on", "server_on",]
+flavors = "srv_on"
+
+[metafile.journeymap]
+flavors = "srv_on"
+
+[metafile.kitsune]
+flavors = "srv_on"
 
 [metafile.krypton]
-flavors = [ "server_on",]
-
-[metafile.lambdabettergrass]
-flavors = [ "immersion_on",]
-
-[metafile.lambdynamiclights]
-flavors = [ "immersion_on",]
+flavors = "srv_on"
 
 [metafile.lazydfu]
-flavors = [ "performance_on",]
+flavors = "srv_on"
 
 [metafile.ledger]
-flavors = [ "server_on",]
-
-[metafile.legendary-tooltips]
-flavors = [ "ui-aesthetics_on",]
-
-[metafile.libipn]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.libre-exp-fix]
-flavors = [ "bug-fixes_on",]
+flavors = "srv_on"
 
 [metafile.lithium]
-flavors = [ "performance_on",]
-
-[metafile.luckperms]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.log-begone]
-flavors = [ "server_on",]
+flavors = "srv_on"
+
+[metafile.luckperms]
+flavors = "srv_on"
 
 [metafile.memoryleakfix]
-flavors = [ "bug-fixes_on",]
-
-[metafile.microdurability]
-flavors = [ "ui-aesthetics_on",]
+flavors = "srv_on"
 
 [metafile.mixintrace]
-flavors = [ "server_on", "debug_on",]
-
-[metafile.modmenu]
-flavors = [ "ui-tools_on",]
-
-[metafile.moreculling]
-flavors = [ "performance_on", "immersion_on",]
-
-[metafile.morecullingextra]
-flavors = [ "performance_on", "immersion_on",]
+flavors = "srv_on"
 
 [metafile.multiworld-mod]
-flavors = [ "server_on",]
+flavors = "srv_on"
+
+[metafile.netherportalfix]
+flavors = "srv_on"
+
+[metafile.origins-classes]
+flavors = "srv_on"
+
+[metafile.origins-plus-plus]
+flavors = "srv_on"
+
+[metafile.origins-umbrellas]
+flavors = "srv_on"
+
+[metafile.origins]
+flavors = "srv_on"
+
+[metafile.passivepregen]
+flavors = "srv_on"
+
+[metafile.pehkui]
+flavors = "srv_on"
 
 [metafile.prism-lib]
-flavors = [ "ui-aesthetics_on",]
-
-[metafile.reacharound]
-flavors = [ "extra_on",]
-
-[metafile.reeses-sodium-options]
-flavors = [ "performance_on",]
+flavors = "srv_on"
 
 [metafile.roughly-enough-items]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.roughly-enough-loot-tables]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.roughly-enough-professions-rep]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
 [metafile.roughly-enough-resources]
-flavors = [ "ui-tools_on",]
+flavors = "srv_on"
 
-[metafile.roughly-enough-trades]
-flavors = [ "ui-tools_on",]
+[metafile.scout]
+flavors = "srv_on"
 
 [metafile.servercore]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.sessility]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
-[metafile.show-me-your-skin]
-flavors = [ "extra_on",]
+[metafile.simple-voice-chat]
+flavors = "srv_on"
 
 [metafile.smoothboot-fabric]
-flavors = [ "performance_on",]
-
-[metafile.sodium-extra]
-flavors = [ "performance_on",]
-
-[metafile.sodium]
-flavors = [ "performance_on",]
+flavors = "srv_on"
 
 [metafile.spark]
-flavors = [ "server_on", "debug_on",]
+flavors = "srv_on"
 
 [metafile.starlight]
-flavors = [ "performance_on",]
+flavors = "srv_on"
 
-[metafile.status-effect-bars]
-flavors = [ "ui-aesthetics_on",]
-
-[metafile.stepup]
-flavors = [ "extra_on",]
+[metafile.status]
+flavors = "srv_on"
 
 [metafile.timeoutout]
-flavors = [ "bug-fixes_on",]
+flavors = "srv_on"
 
-[metafile.too-many-binds]
-flavors = [ "ui-tools_on",]
-
-[metafile.tooltipfix]
-flavors = [ "bug-fixes_on",]
+[metafile.trinkets]
+flavors = "srv_on"
 
 [metafile.universal-graves]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.vanish]
-flavors = [ "server_on",]
+flavors = "srv_on"
 
 [metafile.view-distance-fix]
-flavors = [ "bug-fixes_on",]
+flavors = "srv_on"
 
-[metafile.visuality]
-flavors = [ "immersion_on",]
+[metafile.windchimes]
+flavors = "srv_on"
 
-[metafile.wdmgslt]
-flavors = [ "immersion_on",]
+[metafile.xaeros-minimap]
+flavors = "srv_on"
 
 [metafile.xaeros-world-map]
-flavors = [ "extra_on",]
+flavors = "srv_on"
 
 [metafile.xl-packets-fabric]
-flavors = [ "server_on",]
+flavors = "srv_on"
