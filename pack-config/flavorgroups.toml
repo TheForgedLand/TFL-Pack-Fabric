@@ -147,14 +147,3 @@ mods:
 """
 side = "both"
 choices = [ "debug_on", "debug_off"]
-
-[flavor_groups.server]
-side = "server"
-name = "Server Tools"
-description = """
-These are the tools used by the server to fix bugs and improve performance. \
-they are not meant to be installed on the client, so only add them to your game \
-if you want to simulate the server's environment. \
-<b>make sure you know what you are doing</b>
-"""
-choices = [ "server_on", "server_off",]

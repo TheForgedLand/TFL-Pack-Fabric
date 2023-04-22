@@ -1,8 +1,0 @@
-{
-  "enabled": false,
-  "doBackup": false,
-  "message": "This server is currently in maintenance mode! Please check back later",
-  "motd": "This server is currently undergoing maintenance!",
-  "maintenanceIcon": "server-icon.png",
-  "allowedUsers": []
-}
