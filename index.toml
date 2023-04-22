@@ -396,6 +396,16 @@ hash = "1ec2e1ea07ba06cf072dc100c59b5cf607f5bf08bf5d412d5f193d4f7face9af"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
+metafile = true
+
+[[files]]
 file = "mods/bedrockwaters.pw.toml"
 hash = "8b91fd2056cbcc9943f4eeac03621e74a851c0585e341f11a47fe26b7b935272"
 metafile = true
@@ -676,6 +686,11 @@ hash = "24b4b4b251d11c54bf325affd216adf6ff19cbe753f6eb3c4b36da9dccc11e3b"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "a9e6ca2b40c2ca312979870dd307f4a60e3912f14d9387e87f0e278b1a9aa22b"
 metafile = true
@@ -693,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "9ecac39f29f7f1e19a3156236db7e49892666ccebc1d56d35b2dcc00e18b9cb1"
+metafile = true
+
+[[files]]
+file = "mods/passivepregen.pw.toml"
+hash = "f033e796c7567644b819b132ef334cc43a9eccb38cb77f9d4b207d286ef01781"
 metafile = true
 
 [[files]]

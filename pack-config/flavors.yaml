@@ -2,6 +2,7 @@ advancements-debug: on
 alternate-current: on
 appleskin: on
 architectury-api: on
+axes-are-weapons: on
 block_limit_fix: on
 carpet-fixes: on
 carpet: on
@@ -34,10 +35,12 @@ luckperms: on
 memoryleakfix: on
 mixintrace: on
 multiworld-mod: on
+netherportalfix: on
 origins-classes: on
 origins-plus-plus: on
 origins-umbrellas: on
 origins: on
+passivepregen: on
 pehkui: on
 prism-lib: on
 roughly-enough-items: on
