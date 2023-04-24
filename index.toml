@@ -216,11 +216,6 @@ hash = "9ecac39f29f7f1e19a3156236db7e49892666ccebc1d56d35b2dcc00e18b9cb1"
 metafile = true
 
 [[files]]
-file = "mods/passivepregen.pw.toml"
-hash = "f033e796c7567644b819b132ef334cc43a9eccb38cb77f9d4b207d286ef01781"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "33a15d5c5e4800372415d905d11d9313c9beb829fb28c55fb052095f43ec8d63"
 metafile = true

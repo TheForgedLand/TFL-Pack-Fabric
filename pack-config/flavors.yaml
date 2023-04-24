@@ -40,7 +40,6 @@ origins-classes: srv_on
 origins-plus-plus: srv_on
 origins-umbrellas: srv_on
 origins: srv_on
-passivepregen: srv_on
 pehkui: srv_on
 prism-lib: srv_on
 roughly-enough-items: srv_on

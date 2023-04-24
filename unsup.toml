@@ -130,9 +130,6 @@ flavors = "srv_on"
 [metafile.origins]
 flavors = "srv_on"
 
-[metafile.passivepregen]
-flavors = "srv_on"
-
 [metafile.pehkui]
 flavors = "srv_on"
 
