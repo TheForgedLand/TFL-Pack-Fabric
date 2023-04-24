@@ -21,6 +21,8 @@ fast-portals: srv_on
 ferrite-core: srv_on
 gotta-go-fast-fabric: srv_on
 iceberg: srv_on
+immersiveportals: srv_on
+Immersive-trains: srv_on
 interactic: srv_on
 itemswapper: srv_on
 journeymap: srv_on

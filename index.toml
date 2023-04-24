@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e534960c474cb40e9300e8d0cad3f272a5d5e4f5de2026fe666d38a2480803a0"
+hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
 metafile = true
 
 [[files]]
@@ -118,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b495df8bf8b8574df4f18f35cdea16da74ebb468529f74588c0039b51493d361"
+metafile = true
+
+[[files]]
+file = "mods/immersive-trains.pw.toml"
+hash = "bcdf594e870aa1c0c19bc02cd43c7854c998290c7e7fad1652799e2ec6b2cd79"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "1b00a4302ee0958672cdf9278f4e735d15f14abf9ab4e9046317eb1affee446d"
 metafile = true
 
 [[files]]
@@ -227,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "2b0d5dc1a59a617b3ab8eda55a83bf3d1ba26bf3ee757fa363c69b72db6132fa"
+hash = "4270ea77fa4f2d308b2299b469643f4eb5b19f7dc706af35a6e747fcfd478a38"
 metafile = true
 
 [[files]]

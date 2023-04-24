@@ -1,0 +1,7 @@
+name = "immersive-trains"
+filename = "immersive_trains-1.0.1.jar"
+
+[download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/immersive_trains-1.0.1.jar"
+hash-format = "sha1"
+hash = "4dd59a8562624af1abfb5688b3fba734481e54a4"
