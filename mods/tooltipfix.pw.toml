@@ -1,16 +1,16 @@
 name = "ToolTipFix"
 filename = "tooltipfix-1.1.1-1.19.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/xDXBXur9/tooltipfix-1.1.1-1.19.jar"
 hash-format = "sha1"
 hash = "a5693f4886c190cc7bd66afdff063ebe333b2d6c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "2RKFTmiB"
-version = "xDXBXur9"
+[update.curseforge]
+file-id = 4087782
+project-id = 411557
 
 [option]
 optional = true

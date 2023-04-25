@@ -1,16 +1,16 @@
 name = "libIPN"
-filename = "libIPN-fabric-1.19-2.0.4.jar"
-side = "client"
+filename = "libIPN-fabric-1.19-2.0.5.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/onSQdWhM/versions/gaxJGZee/libIPN-fabric-1.19-2.0.4.jar"
 hash-format = "sha1"
-hash = "52f9912652d1084c6e9577e2ae31e058c10ddb55"
+hash = "477ef7ce596b79ebf41cd860c4c9048c997c6c06"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "onSQdWhM"
-version = "gaxJGZee"
+[update.curseforge]
+file-id = 4501592
+project-id = 679177
 
 [option]
 optional = true

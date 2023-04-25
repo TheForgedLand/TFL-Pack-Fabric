@@ -1,16 +1,16 @@
 name = "InvMove"
-filename = "InvMove-1.19-0.8.3-Fabric.jar"
-side = "client"
+filename = "InvMove-1.19-0.8.2-Fabric.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/REfW2AEX/versions/1uJ8OF0p/InvMove-1.19-0.8.3-Fabric.jar"
 hash-format = "sha1"
-hash = "dfd54f9ff421314b853939593cd8a81a48f51730"
+hash = "54d4ef70464f66234fd6c21b880256c51e8d0f78"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "REfW2AEX"
-version = "1uJ8OF0p"
+[update.curseforge]
+file-id = 4346453
+project-id = 581854
 
 [option]
 optional = true

@@ -1,16 +1,16 @@
 name = "microDurability"
 filename = "microdurability-0.3.6+1.19.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JW3bGnLO/versions/0.3.6%2B1.19/microdurability-0.3.6%2B1.19.jar"
 hash-format = "sha1"
 hash = "fda6e80e539097300b1c5cb7643992717960aeb1"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "JW3bGnLO"
-version = "kbTj92Ij"
+[update.curseforge]
+file-id = 3841426
+project-id = 409222
 
 [option]
 optional = true

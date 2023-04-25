@@ -1,16 +1,16 @@
 name = "Visuality"
 filename = "visuality-0.5.6.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/TrPcZLjs/visuality-0.5.6.jar"
 hash-format = "sha1"
 hash = "86eafa73e5de6f6aec6401312f3b242a6e48b94b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "rI0hvYcd"
-version = "TrPcZLjs"
+[update.curseforge]
+file-id = 4418106
+project-id = 521126
 
 [option]
 optional = true

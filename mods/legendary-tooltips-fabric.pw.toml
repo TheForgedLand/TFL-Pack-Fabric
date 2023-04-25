@@ -1,16 +1,16 @@
-name = "Legendary Tooltips"
+name = "Legendary Tooltips [Fabric]"
 filename = "LegendaryTooltips-1.19.2-fabric-1.3.3.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/atHH8NyV/versions/QqAHVnpI/LegendaryTooltips-1.19.2-fabric-1.3.3.jar"
 hash-format = "sha1"
 hash = "5edec0968a0b24d559de8c82660d526bc0bd5648"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "atHH8NyV"
-version = "QqAHVnpI"
+[update.curseforge]
+file-id = 3998293
+project-id = 542478
 
 [option]
 optional = true

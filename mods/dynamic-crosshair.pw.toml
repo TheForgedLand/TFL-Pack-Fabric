@@ -1,0 +1,18 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-5.3.1+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1315ade47e3242cf1c87aaf15d130be4027f3523"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4492722
+project-id = 623800
+
+[option]
+optional = true
+description = "Highly configurable Aesthetic mod that adds fancy dynamics for the crosshair."
+default = true
