@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4466959
 project-id = 308769
+
+[option]
+optional = true
+description = "kotlin language library for modbuilding. Essencial dependency of some kotlin based mods"
+default = true

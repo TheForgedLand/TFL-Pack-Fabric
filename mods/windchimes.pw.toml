@@ -3,14 +3,14 @@ filename = "windchimes-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iM50gcBD/versions/1.2.1/windchimes-1.2.1.jar"
 hash-format = "sha1"
 hash = "dbee2266355d3ae3f348efccbd9ecc1b2fa3a710"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "iM50gcBD"
-version = "wBCMyoJp"
+[update.curseforge]
+file-id = 3829369
+project-id = 477895
 
 [option]
 optional = false
