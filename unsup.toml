@@ -1,8 +1,14 @@
-[flavor_groups.server]
-side = "server"
-name = "Server Tools"
-description = "These are the tools used by the server to fix bugs and improve performance. they are not meant to be installed on the client, so only add them to your game if you want to simulate the server's environment. <b>make sure you know what you are doing</b>\n"
-choices = [ "server_on", "server_off",]
+[flavor_groups.minimap]
+name = "Minimap mods:"
+[[flavor_groups.minimap.choices]]
+id = "xaero"
+name = "Xaero's Minimaps"
+description = "Xaero's minimap & World map will make quick work of your travel and avoid you from getting lost around!\n"
+
+[[flavor_groups.minimap.choices]]
+id = "journey"
+name = "Journeymap!"
+description = "With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use.\n"
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
@@ -46,14 +52,11 @@ description = "mods:\n<ul><li>mixintrace</li><li>spark</li></ul>\n"
 side = "both"
 choices = [ "debug_on", "debug_off",]
 
-[metafile.advancement-plaques]
+[metafile.advancement-plaques-fabric]
 flavors = [ "ui-aesthetics_on",]
 
 [metafile.advancements-debug]
 flavors = [ "bug-fixes_on",]
-
-[metafile.alternate-current]
-flavors = [ "server_on",]
 
 [metafile.amecs]
 flavors = [ "ui-tools_on",]
@@ -70,46 +73,31 @@ flavors = [ "immersion_on",]
 [metafile.better-enchanted-books]
 flavors = [ "ui-aesthetics_on",]
 
-[metafile.block_limit_fix]
-flavors = [ "bug-fixes_on",]
-
 [metafile.borderless-mining]
 flavors = [ "ui-tools_on",]
 
 [metafile.camera-utils]
 flavors = [ "ui-tools_on",]
 
-[metafile.carpet-fixes]
-flavors = [ "server_on",]
-
-[metafile.carpet]
-flavors = [ "server_on",]
-
 [metafile.charmonium]
 flavors = [ "immersion_on",]
 
-[metafile.chatcalc]
+[metafile.chatqalc]
 flavors = [ "extra_on",]
-
-[metafile.clearnetherrack]
-flavors = [ "server_on",]
 
 [metafile.clickthrough]
 flavors = [ "extra_on",]
 
-[metafile.cloth-config]
-flavors = [ "server_on",]
-
 [metafile.clumps]
 flavors = [ "performance_on",]
 
-[metafile.crops-love-rain]
-flavors = [ "server_on",]
+[metafile.content-creator-server-status]
+flavors = [ "extra_on",]
 
-[metafile.dynamiccrosshair]
+[metafile.dynamic-crosshair]
 flavors = [ "ui-aesthetics_on",]
 
-[metafile.dynamiccrosshaircompat]
+[metafile.dynamic-crosshair-compat]
 flavors = [ "ui-aesthetics_on",]
 
 [metafile.entityculling]
@@ -118,25 +106,22 @@ flavors = [ "performance_on",]
 [metafile.fabric-language-kotlin]
 flavors = [ "ui-tools_on",]
 
-[metafile.fast-portals]
-flavors = [ "server_on",]
-
-[metafile.ferrite-core]
+[metafile.ferritecore]
 flavors = [ "performance_on",]
 
 [metafile.forgetmechunk]
 flavors = [ "performance_on",]
 
-[metafile.freecam]
+[metafile.forge-config-api-port]
 flavors = [ "extra_on",]
 
-[metafile.gotta-go-fast-fabric]
-flavors = [ "bug-fixes_on",]
+[metafile.free-cam]
+flavors = [ "extra_on",]
 
 [metafile.hotbarcycle]
 flavors = [ "extra_on",]
 
-[metafile.iceberg]
+[metafile.iceberg-fabric]
 flavors = [ "ui-aesthetics_on", "extra_on",]
 
 [metafile.indium]
@@ -152,10 +137,10 @@ flavors = [ "ui-tools_on",]
 flavors = [ "extra_on",]
 
 [metafile.itemswapper]
-flavors = [ "extra_on", "server_on",]
+flavors = [ "extra_on",]
 
-[metafile.krypton]
-flavors = [ "server_on",]
+[metafile.journeymap]
+flavors = [ "journey",]
 
 [metafile.lambdabettergrass]
 flavors = [ "immersion_on",]
@@ -166,26 +151,17 @@ flavors = [ "immersion_on",]
 [metafile.lazydfu]
 flavors = [ "performance_on",]
 
-[metafile.ledger]
-flavors = [ "server_on",]
-
-[metafile.legendary-tooltips]
+[metafile.legendary-tooltips-fabric]
 flavors = [ "ui-aesthetics_on",]
 
 [metafile.libipn]
 flavors = [ "ui-tools_on",]
 
-[metafile.libre-exp-fix]
+[metafile.libreexpfix]
 flavors = [ "bug-fixes_on",]
 
 [metafile.lithium]
 flavors = [ "performance_on",]
-
-[metafile.luckperms]
-flavors = [ "server_on",]
-
-[metafile.log-begone]
-flavors = [ "server_on",]
 
 [metafile.memoryleakfix]
 flavors = [ "bug-fixes_on",]
@@ -194,7 +170,7 @@ flavors = [ "bug-fixes_on",]
 flavors = [ "ui-aesthetics_on",]
 
 [metafile.mixintrace]
-flavors = [ "server_on", "debug_on",]
+flavors = [ "debug_on",]
 
 [metafile.modmenu]
 flavors = [ "ui-tools_on",]
@@ -205,10 +181,10 @@ flavors = [ "performance_on", "immersion_on",]
 [metafile.morecullingextra]
 flavors = [ "performance_on", "immersion_on",]
 
-[metafile.multiworld-mod]
-flavors = [ "server_on",]
+[metafile.polymer]
+flavors = [ "extra_on",]
 
-[metafile.prism-lib]
+[metafile.prism-fabric]
 flavors = [ "ui-aesthetics_on",]
 
 [metafile.reacharound]
@@ -232,16 +208,10 @@ flavors = [ "ui-tools_on",]
 [metafile.roughly-enough-trades]
 flavors = [ "ui-tools_on",]
 
-[metafile.servercore]
-flavors = [ "server_on",]
-
-[metafile.sessility]
-flavors = [ "server_on",]
-
 [metafile.show-me-your-skin]
 flavors = [ "extra_on",]
 
-[metafile.smoothboot-fabric]
+[metafile.smooth-boot]
 flavors = [ "performance_on",]
 
 [metafile.sodium-extra]
@@ -251,7 +221,7 @@ flavors = [ "performance_on",]
 flavors = [ "performance_on",]
 
 [metafile.spark]
-flavors = [ "server_on", "debug_on",]
+flavors = [ "debug_on",]
 
 [metafile.starlight]
 flavors = [ "performance_on",]
@@ -259,11 +229,8 @@ flavors = [ "performance_on",]
 [metafile.status-effect-bars]
 flavors = [ "ui-aesthetics_on",]
 
-[metafile.stepup]
+[metafile.stepupnext]
 flavors = [ "extra_on",]
-
-[metafile.timeoutout]
-flavors = [ "bug-fixes_on",]
 
 [metafile.too-many-binds]
 flavors = [ "ui-tools_on",]
@@ -272,22 +239,19 @@ flavors = [ "ui-tools_on",]
 flavors = [ "bug-fixes_on",]
 
 [metafile.universal-graves]
-flavors = [ "server_on",]
-
-[metafile.vanish]
-flavors = [ "server_on",]
-
-[metafile.view-distance-fix]
-flavors = [ "bug-fixes_on",]
+flavors = [ "extra_on",]
 
 [metafile.visuality]
 flavors = [ "immersion_on",]
 
-[metafile.wdmgslt]
+[metafile.why-does-my-glass-sound-like-that]
 flavors = [ "immersion_on",]
 
 [metafile.xaeros-world-map]
-flavors = [ "extra_on",]
+flavors = [ "xaero",]
+
+[metafile.xaeros-minimap]
+flavors = [ "xaero",]
 
 [metafile.xl-packets-fabric]
-flavors = [ "server_on",]
+flavors = [ "performance_on",]
