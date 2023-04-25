@@ -73,6 +73,12 @@ flavors = "srv_on"
 [metafile.iceberg]
 flavors = "srv_on"
 
+[metafile.immersiveportals]
+flavors = "srv_on"
+
+[metafile.Immersive-trains]
+flavors = "srv_on"
+
 [metafile.interactic]
 flavors = "srv_on"
 
