@@ -2,7 +2,7 @@ import os
 modlist = []
 for x in os.listdir("./mods"):
     x.replace(".pw.toml", "")
-    modlist=[x,...]
+    modlist=[x,modlist...]
 
 os.system("packwiz refresh")
 import toml
