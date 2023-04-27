@@ -2,8 +2,10 @@ import yaml
 import toml
 import os
 import tempfile
+modlist = []
 for x in os.listdir("./mods"):
     x.replace(".pw.toml", "")
+    modlist.append(x)
 
 os.system("packwiz refresh")
 with open("pack-config/flavorgroups.toml", "r") as f, open("pack-config/flavors.yaml") as fl:
