@@ -1,9 +1,5 @@
 import os
-modlist = []
-for x in os.listdir("./mods"):
-    x.replace(".pw.toml", "")
-    modlist=[x,modlist...]
-
+modlist = [modname.replace(".pw.toml", "") for modname in os.listdir("./mods")]
 os.system("packwiz refresh")
 import toml
 import yaml
