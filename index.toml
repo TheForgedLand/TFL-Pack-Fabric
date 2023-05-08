@@ -276,6 +276,11 @@ hash = "61bd48a5fbffdde5c90f98d8c96dae51d6e888a90386b5156c945ee2cd9cdbf2"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "04f8ea7cf3527c35faf1c641d2867852aa86ef4af6ef44b5056bf7a880bc8854"
+metafile = true
+
+[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f100efc360a85bc6decbec705d24aa4e785998cf5feb3f2548cb3e74e6a24ca5"
 metafile = true

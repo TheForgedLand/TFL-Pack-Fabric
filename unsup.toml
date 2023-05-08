@@ -1,3 +1,9 @@
+[flavor_groups.base]
+name = "Base Mods"
+side = "both"
+choices = "base"
+description = ""
+
 [flavor_groups.minimap]
 name = "Minimap mods:"
 [[flavor_groups.minimap.choices]]
@@ -12,33 +18,33 @@ description = "With Journeymap, you will be able to better navigate through your
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
-description = "These aesthetic mods will add small aesthetic tweaks to your game\nMods list:\n<ul><li>legendary-tooltips</li><li>advancement-plaques</li><li>better-enchanted-books</li><li>dynamiccrosshair</li><li>dynamiccrosshaircompat</li><li>iceberg</li><li>microdurability</li><li>prism-lib</li><li>status-effect-bars</li></ul>\n"
 side = "client"
 choices = [ "ui-aesthetics_on", "ui-aesthetics_off",]
+description = "These aesthetic mods will add small aesthetic tweaks to your game\nMods list:\n<ul></ul>\n"
 
 [flavor_groups.ui-tools]
 name = "Interface-tools"
-description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight!\namongst those tools, you will find:\n<ul><li>Roughly enough items (and addons)</li><li>Appleskin (food info)</li><li>Inventory Profiles Next (item sorter)</li><li>Amecs</li></ul>\n"
 side = "client"
 choices = [ "ui-tools_on", "ui-tools_off",]
+description = "with This assortment of tools, you will be able to quickly sort your inventory with a click of a button and easily check recipes to explore Create and Farmers's Delight!\namongst those tools, you will find:\n<ul></ul>\n"
 
 [flavor_groups.performance]
 name = "performance"
-description = "mods:\n<ul><li>clumps</li><li>entityculling</li><li>ferrite-core</li><li>forgetmechunk</li><li>indium</li><li>lazydfu</li><li>lithium</li><li>moreculling</li><li>morecullingextra</li><li>reeses-sodium-options</li><li>smoothboot-fabric</li><li>sodium-extra</li><li>sodium</li><li>starlight</li></ul>\n"
 side = "both"
 choices = [ "performance_on", "performance_off",]
+description = "mods:\n<ul></ul>\n"
 
 [flavor_groups.extra]
 name = "Extra!"
-description = "mods:\n<ul><li>chatcalc</li><li>clickthrough</li><li>freecam</li><li>hotbarcycle</li><li>iceberg</li><li>invmove</li><li>itemswapper</li><li>reacharound</li><li>show-me-your-skin</li><li>stepup</li><li>xaeros-world-map</li></ul>\n"
 side = "client"
 choices = [ "extra_on", "extra_off",]
+description = "mods:\n<ul></ul>\n"
 
 [flavor_groups.immersion]
 name = "Immersion!"
-description = "mods:\n<ul><li>bedrockwaters</li><li>charmonium</li><li>interactic</li><li>lambdabettergrass</li><li>lambdynamiclights</li><li>moreculling</li><li>morecullingextra</li><li>visuality</li><li>wdmgslt</li></ul>\n"
 side = "client"
 choices = [ "immersion_on", "immersion_off",]
+description = "mods:\n<ul></ul>\n"
 
 [flavor_groups.misc]
 name = "Miscelaneus"
@@ -48,282 +54,282 @@ choices = [ "misc_on", "misc_off",]
 
 [flavor_groups.bug-fixes]
 name = "Bugfixes!"
-description = "mods:\n<ul><li>advancements-debug</li><li>block_limit_fix</li><li>gotta-go-fast-fabric</li><li>libre-exp-fix</li><li>memoryleakfix</li><li>timeoutout</li><li>tooltipfix</li><li>view-distance-fix</li></ul>\n"
 side = "both"
 choices = [ "bug-fixes_on", "bug-fixes_off",]
+description = "mods:\n<ul></ul>\n"
 
 [flavor_groups.debug]
 name = "Debug Toolkit"
-description = "mods:\n<ul><li>mixintrace</li><li>spark</li></ul>\n"
 side = "both"
 choices = [ "debug_on", "debug_off",]
+description = "mods:\n<ul>\n</ul>\n"
 
 [metafile.advancement-plaques-fabric]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.advancements-debug]
-flavors = [ "bug-fixes _on",]
+flavors = "bug-fixes_on"
 
 [metafile.amecs]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.appleskin]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.architectury-api]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.axes-are-weapons]
-flavors = [ "misc _on",]
+flavors = "misc_on"
 
 [metafile.balm]
-flavors = [ "misc _on",]
+flavors = "misc_on"
 
 [metafile.bedrockwaters]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.better-enchanted-books]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.borderless-mining]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.camera-utils]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.charm]
-flavors = [ "misc _on",]
+flavors = "bas_on"
 
 [metafile.charmonium]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.chatqalc]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.clickthrough]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.clumps]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.content-creator-server-status]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.create-fabric]
-flavors = [ "misc _on",]
+flavors = "bas_on"
 
 [metafile.dynamic-crosshair]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.dynamic-crosshair-compat]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.entityculling]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.expanded-delight]
-flavors = [ "misc _on",]
+flavors = "base"
 
 [metafile.extra-alchemy]
-flavors = [ "misc _on",]
+flavors = "base"
 
 [metafile.fabric-api]
-flavors = [ "misc _on",]
+flavors = "base"
 
 [metafile.fabric-language-kotlin]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.farmers-delight-fabric]
-flavors = [ "misc _on",]
+flavors = "base"
 
 [metafile.ferritecore-fabric]
-flavors = [ "misc _on",]
-
-[metafile.forge-config-api-port]
-flavors = "hmmm"
+flavors = "performance_on"
 
 [metafile.forge-config-api-port-fabric]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.forgetmechunk]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.free-cam]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.hotbarcycle]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.iceberg-fabric]
-flavors = [ "ui-aesthetics _on", "extra _on",]
+flavors = [ "ui-aesthetics_on", "extra_on",]
 
 [metafile.immersive-trains]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.immersiveportals]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.indium]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.interactic]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.inventory-profiles-next]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.invmove]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.itemswapper]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.journeymap]
-flavors = [ "journey",]
+flavors = "journey"
 
 [metafile.kitsune]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.lambdabettergrass]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.lambdynamiclights]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.lazydfu]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.legendary-tooltips-fabric]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.libipn]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.libreexpfix]
-flavors = [ "bug-fixes _on",]
+flavors = "bug-fixes_on"
 
 [metafile.lithium]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.memoryleakfix]
-flavors = [ "bug-fixes _on",]
+flavors = "bug-fixes_on"
 
 [metafile.microdurability]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.mixintrace]
-flavors = [ "debug _on",]
+flavors = "debug_on"
 
 [metafile.modmenu]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.moreculling]
-flavors = [ "performance _on", "immersion _on",]
+flavors = [ "performance_on", "immersion_on",]
 
 [metafile.morecullingextra]
-flavors = [ "performance _on", "immersion _on",]
+flavors = [ "performance_on", "immersion_on",]
 
 [metafile.netherportalfix]
-flavors = [ "misc _on",]
+flavors = "misc_on"
+
+[metafile.openblocks-elevator-fabric]
+flavors = "base"
 
 [metafile.origins]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.origins-classes]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.origins-plus-plus]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.origins-umbrellas]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.pehkui]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.polymer]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.prism-fabric]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.reacharound]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.reeses-sodium-options]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.roughly-enough-items]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.roughly-enough-loot-tables]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.roughly-enough-professions-rep]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.roughly-enough-resources]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.roughly-enough-trades]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.scout]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.show-me-your-skin]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.simple-voice-chat]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.smooth-boot]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.sodium]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.sodium-extra]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.spark]
-flavors = [ "debug _on",]
+flavors = "debug_on"
 
 [metafile.starlight]
-flavors = [ "performance _on",]
+flavors = "performance_on"
 
 [metafile.status-effect-bars]
-flavors = [ "ui-aesthetics _on",]
+flavors = "ui-aesthetics_on"
 
 [metafile.stepupnext]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.too-many-binds]
-flavors = [ "ui-tools _on",]
+flavors = "ui-tools_on"
 
 [metafile.tooltipfix]
-flavors = [ "bug-fixes _on",]
+flavors = "bug-fixes_on"
 
 [metafile.trinkets]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.universal-graves]
-flavors = [ "extra _on",]
+flavors = "extra_on"
 
 [metafile.visuality]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.why-does-my-glass-sound-like-that]
-flavors = [ "immersion _on",]
+flavors = "immersion_on"
 
 [metafile.windchimes]
-flavors = [ "base _on",]
+flavors = "base"
 
 [metafile.xaeros-minimap]
-flavors = [ "xaero",]
+flavors = "xaero"
 
 [metafile.xaeros-world-map]
-flavors = [ "xaero",]
+flavors = "xaero"
 
 [metafile.xl-packets-fabric]
-flavors = [ "performance _on",]
+flavors = "performance_on"
