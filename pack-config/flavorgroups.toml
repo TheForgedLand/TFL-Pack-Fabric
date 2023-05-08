@@ -1,7 +1,11 @@
 [flavor_groups.base]
 name = "Base Mods"
 side = "both"
+<<<<<<< HEAD
 choices = ["base_on","base_off]
+=======
+choices = ["base","none]
+>>>>>>> ed49e88c21eb87e725adb5b38788d115d176d2fa
 description = """
 """
 
