@@ -117,6 +117,11 @@ mods:
 side = "client"
 choices = [ "immersion_on", "immersion_off",]
 
+[flavor_groups.misc]
+name = "Miscelaneus"
+description = "Miscelaneus mods that do not quite fit a propper group"
+side = "client"
+choices = ["misc_on", "misc_off"]
 
 [flavor_groups.bug-fixes]
 name = "Bugfixes!"

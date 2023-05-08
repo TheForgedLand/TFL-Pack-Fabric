@@ -1,68 +1,181 @@
-advancement-plaques-fabric: ui-aesthetics_on
-advancements-debug: bug-fixes_on
-amecs: ui-tools_on
-appleskin: ui-tools_on
-architectury-api: ui-tools_on
-bedrockwaters: immersion_on
-better-enchanted-books: ui-aesthetics_on
-borderless-mining: ui-tools_on
-camera-utils: ui-tools_on
-charmonium: immersion_on
-chatqalc: extra_on
-clickthrough: extra_on
-clumps: performance_on
-content-creator-server-status: extra_on
-dynamic-crosshair: ui-aesthetics_on
-dynamic-crosshair-compat: ui-aesthetics_on
-entityculling: performance_on
-fabric-language-kotlin: ui-tools_on
-ferritecore: performance_on
-forgetmechunk: performance_on
-forge-config-api-port: extra_on
-free-cam: extra_on
-hotbarcycle: extra_on
-iceberg-fabric: ui-aesthetics_on,extra_on
-indium: performance_on
-interactic: immersion_on
-inventory-profiles-next: ui-tools_on
-invmove: extra_on
-itemswapper: extra_on
-journeymap: journey
-lambdabettergrass: immersion_on
-lambdynamiclights: immersion_on
-lazydfu: performance_on
-legendary-tooltips-fabric: ui-aesthetics_on
-libipn: ui-tools_on
-libreexpfix: bug-fixes_on
-lithium: performance_on
-memoryleakfix: bug-fixes_on
-microdurability: ui-aesthetics_on
-mixintrace: debug_on
-modmenu: ui-tools_on
-moreculling: performance_on,immersion_on
-morecullingextra: performance_on,immersion_on
-polymer: extra_on
-prism-fabric: ui-aesthetics_on
-reacharound: extra_on
-reeses-sodium-options: performance_on
-roughly-enough-items: ui-tools_on
-roughly-enough-loot-tables: ui-tools_on
-roughly-enough-professions-rep: ui-tools_on
-roughly-enough-resources: ui-tools_on
-roughly-enough-trades: ui-tools_on
-show-me-your-skin: extra_on
-smooth-boot: performance_on
-sodium-extra: performance_on
-sodium: performance_on
-spark: debug_on
-starlight: performance_on
-status-effect-bars: ui-aesthetics_on
-stepupnext: extra_on
-too-many-binds: ui-tools_on
-tooltipfix: bug-fixes_on
-universal-graves: extra_on
-visuality: immersion_on
-why-does-my-glass-sound-like-that: immersion_on
-xaeros-world-map: xaero
-xaeros-minimap: xaero
-xl-packets-fabric: performance_on
+advancement-plaques-fabric:
+- ui-aesthetics _on
+advancements-debug:
+- bug-fixes _on
+amecs:
+- ui-tools _on
+appleskin:
+- ui-tools _on
+architectury-api:
+- ui-tools _on
+axes-are-weapons:
+- misc _on
+balm:
+- misc _on
+bedrockwaters:
+- immersion _on
+better-enchanted-books:
+- ui-aesthetics _on
+borderless-mining:
+- ui-tools _on
+camera-utils:
+- ui-tools _on
+charm:
+- misc _on
+charmonium:
+- immersion _on
+chatqalc:
+- extra _on
+clickthrough:
+- extra _on
+clumps:
+- performance _on
+content-creator-server-status:
+- extra _on
+create-fabric:
+- misc _on
+dynamic-crosshair:
+- ui-aesthetics _on
+dynamic-crosshair-compat:
+- ui-aesthetics _on
+entityculling:
+- performance _on
+expanded-delight:
+- misc _on
+extra-alchemy:
+- misc _on
+fabric-api:
+- misc _on
+fabric-language-kotlin:
+- ui-tools _on
+farmers-delight-fabric:
+- misc _on
+ferritecore-fabric:
+- misc _on
+forge-config-api-port-fabric:
+- extra _on
+forgetmechunk:
+- performance _on
+free-cam:
+- extra _on
+hotbarcycle:
+- extra _on
+iceberg-fabric:
+- ui-aesthetics _on
+- extra _on
+immersive-trains:
+- base _on
+immersiveportals:
+- base _on
+indium:
+- performance _on
+interactic:
+- immersion _on
+inventory-profiles-next:
+- ui-tools _on
+invmove:
+- extra _on
+itemswapper:
+- extra _on
+journeymap:
+- journey
+kitsune:
+- base _on
+lambdabettergrass:
+- immersion _on
+lambdynamiclights:
+- immersion _on
+lazydfu:
+- performance _on
+legendary-tooltips-fabric:
+- ui-aesthetics _on
+libipn:
+- ui-tools _on
+libreexpfix:
+- bug-fixes _on
+lithium:
+- performance _on
+memoryleakfix:
+- bug-fixes _on
+microdurability:
+- ui-aesthetics _on
+mixintrace:
+- debug _on
+modmenu:
+- ui-tools _on
+moreculling:
+- performance _on
+- immersion _on
+morecullingextra:
+- performance _on
+- immersion _on
+netherportalfix:
+- misc _on
+origins:
+- base _on
+origins-classes:
+- base _on
+origins-plus-plus:
+- base _on
+origins-umbrellas:
+- base _on
+pehkui:
+- base _on
+polymer:
+- extra _on
+prism-fabric:
+- ui-aesthetics _on
+reacharound:
+- extra _on
+reeses-sodium-options:
+- performance _on
+roughly-enough-items:
+- ui-tools _on
+roughly-enough-loot-tables:
+- ui-tools _on
+roughly-enough-professions-rep:
+- ui-tools _on
+roughly-enough-resources:
+- ui-tools _on
+roughly-enough-trades:
+- ui-tools _on
+scout:
+- base _on
+show-me-your-skin:
+- extra _on
+simple-voice-chat:
+- base _on
+smooth-boot:
+- performance _on
+sodium:
+- performance _on
+sodium-extra:
+- performance _on
+spark:
+- debug _on
+starlight:
+- performance _on
+status-effect-bars:
+- ui-aesthetics _on
+stepupnext:
+- extra _on
+too-many-binds:
+- ui-tools _on
+tooltipfix:
+- bug-fixes _on
+trinkets:
+- base _on
+universal-graves:
+- extra _on
+visuality:
+- immersion _on
+why-does-my-glass-sound-like-that:
+- immersion _on
+windchimes:
+- base _on
+xaeros-minimap:
+- xaero
+xaeros-world-map:
+- xaero
+xl-packets-fabric:
+- performance _on
