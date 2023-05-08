@@ -9,13 +9,13 @@ bedrockwaters: immersion_on
 better-enchanted-books: ui-aesthetics_on
 borderless-mining: ui-tools_on
 camera-utils: ui-tools_on
-charm: bas_on
+charm: base
 charmonium: immersion_on
 chatqalc: extra_on
 clickthrough: extra_on
 clumps: performance_on
 content-creator-server-status: extra_on
-create-fabric: bas_on
+create-fabric: base
 dynamic-crosshair: ui-aesthetics_on
 dynamic-crosshair-compat: ui-aesthetics_on
 entityculling: performance_on
