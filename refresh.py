@@ -19,9 +19,9 @@ if outdated.__len__()>0:print("These mods are being removed!!");[print("- ",mod)
 if newly_added.__len__()>0:print("These mods are being added!!");[print("- ",mod) for mod in newly_added];print("\n")
 
 for mod in outdated:
-    modflavors.pop(mod)
     for m in modlist:
-        if Levenshtein.ratio(mod,m)>=0.85: print(mod,"might be related to",m)
+        if Levenshtein.ratio(mod,m)>=0.85: print(mod,"might be related to",m); print('%s: %s' % (mod, modflavors.get(mod)))
+    modflavors.pop(mod)
 
 with open("unsup.toml", "w") as f, open("pack-config/flavors.yaml","w") as fl:
     yaml.dump(modflavors, fl)
