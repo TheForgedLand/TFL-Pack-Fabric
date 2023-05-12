@@ -31,4 +31,5 @@ def update_flavors(modlist):
         yaml.dump(modflavors, fl)
         toml.dump(data, f)
 
+update_flavors(get_modlist())
 os.system("packwiz refresh")

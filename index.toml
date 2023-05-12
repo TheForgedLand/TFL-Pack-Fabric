@@ -361,11 +361,6 @@ hash = "a9a7a39a3a4026cad187c3d4a7c4ef8217edde8d2b49031d66b8303d2061d35b"
 metafile = true
 
 [[files]]
-file = "mods/xl-packets-fabric.pw.toml"
-hash = "3e2e0531261f0ab6742de65382f8bddc722e1694d738b00cd0409aa2cff8bfd3"
-metafile = true
-
-[[files]]
 file = "unsup-0.2.0-pre3.jar"
 hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
 alias = "unsup.jar"
