@@ -1,16 +1,16 @@
 name = "Log Begone"
-filename = "Log-Begone-Fabric-1.19.x-1.0.5.jar"
+filename = "Log-Begone-Fabric-1.19.x-1.0.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/FvOW1X5O/Log-Begone-Fabric-1.19.x-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/9LLWEul9/Log-Begone-Fabric-1.19.x-1.0.6.jar"
 hash-format = "sha1"
-hash = "ea5dacf0f0e8630c7cf73ef20c5bfa34ab521467"
+hash = "590a496190dfccb53373bc425f62e37a026babd2"
 
 [update]
 [update.modrinth]
 mod-id = "9ON3zv6e"
-version = "FvOW1X5O"
+version = "9LLWEul9"
 
 [option]
 optional = true
