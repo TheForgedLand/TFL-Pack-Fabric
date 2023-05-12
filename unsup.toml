@@ -1,7 +1,224 @@
-[metafile]
-
 [flavor_groups.server]
 side = "server"
 name = "Server Tools"
 description = "These are the tools used by the server to fix bugs and improve performance. they are not meant to be installed on the client, so only add them to your game if you want to simulate the server's environment. <b>make sure you know what you are doing</b>\n"
 choices = [ "srv_on", "srv_off",]
+
+[metafile.advancements-debug]
+flavors = "srv_on"
+
+[metafile.alternate-current]
+flavors = "srv_on"
+
+[metafile.appleskin]
+flavors = "srv_on"
+
+[metafile.architectury-api]
+flavors = "srv_on"
+
+[metafile.axes-are-weapons]
+flavors = "srv_on"
+
+[metafile.balm]
+flavors = "srv_on"
+
+[metafile.block_limit_fix]
+flavors = "srv_on"
+
+[metafile.carpet]
+flavors = "srv_on"
+
+[metafile.carpet-fixes]
+flavors = "srv_on"
+
+[metafile.charm]
+flavors = "srv_on"
+
+[metafile.clearnetherrack]
+flavors = "srv_on"
+
+[metafile.cloth-config]
+flavors = "srv_on"
+
+[metafile.clumps]
+flavors = "srv_on"
+
+[metafile.content-creator-server-status]
+flavors = "srv_on"
+
+[metafile.create-fabric]
+flavors = "srv_on"
+
+[metafile.crops-love-rain]
+flavors = "srv_on"
+
+[metafile.expanded-delight]
+flavors = "srv_on"
+
+[metafile.extra-alchemy]
+flavors = "srv_on"
+
+[metafile.fabric-api]
+flavors = "srv_on"
+
+[metafile.fabric-language-kotlin]
+flavors = "srv_on"
+
+[metafile.farmers-delight-fabric]
+flavors = "srv_on"
+
+[metafile.fast-portals]
+flavors = "srv_on"
+
+[metafile.ferritecore-fabric]
+flavors = "srv_on"
+
+[metafile.forge-config-api-port-fabric]
+flavors = "srv_on"
+
+[metafile.free-cam]
+flavors = "srv_on"
+
+[metafile.gotta-go-fast-fabric]
+flavors = "srv_on"
+
+[metafile.hotbarcycle]
+flavors = "srv_on"
+
+[metafile.iceberg-fabric]
+flavors = "srv_on"
+
+[metafile.immersive-trains]
+flavors = "srv_on"
+
+[metafile.immersiveportals]
+flavors = "srv_on"
+
+[metafile.indium]
+flavors = "srv_on"
+
+[metafile.interactic]
+flavors = "srv_on"
+
+[metafile.itemswapper]
+flavors = "srv_on"
+
+[metafile.journeymap]
+flavors = "srv_on"
+
+[metafile.kitsune]
+flavors = "srv_on"
+
+[metafile.krypton]
+flavors = "srv_on"
+
+[metafile.lazydfu]
+flavors = "srv_on"
+
+[metafile.ledger]
+flavors = "srv_on"
+
+[metafile.libreexpfix]
+flavors = "srv_on"
+
+[metafile.lithium]
+flavors = "srv_on"
+
+[metafile.log-begone]
+flavors = "srv_on"
+
+[metafile.luckperms]
+flavors = "srv_on"
+
+[metafile.memoryleakfix]
+flavors = "srv_on"
+
+[metafile.mixintrace]
+flavors = "srv_on"
+
+[metafile.netherportalfix]
+flavors = "srv_on"
+
+[metafile.openblocks-elevator-fabric]
+flavors = "srv_on"
+
+[metafile.origins]
+flavors = "srv_on"
+
+[metafile.origins-classes]
+flavors = "srv_on"
+
+[metafile.origins-plus-plus]
+flavors = "srv_on"
+
+[metafile.origins-umbrellas]
+flavors = "srv_on"
+
+[metafile.pehkui]
+flavors = "srv_on"
+
+[metafile.polymer]
+flavors = "srv_on"
+
+[metafile.reacharound]
+flavors = "srv_on"
+
+[metafile.roughly-enough-items]
+flavors = "srv_on"
+
+[metafile.roughly-enough-loot-tables]
+flavors = "srv_on"
+
+[metafile.roughly-enough-professions-rep]
+flavors = "srv_on"
+
+[metafile.roughly-enough-resources]
+flavors = "srv_on"
+
+[metafile.roughly-enough-trades]
+flavors = "srv_on"
+
+[metafile.scout]
+flavors = "srv_on"
+
+[metafile.servercore]
+flavors = "srv_on"
+
+[metafile.sessility]
+flavors = "srv_on"
+
+[metafile.simple-voice-chat]
+flavors = "srv_on"
+
+[metafile.smooth-boot]
+flavors = "srv_on"
+
+[metafile.spark]
+flavors = "srv_on"
+
+[metafile.starlight]
+flavors = "srv_on"
+
+[metafile.timeoutout]
+flavors = "srv_on"
+
+[metafile.trinkets]
+flavors = "srv_on"
+
+[metafile.universal-graves]
+flavors = "srv_on"
+
+[metafile.view-distance-fix]
+flavors = "srv_on"
+
+[metafile.windchimes]
+flavors = "srv_on"
+
+[metafile.xaeros-minimap]
+flavors = "srv_on"
+
+[metafile.xaeros-world-map]
+flavors = "srv_on"
+
+[metafile.xl-packets-fabric]
+flavors = "srv_on"
