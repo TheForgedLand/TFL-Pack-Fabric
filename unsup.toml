@@ -1,7 +1,7 @@
 [flavor_groups.base]
 name = "Base Mods"
 side = "both"
-choices = "base"
+choices = [ "base_on", "base_off",]
 description = ""
 
 [flavor_groups.minimap]
@@ -98,7 +98,7 @@ flavors = "ui-tools_on"
 flavors = "ui-tools_on"
 
 [metafile.charm]
-flavors = "bas_on"
+flavors = "base_on"
 
 [metafile.charmonium]
 flavors = "immersion_on"
@@ -116,7 +116,7 @@ flavors = "performance_on"
 flavors = "extra_on"
 
 [metafile.create-fabric]
-flavors = "bas_on"
+flavors = "base_on"
 
 [metafile.dynamic-crosshair]
 flavors = "ui-aesthetics_on"
@@ -128,19 +128,19 @@ flavors = "ui-aesthetics_on"
 flavors = "performance_on"
 
 [metafile.expanded-delight]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.extra-alchemy]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.fabric-api]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.fabric-language-kotlin]
 flavors = "ui-tools_on"
 
 [metafile.farmers-delight-fabric]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.ferritecore-fabric]
 flavors = "performance_on"
@@ -161,10 +161,10 @@ flavors = "extra_on"
 flavors = [ "ui-aesthetics_on", "extra_on",]
 
 [metafile.immersive-trains]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.immersiveportals]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.indium]
 flavors = "performance_on"
@@ -185,7 +185,7 @@ flavors = "extra_on"
 flavors = "journey"
 
 [metafile.kitsune]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.lambdabettergrass]
 flavors = "immersion_on"
@@ -230,22 +230,22 @@ flavors = [ "performance_on", "immersion_on",]
 flavors = "misc_on"
 
 [metafile.openblocks-elevator-fabric]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.origins]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.origins-classes]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.origins-plus-plus]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.origins-umbrellas]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.pehkui]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.polymer]
 flavors = "extra_on"
@@ -275,13 +275,13 @@ flavors = "ui-tools_on"
 flavors = "ui-tools_on"
 
 [metafile.scout]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.show-me-your-skin]
 flavors = "extra_on"
 
 [metafile.simple-voice-chat]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.smooth-boot]
 flavors = "performance_on"
@@ -311,7 +311,7 @@ flavors = "ui-tools_on"
 flavors = "bug-fixes_on"
 
 [metafile.trinkets]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.universal-graves]
 flavors = "extra_on"
@@ -323,13 +323,10 @@ flavors = "immersion_on"
 flavors = "immersion_on"
 
 [metafile.windchimes]
-flavors = "base"
+flavors = "base_on"
 
 [metafile.xaeros-minimap]
 flavors = "xaero"
 
 [metafile.xaeros-world-map]
 flavors = "xaero"
-
-[metafile.xl-packets-fabric]
-flavors = "performance_on"

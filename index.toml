@@ -446,11 +446,6 @@ hash = "a9a7a39a3a4026cad187c3d4a7c4ef8217edde8d2b49031d66b8303d2061d35b"
 metafile = true
 
 [[files]]
-file = "mods/xl-packets-fabric.pw.toml"
-hash = "3e2e0531261f0ab6742de65382f8bddc722e1694d738b00cd0409aa2cff8bfd3"
-metafile = true
-
-[[files]]
 file = "options.amecsapi.txt"
 hash = "22e2ccd2bd6b783fcc78f8fd57bc06108499b9f3cc99b9c3c457a9a5fdce7f24"
 preserve = true
