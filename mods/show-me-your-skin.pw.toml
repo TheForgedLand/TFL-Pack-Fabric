@@ -1,15 +1,15 @@
 name = "Show Me Your Skin!"
-filename = "show-me-your-skin-1.6.2+1.19.2.jar"
+filename = "show-me-your-skin-1.6.3+1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a53cfb6ac1c0e66d148dc654ec672274325e6fb7"
+hash = "41d6a400d0d2f74592be1e17305a961e4e138df7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4499420
+file-id = 4506445
 project-id = 622010
 
 [option]

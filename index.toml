@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec2e1ea07ba06cf072dc100c59b5cf607f5bf08bf5d412d5f193d4f7face9af"
+hash = "628b51cc49ec601fc92dd6b5c68e8da51ba5a885c680706beea7df0a3774322a"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3cf631e14aaa5a8648c89c7b3c8e7bbd8ba5e05744f679505b028ecc7317a087"
+hash = "69aee51b161e32e3276999f14a768f35dc4fd6aaafb68abb6aa897443117b3db"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "69a72732356bc8e5891e0a0b8cbc17ee13bb70d657e92299cde881f894873e67"
+hash = "c773103df3188158e5bd78a69406aaee4c144875d65e19a12c1cde35c6c8482d"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a21af62f8f44605cc22e2d4f0545abe6104433b35df67041b79fe2565f479ce3"
+hash = "253606852ede9f61268d3cdffe964b4f7fd31839aa291b94b33f58d16f92518e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "42a6bd87bce975b2077fd2ed9a0ed275497328631bdd70db47c4b58f6076736f"
+hash = "f355c685abfa0e4ac908a5e74460893412a7f4c4057ff27cae8776feb7fca7dc"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "0513d5edda046cce06353439304bd3c8480ba93f9d8950780c656e800c9db2d7"
+hash = "55ec960040efab362ac274d7970b0ed9e41281f895004fa2f2622a5d62de3d97"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "f1944f882517c7812b056295a9cde490fe24a9b00eb63b286cc5684b6d8a31cc"
+hash = "9d065a2bcd5ff516b67d0c3446ba5726af6281fd4e200f30e0546c9b561e5f50"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "9aea034ac4ea8c80d4c74422d740f9ae5326c536218f44f4af5b909396d6512d"
+hash = "a3ad9073b2414c9305b716386e440efe9fba1eafe840bb5e584ae7f82f2fc117"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2eb57b31d459ef1d6e693bfa7a36aa7150f290c694fa9a7bee42dfc3cb11eeb1"
+hash = "2bbf22434e3fb04b266061705d5cbb4062f630c683c49210b1d6a9c554047323"
 metafile = true
 
 [[files]]
@@ -437,12 +437,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4e7b7ee4952f4caffd8314510b050ac8c7e542fe8371e450ee7d96789b99c2c0"
+hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "afc0b68b3d4ae0b41db32fdd33fb13baedbb0a2e2bdb387206d5f802058b0496"
+hash = "a9a7a39a3a4026cad187c3d4a7c4ef8217edde8d2b49031d66b8303d2061d35b"
 metafile = true
 
 [[files]]
