@@ -40,6 +40,7 @@ libreexpfix: srv_on
 lithium: srv_on
 log-begone: srv_on
 luckperms: srv_on
+maintenance-mode-forge-fabric-quilt: srv_on
 memoryleakfix: srv_on
 mixintrace: srv_on
 netherportalfix: srv_on
@@ -50,7 +51,6 @@ origins-plus-plus: srv_on
 origins-umbrellas: srv_on
 pehkui: srv_on
 polymer: srv_on
-reacharound: srv_on
 roughly-enough-items: srv_on
 roughly-enough-loot-tables: srv_on
 roughly-enough-professions-rep: srv_on
@@ -68,5 +68,3 @@ trinkets: srv_on
 universal-graves: srv_on
 view-distance-fix: srv_on
 windchimes: srv_on
-xaeros-minimap: srv_on
-xaeros-world-map: srv_on

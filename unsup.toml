@@ -219,6 +219,3 @@ flavors = "srv_on"
 
 [metafile.xaeros-world-map]
 flavors = "srv_on"
-
-[metafile.xl-packets-fabric]
-flavors = "srv_on"

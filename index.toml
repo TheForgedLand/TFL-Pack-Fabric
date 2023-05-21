@@ -351,16 +351,6 @@ hash = "802de3e5d7dd6cdd49a52d14c03285d6e46471cea49ac13d0fc64238420b734c"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "a9a7a39a3a4026cad187c3d4a7c4ef8217edde8d2b49031d66b8303d2061d35b"
-metafile = true
-
-[[files]]
 file = "unsup-0.2.0-pre3.jar"
 hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
 alias = "unsup.jar"
