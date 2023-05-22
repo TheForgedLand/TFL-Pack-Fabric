@@ -42,4 +42,4 @@ def update_flavors(modlist):
         yaml.dump(modflavors, fl)
         toml.dump(data, f)
 
-os.system("packwiz refresh")
+os.system("./packwiz refresh")
