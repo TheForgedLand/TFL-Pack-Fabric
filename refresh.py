@@ -32,4 +32,4 @@ def update_flavors(modlist):
         toml.dump(data, f)
 
 update_flavors(get_modlist())
-os.system("packwiz refresh")
+os.system("./packwiz refresh")

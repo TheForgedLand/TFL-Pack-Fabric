@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "69aee51b161e32e3276999f14a768f35dc4fd6aaafb68abb6aa897443117b3db"
+hash = "52128e18614a31b34aa103a9b69bf601251c5bbf9e5cf319c2cbd39badfbb00f"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveportals.pw.toml"
-hash = "1b00a4302ee0958672cdf9278f4e735d15f14abf9ab4e9046317eb1affee446d"
+hash = "5dd1a25c488a1cab67d33037fd2d3483404fdfd01aa8bdef8c0b0aea99096475"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "9d065a2bcd5ff516b67d0c3446ba5726af6281fd4e200f30e0546c9b561e5f50"
+hash = "b4b1cd98c6fef58328d2cd2b4fd31fc3ed1c7849840d76e3d7ac8574cdf1fdbb"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
-hash = "ea763f123d474843c51c17b238950bc35e83d661f538767edf51fdbaab2b599b"
+hash = "df25e0cd9e59b3f66107042fb8f0f5d1d8da3caa6eba1cbc7fa3eaa2853abf78"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2bbf22434e3fb04b266061705d5cbb4062f630c683c49210b1d6a9c554047323"
+hash = "f78144e77fe20dde341b572a3fbca20eed51a28842b8cedf401253295a5eea2b"
 metafile = true
 
 [[files]]
