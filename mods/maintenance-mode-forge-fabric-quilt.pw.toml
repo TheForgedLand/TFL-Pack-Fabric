@@ -1,13 +1,13 @@
 name = "Maintenance Mode"
-filename = "mmode-fabric-1.19-1.1.1d.jar"
+filename = "mmode-fabric-1.19-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2fb130482d6b78854e24a08008aae593def6d12f"
+hash = "488b809587035cc921bdd590644c84bf5337a049"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4033600
+file-id = 4579226
 project-id = 630716

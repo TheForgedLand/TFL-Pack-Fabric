@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "975a7f12076dc25ef48414ae7cd8c2899770f42c0393654ade9577c83c1f9a85"
+hash = "e2eb0904f770184caa932c9c825e948891f1ff8b11f8f6db22a01dbf10d8b710"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "628b51cc49ec601fc92dd6b5c68e8da51ba5a885c680706beea7df0a3774322a"
+hash = "4314f479fd65c47307b5d437c75b15a205afeedf21dc6fab6619d0f8faf03100"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "ee614c2228590b079c2c5493bbe552d3a2dd0be7e91d691ec508616d9402f9b5"
+hash = "98501e91845d65b62379bfa07e7983fc63e7492ab23151faa692ba1ff2122528"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c773103df3188158e5bd78a69406aaee4c144875d65e19a12c1cde35c6c8482d"
+hash = "88f479758005e1af24e736a40008e48dac761d96293e62240e73e1084526b846"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-portals.pw.toml"
-hash = "9940b812e957ebd8f89ee7c65dfaa7013f0c64b312232ede29fb7ccb3e83bde0"
+hash = "249807587de9af7c1819b5753ac3741ca9d2dc2b33683c89c1365761e4a2dfc9"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/kitsune.pw.toml"
-hash = "5c2f492f8432844962ba88e47e02dda8caade0a8ddf45d96cebdf25a66f7ef82"
+hash = "74a350c4e7ec7cb95bb7b1fc1d173c06ea95a9b7ea487a08fdfbf578451f9d02"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/maintenance-mode-forge-fabric-quilt.pw.toml"
-hash = "2096b3efffd37c199880d1e65f8d341046ac4b600d9f17b21e3dba6b36218d47"
+hash = "6b59ece9429138b0c82f33899123f5dddf7d48c5e6681b659dc6c062d9897d05"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "8bbe5ceb620b3056bb365fae6b7498bf620648794310091b1e026d93e855f0d0"
+hash = "1c3831ca66d4476ca2946aa32fb8180af1ff8a197424eab1211c73fa485bfcbc"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "9ecac39f29f7f1e19a3156236db7e49892666ccebc1d56d35b2dcc00e18b9cb1"
+hash = "205d2dac26b76e11164976f2f9cb36af9f957c517f30d7e77de7bd39e38851c7"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "7edbf41edc62a58ee2ef88fa63789f2fd57b9251731db963a1a5818debc8840b"
+hash = "85326527329625e257a56499480a40e547e90b57c4e8e3c3e4a85ba91eca2ceb"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "405ebe2e619390f923a632be63767b693c29e91ee0d13437f02b0cd624d7fe4f"
+hash = "ebe3d7aaabea760f7e340372ea6b8bb1f7751d24a708c55dbf94f99eed414f04"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f78144e77fe20dde341b572a3fbca20eed51a28842b8cedf401253295a5eea2b"
+hash = "4926aef18f9ada236d90ce2645e59e40b4852e8e4ffd46b87f085d5c3189ea55"
 metafile = true
 
 [[files]]

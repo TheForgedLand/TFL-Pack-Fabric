@@ -1,16 +1,16 @@
 name = "Fast Portals"
-filename = "fabricfastportals-1.0.2.jar"
+filename = "fast-portals-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HTSaaFuA/versions/PtWHn7Xc/fabricfastportals-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/HTSaaFuA/versions/9hW6Q7yx/fast-portals-1.0.2.jar"
 hash-format = "sha1"
-hash = "4e38ffae8e2c61b27fdb70cea61f256801a96647"
+hash = "2da456c28102ca383c18ef87a4b56eaab2103629"
 
 [update]
 [update.modrinth]
 mod-id = "HTSaaFuA"
-version = "PtWHn7Xc"
+version = "9hW6Q7yx"
 
 [option]
 optional = true
