@@ -2,7 +2,7 @@ import yaml
 import toml
 import os
 import Levenshtein as le
-
+import platform
 
 def get_modlist():
     modlist = {modname.replace(".pw.toml", "")
@@ -42,4 +42,18 @@ def update_flavors(modlist):
         yaml.dump(modflavors, fl)
         toml.dump(data, f)
 
-os.system("./packwiz refresh")
+custom_sources = [
+    ["kitsune", "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Kitsune-1.1.9-CF.jar"],
+    ["origins", "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Origins-1.19.2-1.7.1-CF.jar"],
+    ["origins-plus-plus","https://github.com/AliCCfire/TFL-modpack/raw/CMOD/origins-plus-plus-2.0.1.jar"],
+    # ["tfl_utils", "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/tfl-0.0.1%2B1.19.2-dev.jar"]
+]
+
+if platform.system() == "Windows":
+    for mod, mod_url in custom_sources:
+        os.system("bin\\packwiz.exe url add %s %s" % (mod, mod_url))
+    os.system("bin\\packwiz.exe refresh")
+if platform.system() == "Linux":
+    for mod, mod_url in custom_sources:
+        os.system("bin/packwiz url add %s %s" % (mod, mod_url))
+    os.system("bin/packwiz refresh")

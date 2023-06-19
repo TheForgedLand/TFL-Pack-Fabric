@@ -3,10 +3,5 @@ filename = "Origins-1.19.2-1.7.1-CF.jar"
 
 [download]
 url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Origins-1.19.2-1.7.1-CF.jar"
-hash-format = "sha1"
-hash = "a97ee7db9daf0b646cf32cc44cf7bbc332edddb3"
-
-[option]
-optional = false
-default = true
-description = "Origins mod so now you can be different and fullfill your own fantasy of being a freaking zombie in minecraft"
+hash-format = "sha256"
+hash = "9034c5b8479a289d5c511516952f49ff13b36520bc4933377cfab4aedf45fcf3"

@@ -1,12 +1,7 @@
 name = "origins-plus-plus"
-filename = "origins-plus-plus-2.0-CF.jar"
+filename = "origins-plus-plus-2.0.1.jar"
 
 [download]
-url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/origins-plus-plus-2.0-CF.jar"
-hash-format = "sha1"
-hash = "4eefb0269cea49a02d3548538fddac77d7b96d69"
-
-[option]
-optional = false
-default = true
-description = "Extra origins to choose from"
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/origins-plus-plus-2.0.1.jar"
+hash-format = "sha256"
+hash = "1e671ca8f756495dd9e1b8fb91e1ce51e750c9dd0b1f7fbb30041e06611a5025"
