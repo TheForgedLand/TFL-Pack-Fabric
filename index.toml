@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "52128e18614a31b34aa103a9b69bf601251c5bbf9e5cf319c2cbd39badfbb00f"
+hash = "9b1d33602b7a8d207cda173625b772d046562576ecf14326f23e8213abeead38"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/kitsune.pw.toml"
-hash = "74a350c4e7ec7cb95bb7b1fc1d173c06ea95a9b7ea487a08fdfbf578451f9d02"
+hash = "45ef4adfac4082e0f6262e9b46cdbe4da918ab73d2eac99ab03eb0c44703ef07"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "1c3831ca66d4476ca2946aa32fb8180af1ff8a197424eab1211c73fa485bfcbc"
+hash = "d2f5b1e9bdca70ffa9984d2cdd8fc33de6614414d93bdf7d3f565241d242c325"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "205d2dac26b76e11164976f2f9cb36af9f957c517f30d7e77de7bd39e38851c7"
+hash = "93d172828f186dcd1367a69f01b3f291302320fe6cc91e81e29bae9c6f857011"
 metafile = true
 
 [[files]]
