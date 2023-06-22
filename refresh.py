@@ -9,12 +9,10 @@ match platform.system():
 	case "Linux": extension = ""
 	case _: raise OSError("Unsupported platform")
 
-
 def get_modlist():
 	modlist = {modname.replace(".pw.toml", "")
 		for modname in os.listdir("./mods")}
 	return modlist
-
 
 def update_flavors(modlist):
 	flavor_groups, flavors = open("pack-config/flavorgroups.toml", "r"), open("pack-config/flavors.yaml")
@@ -33,17 +31,19 @@ def update_flavors(modlist):
 	if len(outdated) > 0:
 		print("These mods are being removed!!")
 		[print("- ", mod) for mod in outdated]
+
+		for mod in outdated:
+			for m in modlist:
+				if le.ratio(mod,m)>=0.85: # type: ignore
+					print(mod,"might be related to",m);
+					print('%s: %s' % (mod, modflavors.get(mod)))
+			modflavors.pop(mod)
+
 	if len(newly_added) > 0:
 		print("These mods are being added!!")
 		[print("- ", mod) for mod in newly_added]
 
 
-	for mod in outdated:
-		for m in modlist:
-			if le.ratio(mod,m)>=0.85:
-				print(mod,"might be related to",m);
-				print('%s: %s' % (mod, modflavors.get(mod)))
-		modflavors.pop(mod)
 
 	with open("unsup.toml", "w") as f, open("pack-config/flavors.yaml", "w") as fl:
 		yaml.dump(modflavors, fl)
