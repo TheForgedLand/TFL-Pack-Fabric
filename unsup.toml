@@ -118,12 +118,6 @@ flavors = "extra_on"
 [metafile.create-fabric]
 flavors = "base_on"
 
-[metafile.dynamic-crosshair]
-flavors = "ui-aesthetics_on"
-
-[metafile.dynamic-crosshair-compat]
-flavors = "ui-aesthetics_on"
-
 [metafile.entityculling]
 flavors = "performance_on"
 
@@ -159,12 +153,6 @@ flavors = "extra_on"
 
 [metafile.iceberg-fabric]
 flavors = [ "ui-aesthetics_on", "extra_on",]
-
-[metafile.immersive-trains]
-flavors = "base_on"
-
-[metafile.immersiveportals]
-flavors = "base_on"
 
 [metafile.indium]
 flavors = "performance_on"
