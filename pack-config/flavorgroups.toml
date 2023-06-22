@@ -6,16 +6,9 @@ description = """
 """
 
 [flavor_groups.minimap]
-name = "Minimap mods:"
-[[flavor_groups.minimap.choices]]
-id = "xaero"
-name = "Xaero's Minimaps"
-description = """
-Xaero's minimap & World map will make quick work of your travel and avoid you from getting lost around!
-"""
-[[flavor_groups.minimap.choices]]
-id = "journey"
 name = "Journeymap!"
+side = "client"
+choices = ["minimap_on","minimap_off"]
 description = """With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use.
 """
 

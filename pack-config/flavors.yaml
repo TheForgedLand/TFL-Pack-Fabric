@@ -34,7 +34,7 @@ interactic: immersion_on
 inventory-profiles-next: ui-tools_on
 invmove: extra_on
 itemswapper: extra_on
-journeymap: journey
+journeymap: minimap_on
 kitsune: base_on
 lambdabettergrass: immersion_on
 lambdynamiclights: immersion_on
@@ -86,5 +86,3 @@ universal-graves: extra_on
 visuality: immersion_on
 why-does-my-glass-sound-like-that: immersion_on
 windchimes: base_on
-xaeros-minimap: xaero
-xaeros-world-map: xaero

@@ -1,13 +1,13 @@
 name = "TFL"
 author = "Alice C"
-version = "1.2.1"
+version = "1.2.2"
 description = "A special modpack made for TheForgedLand SMP"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "903a225dd49ac7d336058e8f4c3f121b66c5b68f66f2e0f6f3b1ed4d4a3dcaab"
+hash = "04e25e1dac2684bb2574b8ab9ad8e809a4d536133cdf5a3cc084a3caaab4f1e2"
 
 [versions]
 fabric = "0.14.19"

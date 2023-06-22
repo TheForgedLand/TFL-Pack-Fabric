@@ -5,15 +5,9 @@ choices = [ "base_on", "base_off",]
 description = ""
 
 [flavor_groups.minimap]
-name = "Minimap mods:"
-[[flavor_groups.minimap.choices]]
-id = "xaero"
-name = "Xaero's Minimaps"
-description = "Xaero's minimap & World map will make quick work of your travel and avoid you from getting lost around!\n"
-
-[[flavor_groups.minimap.choices]]
-id = "journey"
 name = "Journeymap!"
+side = "client"
+choices = [ "minimap_on", "minimap_off",]
 description = "With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use.\n"
 
 [flavor_groups.ui-aesthetics]
@@ -167,7 +161,7 @@ flavors = "extra_on"
 flavors = "extra_on"
 
 [metafile.journeymap]
-flavors = "journey"
+flavors = "minimap_on"
 
 [metafile.kitsune]
 flavors = "base_on"
@@ -309,9 +303,3 @@ flavors = "immersion_on"
 
 [metafile.windchimes]
 flavors = "base_on"
-
-[metafile.xaeros-minimap]
-flavors = "xaero"
-
-[metafile.xaeros-world-map]
-flavors = "xaero"

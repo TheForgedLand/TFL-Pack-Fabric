@@ -775,16 +775,6 @@ hash = "802de3e5d7dd6cdd49a52d14c03285d6e46471cea49ac13d0fc64238420b734c"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d09b43106fb6b4df2db91dc2d72195535148e2845768bd1b786c09e12d0801d4"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "6678b6b2c72f4e3f414162780382b3baa857b57f188321d95741cab66a8e1699"
-metafile = true
-
-[[files]]
 file = "options.amecsapi.txt"
 hash = "22e2ccd2bd6b783fcc78f8fd57bc06108499b9f3cc99b9c3c457a9a5fdce7f24"
 
