@@ -2,6 +2,9 @@ flavor_groups:
   server:
     side: server
     name: Server Tools
+    choices:
+      - srv_on
+      - srv_off
     description: >-
       These are the tools used by the server to fix bugs and improve
       performance. they are not meant to be installed on the client, so only add
