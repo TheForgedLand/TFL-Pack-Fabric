@@ -785,7 +785,3 @@ hash = "d303f8663b591cd324e3b17a7b536a71f8d4ed47299463b9f9291ab718442966"
 [[files]]
 file = "servers.dat"
 hash = "b5ad067c56a9f183e01c4002bdc32e5de9bdd7337b99f0763a902524512715f7"
-
-[[files]]
-file = "unsup-0.2.0-pre3.jar"
-hash = "c5bd49784392b651e4bc71fe57976f5b4fb14f09e0e23183ae5b94a821ae4756"
