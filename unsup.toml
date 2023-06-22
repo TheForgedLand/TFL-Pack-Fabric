@@ -25,12 +25,6 @@ flavors = "srv_on"
 [metafile.block_limit_fix]
 flavors = "srv_on"
 
-[metafile.carpet]
-flavors = "srv_on"
-
-[metafile.carpet-fixes]
-flavors = "srv_on"
-
 [metafile.charm]
 flavors = "srv_on"
 
@@ -76,22 +70,10 @@ flavors = "srv_on"
 [metafile.forge-config-api-port-fabric]
 flavors = "srv_on"
 
-[metafile.free-cam]
-flavors = "srv_on"
-
 [metafile.gotta-go-fast-fabric]
 flavors = "srv_on"
 
-[metafile.hotbarcycle]
-flavors = "srv_on"
-
 [metafile.iceberg-fabric]
-flavors = "srv_on"
-
-[metafile.immersive-trains]
-flavors = "srv_on"
-
-[metafile.immersiveportals]
 flavors = "srv_on"
 
 [metafile.indium]
