@@ -1,0 +1,41 @@
+{
+  "mod.stepup.config.default": {
+    "options": [
+      "mod.stepup.config.dostepup",
+      "mod.stepup.config.nostepup",
+      "mod.stepup.config.vanillajump"
+    ],
+    "key": "mod.stepup.config.default",
+    "toolTip": "",
+    "value": 1,
+    "defaultValue": 0,
+    "minValue": 0,
+    "maxValue": 2
+  },
+  "The Forged Land": {
+    "options": [
+      "mod.stepup.config.dostepup",
+      "mod.stepup.config.nostepup",
+      "mod.stepup.config.vanillajump"
+    ],
+    "key": "The Forged Land",
+    "toolTip": "mod.stepup.config.tt.onthisserver",
+    "value": 1,
+    "defaultValue": 1,
+    "minValue": 0,
+    "maxValue": 2
+  },
+  "localserver": {
+    "options": [
+      "mod.stepup.config.dostepup",
+      "mod.stepup.config.nostepup",
+      "mod.stepup.config.vanillajump"
+    ],
+    "key": "localserver",
+    "toolTip": "mod.stepup.config.tt.onthisserver",
+    "value": 1,
+    "defaultValue": 1,
+    "minValue": 0,
+    "maxValue": 2
+  }
+}

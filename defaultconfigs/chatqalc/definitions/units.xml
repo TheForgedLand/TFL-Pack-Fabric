@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<QALCULATE version="4.5.1">
+  <category>
+    <title>Length</title>
+    <deactivate>ch</deactivate>
+  </category>
+  <category>
+    <title>Light</title>
+    <category>
+      <title>Luminance</title>
+      <deactivate>sb</deactivate>
+    </category>
+  </category>
+  <category>
+    <title>Minecraft</title>
+    <unit type="alias">
+      <use_with_prefixes>false</use_with_prefixes>
+      <title>Game tick</title>
+      <names>a:tick,r:gt</names>
+      <base>
+        <unit>s</unit>
+        <relation>1/20</relation>
+        <exponent>1</exponent>
+      </base>
+    </unit>
+    <category>
+      <title>Items</title>
+      <unit type="base">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Item</title>
+        <names>a:item,ap:items,r:it</names>
+        <description>1 Minecraft item</description>
+      </unit>
+      <unit type="alias">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Stack</title>
+        <names>a:stack,ap:stacks,r:st</names>
+        <base>
+          <unit>it</unit>
+          <relation>64</relation>
+          <exponent>1</exponent>
+          <mix>1</mix>
+        </base>
+      </unit>
+      <unit type="alias">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Shulker Box</title>
+        <names>a:shulkerbox,ap:shulkerboxes,r:sb</names>
+        <base>
+          <unit>st</unit>
+          <relation>27</relation>
+          <exponent>1</exponent>
+          <mix>1</mix>
+        </base>
+      </unit>
+      <unit type="alias">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Proper Double Chest</title>
+        <names>a:proper_double_chest,ap:proper_double_chests,r:pdc</names>
+        <base>
+          <unit>sb</unit>
+          <relation>54</relation>
+          <exponent>1</exponent>
+          <mix>1</mix>
+        </base>
+      </unit>
+    </category>
+    <category>
+      <title>Speed</title>
+      <unit type="composite">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Items per hour</title>
+        <names>r:it_p_h</names>
+        <part>
+          <unit>it</unit>
+          <exponent>1</exponent>
+        </part>
+        <part>
+          <unit>h</unit>
+          <exponent>-1</exponent>
+        </part>
+      </unit>
+      <unit type="alias">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Items per hour</title>
+        <names>a:iph,a:itph</names>
+        <base>
+          <unit>it_p_h</unit>
+          <relation>1</relation>
+          <exponent>1</exponent>
+        </base>
+      </unit>
+      <unit type="composite">
+        <hidden>true</hidden>
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Items per tick</title>
+        <names>r:it_p_gt</names>
+        <part>
+          <unit>it</unit>
+          <exponent>1</exponent>
+        </part>
+        <part>
+          <unit>gt</unit>
+          <exponent>-1</exponent>
+        </part>
+      </unit>
+      <unit type="alias">
+        <use_with_prefixes>false</use_with_prefixes>
+        <title>Hopper speed</title>
+        <names>a:hopper_speed,hs</names>
+        <base>
+          <unit>it_p_gt</unit>
+          <relation>1/8</relation>
+          <exponent>1</exponent>
+        </base>
+      </unit>
+    </category>
+  </category>
+</QALCULATE>

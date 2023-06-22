@@ -79,9 +79,6 @@ flavors = "ui-tools_on"
 [metafile.architectury-api]
 flavors = "ui-tools_on"
 
-[metafile.axes-are-weapons]
-flavors = "misc_on"
-
 [metafile.balm]
 flavors = "misc_on"
 
