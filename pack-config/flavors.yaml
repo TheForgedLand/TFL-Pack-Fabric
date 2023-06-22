@@ -16,8 +16,6 @@ clickthrough: extra_on
 clumps: performance_on
 content-creator-server-status: extra_on
 create-fabric: base_on
-dynamic-crosshair: ui-aesthetics_on
-dynamic-crosshair-compat: ui-aesthetics_on
 entityculling: performance_on
 expanded-delight: base_on
 extra-alchemy: base_on
@@ -32,8 +30,6 @@ hotbarcycle: extra_on
 iceberg-fabric:
 - ui-aesthetics_on
 - extra_on
-immersive-trains: base_on
-immersiveportals: base_on
 indium: performance_on
 interactic: immersion_on
 inventory-profiles-next: ui-tools_on

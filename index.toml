@@ -91,16 +91,6 @@ hash = "04f4fdeea7d6d29539ae6581184fb469a525ef959c5cbff5b1ed6aad9040a644"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-crosshair-compat.pw.toml"
-hash = "942404ccf4aa76418d543652f2b4b786dbc3fbded746a63cf66bff066d3da70a"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-crosshair.pw.toml"
-hash = "c9b3904363666be0c540993a4831470633acf0676e13f02eff49b0f0301da854"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "34c1c7e4f353fa91ebbd99f1ac8536e114a0eb28111298488cca7d53a5fd1ece"
 metafile = true
@@ -277,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "d2f5b1e9bdca70ffa9984d2cdd8fc33de6614414d93bdf7d3f565241d242c325"
+hash = "c200629a3f5a299ba4db0509c9b5842e8e39133a19026cd94ac47c9e98234e84"
 metafile = true
 
 [[files]]
