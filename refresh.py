@@ -16,12 +16,16 @@ def get_modlist():
 	return modlist
 
 def update_flavors(modlist):
-	flavor_groups, flavors = open("pack-config/flavorgroups.toml", "r"), open("pack-config/flavors.yaml")
+	flavor_groups, flavors = open("pack-config/flavorgroups.yaml", "r"), open("pack-config/flavors.yaml")
+
 	fl = yaml.safe_load(flavors)
 	flavorlist = fl if fl is not None else {}
 
+	flls = yaml.safe_load(flavor_groups)
+	flavorgrouplist = flls if flls is not None else {}
+
 	modflavors:dict[str, str] = {modname: "srv_on" for modname in modlist} | flavorlist
-	data = toml.load(flavor_groups) | {"metafile": {k: {"flavors": v} for k, v in flavorlist.items()}}
+	data = flavorgrouplist | {"metafile": {k: {"flavors": v} for k, v in flavorlist.items()}}
 
 	new:set = {(mm if mm not in flavorlist.keys() else ...)for mm in modlist};new.discard(...)
 	newly_added:set = set() if new is None else new
