@@ -1,3 +1,4 @@
+from typing import Any
 import yaml
 import toml
 import os
@@ -16,17 +17,17 @@ def get_modlist():
 
 def update_flavors(modlist):
 	flavor_groups, flavors = open("pack-config/flavorgroups.toml", "r"), open("pack-config/flavors.yaml")
-	_ = yaml.safe_load(flavors)
-	fl = _ if _ is not None else {}
+	fl = yaml.safe_load(flavors)
+	flavorlist = fl if fl is not None else {}
 
-	modflavors = {modname: "misc_on" for modname in modlist} | fl
-	data = toml.load(flavor_groups) | {"metafile": {k: {"flavors": v} for k, v in fl.items()}}
+	modflavors:dict[str, str] = {modname: "misc_on" for modname in modlist} | flavorlist
+	data = toml.load(flavor_groups) | {"metafile": {k: {"flavors": v} for k, v in flavorlist.items()}}
 
-	_ = {(mm if mm not in fl.keys() else ...)for mm in modlist}
-	newly_added = _ if _ is not {...} else {}
+	new:set = {(mm if mm not in flavorlist.keys() else ...)for mm in modlist};new.discard(...)
+	newly_added:set = set() if new is None else new
 
-	_ = {(mod if mod not in modlist else ...)for mod in modflavors.keys()}
-	outdated = _ if _ is not {...} else {}
+	old:set = {(mod if mod not in modlist else ...)for mod in modflavors.keys()};old.discard(...)
+	outdated:set = set() if old is None else old
 
 	if len(outdated) > 0:
 		print("These mods are being removed!!")
@@ -34,7 +35,7 @@ def update_flavors(modlist):
 
 		for mod in outdated:
 			for m in modlist:
-				if le.ratio(mod,m)>=0.85: # type: ignore
+				if le.ratio(mod,m)>=0.85:
 					print(mod,"might be related to",m);
 					print('%s: %s' % (mod, modflavors.get(mod)))
 			modflavors.pop(mod)
@@ -45,9 +46,11 @@ def update_flavors(modlist):
 
 
 
-	with open("unsup.toml", "w") as f, open("pack-config/flavors.yaml", "w") as fl:
-		yaml.dump(modflavors, fl)
+	with open("unsup.toml", "w") as f, open("pack-config/flavors.yaml", "w") as flavorfile:
+		yaml.dump(modflavors, flavorfile)
 		toml.dump(data, f)
+
+update_flavors(get_modlist())
 
 with open("pack-config/custom_sources.yaml") as sources:
 	custom_sources = yaml.safe_load(sources); sources.close()
