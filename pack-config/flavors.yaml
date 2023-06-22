@@ -5,8 +5,6 @@ architectury-api: srv_on
 axes-are-weapons: srv_on
 balm: srv_on
 block_limit_fix: srv_on
-carpet: srv_on
-carpet-fixes: srv_on
 charm: srv_on
 clearnetherrack: srv_on
 cloth-config: srv_on
@@ -22,18 +20,15 @@ farmers-delight-fabric: srv_on
 fast-portals: srv_on
 ferritecore-fabric: srv_on
 forge-config-api-port-fabric: srv_on
-free-cam: srv_on
 gotta-go-fast-fabric: srv_on
-hotbarcycle: srv_on
 iceberg-fabric: srv_on
-immersive-trains: srv_on
-immersiveportals: srv_on
 indium: srv_on
 interactic: srv_on
 itemswapper: srv_on
 journeymap: srv_on
 kitsune: srv_on
 krypton: srv_on
+kubejs: srv_on
 lazydfu: srv_on
 ledger: srv_on
 libreexpfix: srv_on
@@ -51,6 +46,7 @@ origins-plus-plus: srv_on
 origins-umbrellas: srv_on
 pehkui: srv_on
 polymer: srv_on
+rhino: srv_on
 roughly-enough-items: srv_on
 roughly-enough-loot-tables: srv_on
 roughly-enough-professions-rep: srv_on

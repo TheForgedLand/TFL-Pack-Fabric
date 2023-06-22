@@ -112,6 +112,9 @@ flavors = "srv_on"
 [metafile.krypton]
 flavors = "srv_on"
 
+[metafile.kubejs]
+flavors = "srv_on"
+
 [metafile.lazydfu]
 flavors = "srv_on"
 
@@ -128,6 +131,9 @@ flavors = "srv_on"
 flavors = "srv_on"
 
 [metafile.luckperms]
+flavors = "srv_on"
+
+[metafile.maintenance-mode-forge-fabric-quilt]
 flavors = "srv_on"
 
 [metafile.memoryleakfix]
@@ -160,7 +166,7 @@ flavors = "srv_on"
 [metafile.polymer]
 flavors = "srv_on"
 
-[metafile.reacharound]
+[metafile.rhino]
 flavors = "srv_on"
 
 [metafile.roughly-enough-items]
@@ -212,10 +218,4 @@ flavors = "srv_on"
 flavors = "srv_on"
 
 [metafile.windchimes]
-flavors = "srv_on"
-
-[metafile.xaeros-minimap]
-flavors = "srv_on"
-
-[metafile.xaeros-world-map]
 flavors = "srv_on"

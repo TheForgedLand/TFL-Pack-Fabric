@@ -36,16 +36,6 @@ hash = "3a92e7026d81015ee9d87f4ba0c1c58626803f3058dc92a5410888f774a848a7"
 metafile = true
 
 [[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "98501e91845d65b62379bfa07e7983fc63e7492ab23151faa692ba1ff2122528"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "f4f7398b7e7eb16c1a247cb1878f417abb7957d010f3d05242be0c91039eb30c"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "aacdcf573193069aa4b168ced7d718c78bd1fa9b490b8d6211e3665d621b42e0"
 metafile = true
@@ -121,33 +111,13 @@ hash = "3b1082647237f1fa63fd72ca6548bb7850ae7fd7eb7286d7487992d30f308b3c"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "5465393c7348459d361f6817cb7727d9ab1e6a62f14e1c6a5f35ac77670f89be"
-metafile = true
-
-[[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "7c6c191dd0de1f9c9178223d44485f07ceda4057bd8950bab56f550e65b415da"
 metafile = true
 
 [[files]]
-file = "mods/hotbarcycle.pw.toml"
-hash = "c7395e0a87b2569bc22d8b96a944cba966d1bbf7d00dbf5adad4073608d85c16"
-metafile = true
-
-[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "56874a9382427630223fdfc0d9acdac02fc123cb1a24e11fdb55b401ecd8a920"
-metafile = true
-
-[[files]]
-file = "mods/immersive-trains.pw.toml"
-hash = "bcdf594e870aa1c0c19bc02cd43c7854c998290c7e7fad1652799e2ec6b2cd79"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "5dd1a25c488a1cab67d33037fd2d3483404fdfd01aa8bdef8c0b0aea99096475"
 metafile = true
 
 [[files]]
@@ -172,12 +142,17 @@ metafile = true
 
 [[files]]
 file = "mods/kitsune.pw.toml"
-hash = "74a350c4e7ec7cb95bb7b1fc1d173c06ea95a9b7ea487a08fdfbf578451f9d02"
+hash = "45ef4adfac4082e0f6262e9b46cdbe4da918ab73d2eac99ab03eb0c44703ef07"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "75a7ed26042e223f29df756e18fc05d9f5216fd4756eab16fa7637c08f60702d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eac5e11f4f5d18cc618aa6452690d3aba7ed95accd4b830190d01946d99aeb2f"
 metafile = true
 
 [[files]]
@@ -242,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "1c3831ca66d4476ca2946aa32fb8180af1ff8a197424eab1211c73fa485bfcbc"
+hash = "d2f5b1e9bdca70ffa9984d2cdd8fc33de6614414d93bdf7d3f565241d242c325"
 metafile = true
 
 [[files]]
@@ -252,17 +227,22 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "205d2dac26b76e11164976f2f9cb36af9f957c517f30d7e77de7bd39e38851c7"
+hash = "93d172828f186dcd1367a69f01b3f291302320fe6cc91e81e29bae9c6f857011"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "85326527329625e257a56499480a40e547e90b57c4e8e3c3e4a85ba91eca2ceb"
+hash = "2dc272a8037158baf587603fcf047c413245e149191fa6576b0c2b8bc9802a05"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "b4b1cd98c6fef58328d2cd2b4fd31fc3ed1c7849840d76e3d7ac8574cdf1fdbb"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "b76e86b5fe8996ee5fdfb543c14a77928c82b1761e3d8570a82c3013ec1036b4"
 metafile = true
 
 [[files]]
@@ -307,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4926aef18f9ada236d90ce2645e59e40b4852e8e4ffd46b87f085d5c3189ea55"
+hash = "78db3b4b01a915c627bff81cff318e4793285968652d19cd13c9304d1d674a31"
 metafile = true
 
 [[files]]
