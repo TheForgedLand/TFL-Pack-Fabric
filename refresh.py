@@ -24,18 +24,21 @@ def update_flavors(modlist):
 	modflavors = {modname: "misc_on" for modname in modlist} | fl
 	data = toml.load(flavor_groups) | {"metafile": {k: {"flavors": v} for k, v in fl.items()}}
 
-	newly_added = {(mm if mm not in fl.keys() else ...)for mm in modlist}.remove(...)
-	outdated = {(mod if mod not in modlist else ...)for mod in modflavors.keys()}.remove(...)
+	_ = {(mm if mm not in fl.keys() else ...)for mm in modlist}
+	newly_added = _ if _ is not {...} else {}
 
-	if len(outdated) > 0: # type: ignore
+	_ = {(mod if mod not in modlist else ...)for mod in modflavors.keys()}
+	outdated = _ if _ is not {...} else {}
+
+	if len(outdated) > 0:
 		print("These mods are being removed!!")
-		[print("- ", mod) for mod in outdated] # type: ignore
-	if len(newly_added) > 0: # type: ignore
+		[print("- ", mod) for mod in outdated]
+	if len(newly_added) > 0:
 		print("These mods are being added!!")
-		[print("- ", mod) for mod in newly_added] # type: ignore
+		[print("- ", mod) for mod in newly_added]
 
 
-	for mod in outdated: # type: ignore
+	for mod in outdated:
 		for m in modlist:
 			if le.ratio(mod,m)>=0.85:
 				print(mod,"might be related to",m);
