@@ -14,5 +14,5 @@ project-id = 355753
 
 [option]
 optional = true
-default = false
+default = true
 description = "Ever wanted to just step on blocks as if they were slabs?"

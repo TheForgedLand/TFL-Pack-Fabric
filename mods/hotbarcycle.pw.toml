@@ -14,5 +14,5 @@ project-id = 576281
 
 [option]
 optional = true
-default = false
+default = true
 description = "cycle your hotbar like stardew valley!"

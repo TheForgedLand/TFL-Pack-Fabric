@@ -14,5 +14,5 @@ project-id = 547434
 
 [option]
 optional = true
-default = false
+default = true
 description = "lib"

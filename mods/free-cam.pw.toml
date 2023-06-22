@@ -14,5 +14,5 @@ project-id = 557076
 
 [option]
 optional = true
-default = false
+default = true
 description = "fly around in freecam to see how's your building going"

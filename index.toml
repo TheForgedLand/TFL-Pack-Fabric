@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "3b1082647237f1fa63fd72ca6548bb7850ae7fd7eb7286d7487992d30f308b3c"
+hash = "30a00dc17d4e392bfb9691faac87e91d2a2b92de605254d86517fb5bde3da607"
 metafile = true
 
 [[files]]
@@ -496,12 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "5465393c7348459d361f6817cb7727d9ab1e6a62f14e1c6a5f35ac77670f89be"
+hash = "16f11e856375e563eae77bc7158605fb052aa2697ef2553f17818980096f417d"
 metafile = true
 
 [[files]]
 file = "mods/hotbarcycle.pw.toml"
-hash = "c7395e0a87b2569bc22d8b96a944cba966d1bbf7d00dbf5adad4073608d85c16"
+hash = "71b9a48419f479836100317accee9f5473e4e2dc21b384900d5546509f28772e"
 metafile = true
 
 [[files]]
@@ -736,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/stepupnext.pw.toml"
-hash = "0e7d90a89bf86ddf36152fc7f6b2bd03253fce44c8c8d1297a3d8b0810ce16ef"
+hash = "0858644081a2cc783826dd08b8822865a6b3eb0db9b1a69442b6b469237f500e"
 metafile = true
 
 [[files]]
