@@ -2,13 +2,13 @@
 name = "Base Mods"
 side = "both"
 choices = [ "base_on", "base_off",]
-description = "these mods are essential for you to even be able to join the server. only remove them if you know what you are doing!\n"
+description = "these mods are essential for you to even be able to join the server. only remove them if you know what you are doing!"
 
 [flavor_groups.minimap]
 name = "Journeymap!"
 side = "client"
 choices = [ "minimap_on", "minimap_off",]
-description = "With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use, being able to mark points of interest in the map by creating waypoints there!\n"
+description = "With Journeymap, you will be able to better navigate through your journeys, besides also having both a minimap and a worldmap for you to use, being able to mark points of interest in the map by creating waypoints there!"
 
 [flavor_groups.ui-aesthetics]
 name = "UI Aesthetics"
