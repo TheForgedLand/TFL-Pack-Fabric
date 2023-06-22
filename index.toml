@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "04f4fdeea7d6d29539ae6581184fb469a525ef959c5cbff5b1ed6aad9040a644"
+hash = "38cd2a54604d966a03b9c48af284f16709a83e2fc8a64eaf2b491633a64bf496"
 metafile = true
 
 [[files]]
