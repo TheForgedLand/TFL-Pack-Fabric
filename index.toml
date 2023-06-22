@@ -776,11 +776,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "22e2ccd2bd6b783fcc78f8fd57bc06108499b9f3cc99b9c3c457a9a5fdce7f24"
+hash = "42ce09bf449e63bc924e0dea047795be250b980082e1357dc76f789d5118338f"
 
 [[files]]
 file = "options.txt"
-hash = "74dd52d407fe4b953ff866fd196d3cd7537178b6fb60389cf768c091ba765a35"
+hash = "d303f8663b591cd324e3b17a7b536a71f8d4ed47299463b9f9291ab718442966"
 
 [[files]]
 file = "servers.dat"
