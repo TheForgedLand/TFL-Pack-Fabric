@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4537370
 project-id = 624165
-
-[option]
-optional = false
-description = "Klanc Klanc"
-default = true
