@@ -1,15 +1,15 @@
 {
   "configVersion": 1,
   "showTooltips": true,
-  "toggleMode": false,
+  "toggleMode": true,
   "showCursor": true,
   "serverPreventModUsage": false,
   "editMode": false,
   "creativeCheatMode": true,
   "ignoreHotbar": true,
-  "unlockListMouse": false,
+  "unlockListMouse": true,
   "disableShulkers": false,
-  "controllerSpeed": 8.0,
-  "mouseSpeed": 1.0,
-  "fallbackInventory": true
+  "controllerSpeed": 9.1,
+  "mouseSpeed": 1.6,
+  "fallbackInventory": false
 }

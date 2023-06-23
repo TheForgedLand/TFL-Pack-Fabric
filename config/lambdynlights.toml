@@ -104,4 +104,5 @@ mode = "fancy"
 
 			[light_sources.settings.entities.charm]
 				chair = true
+				coral_squid = true
 

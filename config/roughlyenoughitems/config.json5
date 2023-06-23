@@ -4,7 +4,7 @@
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": "WHEN_CREATIVE",
 		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -159,9 +159,9 @@
 	"functionality": {
 		"inputMethod": null,
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": false,
+		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,

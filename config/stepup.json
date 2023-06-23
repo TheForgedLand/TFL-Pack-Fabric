@@ -5,7 +5,7 @@
       "mod.stepup.config.nostepup",
       "mod.stepup.config.vanillajump"
     ],
-    "key": "mod.stepup.config.default",
+    "key": "Default on new servers",
     "toolTip": "",
     "value": 1,
     "defaultValue": 0,

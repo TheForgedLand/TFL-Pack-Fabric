@@ -32,7 +32,7 @@ preserve = true
 
 [[files]]
 file = "config/camerautils/camerautils.properties"
-hash = "9a665b32a4972e4a464ccbaf448c7a3c8c34edc5c4567de0e6d5aff858824122"
+hash = "61e7b320838d40351408700107a2894c18babd8b69c0f1a80829dc6a5362ca98"
 preserve = true
 
 [[files]]
@@ -152,7 +152,7 @@ preserve = true
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "8fc473db40365e75abca6faade454eba1b1e14b1306473d4107fe19c6925fe96"
+hash = "67181788ed28a7f50545c387062238644ffeeccb76f6ad9f0cdae116eaf55d43"
 preserve = true
 
 [[files]]
@@ -237,7 +237,7 @@ preserve = true
 
 [[files]]
 file = "config/itemswapper.json"
-hash = "a5d1ed60ef1e97d5060a7fbdb6815859d438555ed0f0ccaf0f177a945a070471"
+hash = "6b6d9167648d1d6775db8c5824abc6c7e660e4d271b8a79c5ce11294c71bd457"
 preserve = true
 
 [[files]]
@@ -252,7 +252,7 @@ preserve = true
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "7d9cc2e3d3d7e5a9f2e0ce0e8a387d717cafb08527ada054e2fe5b52f91b7075"
+hash = "19686d809602bc87ebfbef488378c96dedf7416003109cf619664ba325d20aaa"
 preserve = true
 
 [[files]]
@@ -332,7 +332,7 @@ preserve = true
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "0c6d1e578741683d46bba6433dfd07613f47f01eedab65c6031dae1ec8609cb0"
+hash = "2d99da37320863babbbdd2239dcbbf8a384e2ac660f72f7cb8c6a0fe69ac834d"
 preserve = true
 
 [[files]]
@@ -417,7 +417,7 @@ preserve = true
 
 [[files]]
 file = "config/stepup.json"
-hash = "35a9044d389e006cd3fc164d69de029429954e7dbf05ccabacc7cc99c4c8e4be"
+hash = "e7ac55a35a4e407e23e85e5587aadec2d6076bb58cd3ec79e8097d758de5e769"
 preserve = true
 
 [[files]]
@@ -453,6 +453,41 @@ preserve = true
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "e0021e7965b60f0a11882496b9c1508e917477cbef9128a80fd7868b12e4dcaa"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.core.config"
+hash = "357971ac0f0742cba5529f58c425a20c09a1c6422c21d3a58e302c0cfb8aa327"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.fullmap.config"
+hash = "e5c056853eac529c8de57f1d9212b91a34c2a6a30c5538ee1f3542762e17ee6c"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.minimap.config"
+hash = "6dc322739c08a1aa195442bd80fcf2e89947d0d3505ddc72d9a7fe80e27d2f40"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.minimap2.config"
+hash = "09861dbcfecc0bfb7fcfda29cb4fc7f125c8ab56a1f93f5e73446c074194093e"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.topo.config"
+hash = "6c716fc4d0c5db5e0f1c66abc6a12ed496d736c6130c30e9f740ed6d3e1afc6a"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.waypoint.config"
+hash = "75e2bf4a3ad42ab331fac0bcaf80d6684aab3bdd7367eeb50b28dfd4509173d0"
+preserve = true
+
+[[files]]
+file = "journeymap/config/5.9/journeymap.webmap.config"
+hash = "3a0f28984829d54a844f2194433f096bc8025185840ba637996e08172879ae49"
 preserve = true
 
 [[files]]
