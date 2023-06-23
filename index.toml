@@ -1,367 +1,367 @@
 hash-format = "sha256"
 
 [[files]]
-file = "defaultconfigs/advancementplaques-common.toml"
+file = "config/advancementplaques-common.toml"
 hash = "38ec25ec3a842ae004f12f6b8513d8b3f391d1881038d8f6b8c0e4c6166e409f"
 
 [[files]]
-file = "defaultconfigs/appleskin.json5"
+file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "defaultconfigs/axesareweapons.json5"
+file = "config/axesareweapons.json5"
 hash = "624173d40f03e3c3fe801de8cf6e1b363f2bf625edb14d26d226fd0b626a33fc"
 
 [[files]]
-file = "defaultconfigs/bebooks/config.properties"
+file = "config/bebooks/config.properties"
 hash = "ca9c7d459440e9c362392590af9d6b6d3d59018500e1db3f1b165e1d1909ecde"
 
 [[files]]
-file = "defaultconfigs/bebooks/enchantment_data.json"
+file = "config/bebooks/enchantment_data.json"
 hash = "2aff915c1aaddbd192396f5b0799859b8b3eb2b8cc04885edbdb85794c235028"
 
 [[files]]
-file = "defaultconfigs/borderlessmining.json"
+file = "config/borderlessmining.json"
 hash = "608f2c0b37382bd77f0371801d5c7dcba427eb5498c739e5227aa9061fffa810"
 
 [[files]]
-file = "defaultconfigs/camerautils/camerautils.properties"
+file = "config/camerautils/camerautils.properties"
 hash = "9a665b32a4972e4a464ccbaf448c7a3c8c34edc5c4567de0e6d5aff858824122"
 
 [[files]]
-file = "defaultconfigs/cardinal-components-api.properties"
+file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
-file = "defaultconfigs/charm.toml"
+file = "config/charm.toml"
 hash = "fc6d52db2ddd150dc6218b688fb339c20e7cd0f3f7c91ca347c508e230e272c1"
 
 [[files]]
-file = "defaultconfigs/charmonium.toml"
+file = "config/charmonium.toml"
 hash = "0cafc6ffcf664fbff6f06a0ad4b92282ec3148abe21616d8d5f0f0b73240f27e"
 
 [[files]]
-file = "defaultconfigs/chatqalc/definitions/datasets.xml"
+file = "config/chatqalc/definitions/datasets.xml"
 hash = "0d36bb5debcd338a81feaaa3e03a151db93674eeddbf983642781d9e2e0f80b1"
 
 [[files]]
-file = "defaultconfigs/chatqalc/definitions/functions.xml"
+file = "config/chatqalc/definitions/functions.xml"
 hash = "0d36bb5debcd338a81feaaa3e03a151db93674eeddbf983642781d9e2e0f80b1"
 
 [[files]]
-file = "defaultconfigs/chatqalc/definitions/units.xml"
+file = "config/chatqalc/definitions/units.xml"
 hash = "146e78b089256ef7c4224fad757f1dfb10b367bf3ef816f7b9fd0048ee7fd66e"
 
 [[files]]
-file = "defaultconfigs/chatqalc/definitions/variables.xml"
+file = "config/chatqalc/definitions/variables.xml"
 hash = "db56123c1baab9046524540010831390a74d28f9884647885b149dc56488cd67"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalc.cfg"
+file = "config/chatqalc/qalc.cfg"
 hash = "81878026882908f7c5a1d7b16efb0964ee1f090e7dda8d24fb5ac4d6ef24b468"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalc.history"
+file = "config/chatqalc/qalc.history"
 hash = "07b80a8e97f05e7fa82acd6ae21f93cdc305df3d6aa1f8ab4282d1ab8ac5cf18"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-4.5.1/README"
+file = "config/chatqalc/qalculate-4.5.1/README"
 hash = "bd5e4d2f0eb86a6cd81f479536a2d264d482c89a1d802aca156d28b183720308"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-4.5.1/install"
+file = "config/chatqalc/qalculate-4.5.1/install"
 hash = "1c18862394406dd3a9c2b4bcbd534079a45e830e23c3361cde9759b569f4092f"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-4.5.1/qalc"
+file = "config/chatqalc/qalculate-4.5.1/qalc"
 hash = "80cb4bdc1e52bfac50d5dc531af77bb9893b3017b64d0447b01b2c36834754b8"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-4.5.1/qalculate"
+file = "config/chatqalc/qalculate-4.5.1/qalculate"
 hash = "e9ad5de79d0a9fa5bc5c516e6cfc61e15960354bf55be0f2f3936fa0c8c3963a"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-4.5.1/update"
+file = "config/chatqalc/qalculate-4.5.1/update"
 hash = "04045725b172b093105b68e0fd6fc6a399a55e1491f21e7957aa241f3dc9b41e"
 
 [[files]]
-file = "defaultconfigs/chatqalc/qalculate-gtk.cfg"
+file = "config/chatqalc/qalculate-gtk.cfg"
 hash = "6fc4e69fd5ccfc682df2fdcde84a6c9a9d1d22ef3a609f8058c7d531e4648e39"
 
 [[files]]
-file = "defaultconfigs/chatqalc/terminal.sh"
+file = "config/chatqalc/terminal.sh"
 hash = "b79e1f5068e4f8d84c61a65e7ddaa39fbe322f0661e92145de0dbec26b0c4a5c"
 
 [[files]]
-file = "defaultconfigs/chatqalc/update.sh"
+file = "config/chatqalc/update.sh"
 hash = "62f305adcd2137dacd6fa8e03fb63eb49f2ec69a660b35e4804e8be367501633"
 
 [[files]]
-file = "defaultconfigs/clickthrough.json"
+file = "config/clickthrough.json"
 hash = "21211342536e7578711db1300452faf6a7720b99fe2e6cb3760e47518c02e325"
 
 [[files]]
-file = "defaultconfigs/create-client.toml"
+file = "config/create-client.toml"
 hash = "1642ba698bbbe19ec8a9ba2b37cbcc466a70980c8e099543556faa2567f4d968"
 
 [[files]]
-file = "defaultconfigs/create-common.toml"
+file = "config/create-common.toml"
 hash = "9e160add67830ba94c1683e1da28c8b9a6c63b33087c093e27c329f2ef853a40"
 
 [[files]]
-file = "defaultconfigs/crowdin.txt"
+file = "config/crowdin.txt"
 hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
 
 [[files]]
-file = "defaultconfigs/entityculling.json"
+file = "config/entityculling.json"
 hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
 
 [[files]]
-file = "defaultconfigs/extraalchemy.json"
+file = "config/extraalchemy.json"
 hash = "977f03455b4517949daa1848af0daff283e359ad4ec14487e8e49dfe16519a16"
 
 [[files]]
-file = "defaultconfigs/fabric/indigo-renderer.properties"
+file = "config/fabric/indigo-renderer.properties"
 hash = "8fc473db40365e75abca6faade454eba1b1e14b1306473d4107fe19c6925fe96"
 
 [[files]]
-file = "defaultconfigs/farmersdelight.json"
+file = "config/farmersdelight.json"
 hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
 
 [[files]]
-file = "defaultconfigs/ferritecore.mixin.properties"
+file = "config/ferritecore.mixin.properties"
 hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
 [[files]]
-file = "defaultconfigs/flywheel.json"
+file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
-file = "defaultconfigs/freecam.json5"
+file = "config/freecam.json5"
 hash = "0eab9e878415ec3e78d0ebc6b672c5fb375c1078963404113c726b6fb64a1b0f"
 
 [[files]]
-file = "defaultconfigs/hotbarcycle.json"
+file = "config/hotbarcycle.json"
 hash = "eeb69b98fe08d1ed1ed655c2de649ef0b5e915327db1b3f4e547cc0c5f124a14"
 
 [[files]]
-file = "defaultconfigs/immersive_portals_fabric.json"
+file = "config/immersive_portals_fabric.json"
 hash = "e6c697c8263c31b76a3c16bf7bd704b3d662190b5c059fe40dc201f4d8cfe166"
 
 [[files]]
-file = "defaultconfigs/indium-renderer.properties"
+file = "config/indium-renderer.properties"
 hash = "b1961a1accc477b232409e2647a3bed57033ea6369115c234711252e427d3f62"
 
 [[files]]
-file = "defaultconfigs/interactic.json5"
+file = "config/interactic.json5"
 hash = "563ec581a48e466506e2d1bccce1cbf8d5ae476bb1cc7efa97eb98bb309d966e"
 
 [[files]]
-file = "defaultconfigs/inventoryprofilesnext/New World/villager-trading-config.json"
+file = "config/inventoryprofilesnext/New World/villager-trading-config.json"
 hash = "f29718046d40f2d1e613d59b38c32161b710542ac708816263f1727927b029a3"
 
 [[files]]
-file = "defaultconfigs/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = "defaultconfigs/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "63c5480c6852673a3af56900b9b8a40bc0b4a8b3f58deb3ad3b59c6e8c447da9"
 
 [[files]]
-file = "defaultconfigs/inventoryprofilesnext/theforgedland.mine.bz&4444/villager-trading-config.json"
+file = "config/inventoryprofilesnext/theforgedland.mine.bz&4444/villager-trading-config.json"
 hash = "f29718046d40f2d1e613d59b38c32161b710542ac708816263f1727927b029a3"
 
 [[files]]
-file = "defaultconfigs/invmove.json"
+file = "config/invmove.json"
 hash = "f518523bfa1aa00e498c7bc6ec4a6cc3f7af58af5a611cfe4bc46522a0dd79a3"
 
 [[files]]
-file = "defaultconfigs/invmove/unrecognized.json"
+file = "config/invmove/unrecognized.json"
 hash = "927a721071f54e362192c30b822ad4dc453f0181a734ac106eb3d59b1d75c09d"
 
 [[files]]
-file = "defaultconfigs/invmove/vanilla.json"
+file = "config/invmove/vanilla.json"
 hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
 
 [[files]]
-file = "defaultconfigs/itemswapper-server-cache.json"
+file = "config/itemswapper-server-cache.json"
 hash = "4dbbc3a53c61363de3a175980faa30d684da945c8175945f788236f9f9f03c4d"
 
 [[files]]
-file = "defaultconfigs/itemswapper.json"
+file = "config/itemswapper.json"
 hash = "a5d1ed60ef1e97d5060a7fbdb6815859d438555ed0f0ccaf0f177a945a070471"
 
 [[files]]
-file = "defaultconfigs/journeymap-server.json"
+file = "config/journeymap-server.json"
 hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
 
 [[files]]
-file = "defaultconfigs/lambdabettergrass.toml"
+file = "config/lambdabettergrass.toml"
 hash = "9f60b82695421a721d6002c4bd9c143fe6f4fc718375e557798f3c553724fe6a"
 
 [[files]]
-file = "defaultconfigs/lambdynlights.toml"
+file = "config/lambdynlights.toml"
 hash = "7d9cc2e3d3d7e5a9f2e0ce0e8a387d717cafb08527ada054e2fe5b52f91b7075"
 
 [[files]]
-file = "defaultconfigs/legendarytooltips-common.toml"
+file = "config/legendarytooltips-common.toml"
 hash = "3429f00928014fb571566d4acf962570d79c5a40ef7f2882ac3298d44ee5d0e8"
 
 [[files]]
-file = "defaultconfigs/lithium.properties"
+file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
-file = "defaultconfigs/microdurability.json5"
+file = "config/microdurability.json5"
 hash = "b8b7a558401f4b9f86b17f3c17365cc5b2a0a85a3cf779c31b59e70c2683db02"
 
 [[files]]
-file = "defaultconfigs/modmenu.json"
+file = "config/modmenu.json"
 hash = "efd46800a3106b3baf57a35b5f45a792931288bc5103d8a54e894c2cd8ab2af1"
 
 [[files]]
-file = "defaultconfigs/moreculling.toml"
+file = "config/moreculling.toml"
 hash = "fb599cf1461b8cf1f4c365faaedb24ab92fe69edfba1d027299e599e07269230"
 
 [[files]]
-file = "defaultconfigs/openblocksconfig.properties"
+file = "config/openblocksconfig.properties"
 hash = "d17d0bec5ecc9d60d3c47e2d6a7bf45c24516d40a568fba61d7c0f501d1546e2"
 
 [[files]]
-file = "defaultconfigs/origins_server.json"
+file = "config/origins_server.json"
 hash = "410d82e277e6f570689d79a40fe68fd63584424a66e9eba88b75c418c183c49e"
 
 [[files]]
-file = "defaultconfigs/pal.properties"
+file = "config/pal.properties"
 hash = "932de0d10538f86deb1de961b00660c2f08a75d323ada42b39e7acd1c9766b1a"
 
 [[files]]
-file = "defaultconfigs/pehkui/config.json"
+file = "config/pehkui/config.json"
 hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
 
 [[files]]
-file = "defaultconfigs/polymer/client.json"
+file = "config/polymer/client.json"
 hash = "d0e0ff01a8fad9fb04205b2757d0e4312c16b8cd0a58a8d8c0d2bffc1e7bc979"
 
 [[files]]
-file = "defaultconfigs/polymer/networking.json"
+file = "config/polymer/networking.json"
 hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"
 
 [[files]]
-file = "defaultconfigs/polymer/server.json"
+file = "config/polymer/server.json"
 hash = "278f33efcef6189ea44fb87d81b9f25eaa241e9760868b5f8011a45fc95fb9af"
 
 [[files]]
-file = "defaultconfigs/power_config.json5"
+file = "config/power_config.json5"
 hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
 
 [[files]]
-file = "defaultconfigs/reacharound.json"
+file = "config/reacharound.json"
 hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/changelog.txt"
+file = "config/roughlyenoughitems/changelog.txt"
 hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/config.json5"
+file = "config/roughlyenoughitems/config.json5"
 hash = "0c6d1e578741683d46bba6433dfd07613f47f01eedab65c6031dae1ec8609cb0"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/hints.json"
+file = "config/roughlyenoughitems/hints.json"
 hash = "f07051dd61e3a5619d685f04f3ec90f8c1149fc2aadc095e6fc62f78a65fe7c7"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/pinyin.properties"
+file = "config/roughlyenoughitems/pinyin.properties"
 hash = "418440b72ca1dd068ae9411d861426da8840935db8116f2bfc277e5622f30268"
 
 [[files]]
-file = "defaultconfigs/roughlyenoughitems/pinyin_double.properties"
+file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "9f12a23e752c9b21d4102867a5ae79f03459ed26ccf3589c11d86c22d4f68a30"
 
 [[files]]
-file = "defaultconfigs/showmeyourskin-server.json"
+file = "config/showmeyourskin-server.json"
 hash = "483f1a0209c8509c1505b15bed44108ee57e8b233152dafa1be0311c686d941a"
 
 [[files]]
-file = "defaultconfigs/showmeyourskin.json"
+file = "config/showmeyourskin.json"
 hash = "ac66a4b719605df9d7524a8d834afb50b7032508ac1150d92c2c49e11ee45c4e"
 
 [[files]]
-file = "defaultconfigs/smoothboot.json"
+file = "config/smoothboot.json"
 hash = "7eb2c9832f1adc79eb19fe0c0262d9cb7ed551cc59f79d4bdcf9373c3194c2c5"
 
 [[files]]
-file = "defaultconfigs/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "c5eccd3653d42823b201d3be971e18b10ed237b14922293b062dc110eab316b9"
 
 [[files]]
-file = "defaultconfigs/sodium-extra.properties"
+file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "defaultconfigs/sodium-mixins.properties"
+file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
-file = "defaultconfigs/sodium-options.json"
+file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
-file = "defaultconfigs/spark/activity.json"
+file = "config/spark/activity.json"
 hash = "2c6cb37a56d426d855b0907e5c8d84dc4192dc9373096e7def6e69d288ed2599"
 
 [[files]]
-file = "defaultconfigs/spark/config.json"
+file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
-file = "defaultconfigs/spark/tmp/about.txt"
+file = "config/spark/tmp/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
-file = "defaultconfigs/status-effect-bars.json"
+file = "config/status-effect-bars.json"
 hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 
 [[files]]
-file = "defaultconfigs/status/state-client.properties"
+file = "config/status/state-client.properties"
 hash = "27449054cc0b1e1d85110c980b1df6d5d8a95b4fc8a286a9766ca502049e9d53"
 
 [[files]]
-file = "defaultconfigs/status/status-server.properties"
+file = "config/status/status-server.properties"
 hash = "9bdb748be195ba8bad9092f6d8b0d85d800d114bcd6874a1fe70f35da552a523"
 
 [[files]]
-file = "defaultconfigs/stepup.json"
+file = "config/stepup.json"
 hash = "35a9044d389e006cd3fc164d69de029429954e7dbf05ccabacc7cc99c4c8e4be"
 
 [[files]]
-file = "defaultconfigs/toomanybinds.json5"
+file = "config/toomanybinds.json5"
 hash = "a6190a53fcd334afe2bd3e73906af6c21e06a54c12229707ecc96aa7cdcce7fe"
 
 [[files]]
-file = "defaultconfigs/universal-graves.json"
+file = "config/universal-graves.json"
 hash = "34c8e5c6ba5fc8b72bb02573c8c4112d81f441508bec5bba00e0fb59512a5ea0"
 
 [[files]]
-file = "defaultconfigs/visuality.json"
+file = "config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 
 [[files]]
-file = "defaultconfigs/voicechat/translations.properties"
+file = "config/voicechat/translations.properties"
 hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
 [[files]]
-file = "defaultconfigs/voicechat/username-cache.json"
+file = "config/voicechat/username-cache.json"
 hash = "1c4f571a83ba557be74c1280ea7e95f19e553928d72c1a48ff1fc4e2f4ec8657"
 
 [[files]]
-file = "defaultconfigs/voicechat/voicechat-client.properties"
+file = "config/voicechat/voicechat-client.properties"
 hash = "2c56a52097461273136442715f1e677e0b5566a7e4cffa1bcbb2748ac1bc553a"
 
 [[files]]
-file = "defaultconfigs/voicechat/voicechat-server.properties"
+file = "config/voicechat/voicechat-server.properties"
 hash = "e0021e7965b60f0a11882496b9c1508e917477cbef9128a80fd7868b12e4dcaa"
 
 [[files]]
