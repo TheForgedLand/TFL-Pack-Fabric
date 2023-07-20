@@ -1,18 +1,13 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.19.2-2.4.11.jar"
+filename = "voicechat-fabric-1.19.2-2.4.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0f0d371ca11379bf3964213351e223106a26e4be"
+hash = "13475ca8a90fe94d7af62cc8b7d7213f0191e9a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4600605
+file-id = 4645790
 project-id = 416089
-
-[option]
-optional = false
-description = "proximity voice chat and groups for you to hang out with friends"
-default = true

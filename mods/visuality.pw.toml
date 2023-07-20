@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4418106
 project-id = 521126
-
-[option]
-optional = true
-default = true
-description = "new particles to liven up your game"

@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3998293
 project-id = 542478
-
-[option]
-optional = true
-default = true
-description = "Aesthetic addition to Item tooltips so you feel fancier"

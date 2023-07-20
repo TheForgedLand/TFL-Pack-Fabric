@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3957480
 project-id = 459496
-
-[option]
-optional = true
-default = true
-description = "stuff so sodium works well with other mods, such as create"

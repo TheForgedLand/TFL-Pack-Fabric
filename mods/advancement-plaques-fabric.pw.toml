@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3949457
 project-id = 514882
-
-[option]
-optional = true
-default = true
-description = "Makes aesthetic changes to the Advancement system"

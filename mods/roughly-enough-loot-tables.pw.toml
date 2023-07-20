@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3963982
 project-id = 665532
-
-[option]
-optional = true
-default = true
-description = "Ever wanted to know what you can actually get from a temple chest?"

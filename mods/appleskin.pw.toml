@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3927567
 project-id = 248787
-
-[option]
-optional = true
-default = true
-description = "Adds extra information about food items"

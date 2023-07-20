@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3841426
 project-id = 409222
-
-[option]
-optional = true
-default = true
-description = "A minimalistic aesthetic way of knowing your armor durability"

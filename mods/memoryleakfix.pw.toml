@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4465266
 project-id = 627566
-
-[option]
-optional = true
-description = "fixes some common memory leaks"
-default = true

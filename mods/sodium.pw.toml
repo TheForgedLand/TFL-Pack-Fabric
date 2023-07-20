@@ -11,8 +11,3 @@ hash = "227648dc4f6a8604bafc282612a6de47eff70cd8"
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "rAfhHfow"
-
-[option]
-optional = true
-default = true
-description = "finally a kind of salt that will get your game running better and not give you hypertention"

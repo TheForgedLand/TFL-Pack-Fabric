@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4367171
 project-id = 648781
-
-[option]
-optional = true
-default = true
-description = "Put blocks in weird ways you normally couldn't"

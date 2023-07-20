@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4024702
 project-id = 687609
-
-[option]
-optional = false
-default = true
-description = "so everyone knows if you wanna collab when streaming (or just wanna be left alone)"

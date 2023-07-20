@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4110286
 project-id = 510234
-
-[option]
-optional = true
-default = true
-description = "zoom, custom 3rd person, camera mounts... quite useful for streamers and youtubers alike"

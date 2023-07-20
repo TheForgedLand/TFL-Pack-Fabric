@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3801375
 project-id = 615459
-
-[option]
-optional = true
-default = true
-description = "Aesthetic minimalistic bars for potion effects"

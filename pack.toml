@@ -1,13 +1,13 @@
-name = "TFL"
-author = "Alice C"
-version = "1.2.2"
-description = "A special modpack made for TheForgedLand SMP"
+name = "TheForgedLand"
+author = "Alice C."
+version = "2.0.0"
+description = "A special modpack made for TheForgedLand SMP 2nd Season"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6b4995ccd5e5462d36a43778fab01f77de49c8d7b7ba173f61b84a7785dbb37e"
+hash = "303adeb147e4c3ec6fcec16e88625cbb86fe55426978c98c4255f225b4a799c4"
 
 [versions]
 fabric = "0.14.21"

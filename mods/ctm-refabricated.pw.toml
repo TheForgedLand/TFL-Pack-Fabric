@@ -1,0 +1,13 @@
+name = "CTM Refabricated"
+filename = "ctm-refabricated-1.0.1+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1a4458cd1ab34c6a956e669f373ebdea81ec711"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4467316
+project-id = 633997

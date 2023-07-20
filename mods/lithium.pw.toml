@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4439700
 project-id = 360438
-
-[option]
-optional = true
-description = "performance mod"
-default = true

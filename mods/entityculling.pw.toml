@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4404950
 project-id = 448233
-
-[option]
-optional = true
-default = true
-description = "Only entities in the field of view get rendered"

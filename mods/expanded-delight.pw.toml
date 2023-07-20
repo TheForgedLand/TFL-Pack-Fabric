@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4409058
 project-id = 620770
-
-[option]
-optional = false
-default = true
-description = "Extra features for Farmer's Delight"

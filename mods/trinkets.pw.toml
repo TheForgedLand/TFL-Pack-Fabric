@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4343755
 project-id = 341284
-
-[option]
-optional = false
-default = true
-description = "trinkets so you can put fancy glasses and bags with armor"

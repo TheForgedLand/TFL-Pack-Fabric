@@ -1,0 +1,13 @@
+name = "Delightful Creators Fabric"
+filename = "delightful-creators-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "418683478ff1ad0e37e5c4e28669b35f89441533"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4647619
+project-id = 873936

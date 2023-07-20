@@ -1,0 +1,13 @@
+name = "Bad Log Remover"
+filename = "effective-log-remover-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcf6435cf1929d19d4ceff33bd44adf749a4829d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4356266
+project-id = 814833

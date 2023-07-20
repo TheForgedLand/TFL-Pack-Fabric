@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3835973
 project-id = 521783
-
-[option]
-optional = true
-default = true
-description = "better organizing light so it doesn't break your game as much. significantly better performance"

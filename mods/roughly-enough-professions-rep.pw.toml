@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4427279
 project-id = 597988
-
-[option]
-optional = true
-default = true
-description = "to better know how to enslave villagers"

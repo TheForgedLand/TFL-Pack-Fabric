@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3922111
 project-id = 539382
-
-[option]
-optional = true
-default = true
-description = "library. Essencial dependency for some mods"

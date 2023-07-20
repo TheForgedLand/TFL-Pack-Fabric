@@ -1,0 +1,13 @@
+name = "Missing Wilds"
+filename = "MissingWilds-fabric-1.19.2-1.2.0-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "992035bc027ebe05811fdb9a7f0c18eb3835b342"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4600002
+project-id = 622590

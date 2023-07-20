@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3827906
 project-id = 401833
-
-[option]
-optional = false
-default = true
-description = "Varied classes for you to choose from!"

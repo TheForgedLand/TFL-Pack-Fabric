@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3821870
 project-id = 433518
-
-[option]
-optional = true
-default = true
-description = "faster world loading"

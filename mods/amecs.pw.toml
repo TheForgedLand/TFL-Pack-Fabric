@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3819822
 project-id = 324564
-
-[option]
-optional = true
-default = true
-description = "Allows for more complex keybind configurations"

@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3963321
 project-id = 664356
-
-[option]
-optional = true
-default = true
-description = "Every trade imaginable, to better exploit your questionable villager workforce"

@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3995427
 project-id = 378696
-
-[option]
-optional = true
-default = true
-description = "Aesthetic mod that adds new ambience noises"

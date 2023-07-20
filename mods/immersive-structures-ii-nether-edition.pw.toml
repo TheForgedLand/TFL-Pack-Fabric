@@ -1,0 +1,13 @@
+name = "Immersive Structures II: Nether edition"
+filename = "[Universal]Immersive_Structure_Nether_v1.0.0b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6e5d2ed304ee99f3e76a2cd9c4af0865c25e21a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4532646
+project-id = 856434

@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4153346
 project-id = 256717
-
-[option]
-optional = true
-default = true
-description = "Exp orbs clump together"

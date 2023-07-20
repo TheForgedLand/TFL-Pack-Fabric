@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4438705
 project-id = 306612
-
-[option]
-optional = false
-description = "do i really need to explain why this is important?"
-default = true

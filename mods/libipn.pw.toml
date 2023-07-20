@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4574565
 project-id = 679177
-
-[option]
-optional = true
-description = "Library for specific mods"
-default = true

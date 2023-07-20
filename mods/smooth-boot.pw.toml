@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3821513
 project-id = 415758
-
-[option]
-optional = true
-default = true
-description = "smoother booting"

@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4257321
 project-id = 393442
-
-[option]
-optional = true
-default = true
-description = "dynamic lights for a fancy time"

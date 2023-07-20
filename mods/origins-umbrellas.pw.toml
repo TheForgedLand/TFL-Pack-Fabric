@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4013610
 project-id = 453378
-
-[option]
-optional = false
-default = true
-description = "Umbrellas to protect from sun and rain alike"

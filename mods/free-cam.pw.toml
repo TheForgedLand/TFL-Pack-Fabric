@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3984453
 project-id = 557076
-
-[option]
-optional = true
-default = true
-description = "fly around in freecam to see how's your building going"
