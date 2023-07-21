@@ -35,7 +35,7 @@ def update_flavors(modlist):
 
 	if len(outdated) > 0:
 		print("These mods are being removed!!")
-		[print("- ", mod) for mod in outdated]
+		for mod in outdated: print("- ", mod)
 
 		for mod in outdated:
 			for m in modlist:
@@ -46,18 +46,18 @@ def update_flavors(modlist):
 
 	if len(newly_added) > 0:
 		print("These mods are being added!!")
-		[print("- ", mod) for mod in newly_added]
-
-
+		for mod in newly_added: print("- ", mod)
 
 	with open("unsup.toml", "w") as f, open("pack-config/flavors.yaml", "w") as flavorfile:
 		yaml.dump(modflavors, flavorfile)
 		toml.dump(data, f)
 
-update_flavors(get_modlist())
 
 with open("pack-config/custom_sources.yaml") as sources:
 	custom_sources = yaml.safe_load(sources); sources.close()
 for mod, mod_url in custom_sources.items():
 	os.system("bin/packwiz%s url add %s %s" % (extension, mod, mod_url))
 os.system("bin/packwiz%s refresh" % extension)
+
+
+update_flavors(get_modlist())

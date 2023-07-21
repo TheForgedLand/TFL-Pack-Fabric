@@ -82,7 +82,25 @@ flavors = "misc_on"
 [metafile.backpacked-fabric]
 flavors = "misc_on"
 
+[metafile.bad-log-remover]
+flavors = "misc_on"
+
+[metafile.balm-fabric]
+flavors = "misc_on"
+
+[metafile.bartering-station]
+flavors = "misc_on"
+
+[metafile.better-advancements]
+flavors = "misc_on"
+
+[metafile.better-lily-pads]
+flavors = "misc_on"
+
 [metafile.better-potion-visuals]
+flavors = "misc_on"
+
+[metafile.better-stats]
 flavors = "misc_on"
 
 [metafile.camera-utils]
@@ -106,19 +124,25 @@ flavors = "misc_on"
 [metafile.clumps]
 flavors = "misc_on"
 
+[metafile.collective]
+flavors = "misc_on"
+
 [metafile.colorful-enchantments]
 flavors = "misc_on"
 
-[metafile.configured-fabric]
+[metafile.connectivity]
 flavors = "misc_on"
 
-[metafile.connectivity]
+[metafile.content-creator-server-status]
 flavors = "misc_on"
 
 [metafile.corgilib]
 flavors = "misc_on"
 
 [metafile.create-deco-fabric]
+flavors = "misc_on"
+
+[metafile.create-enchantment-industry-fabric]
 flavors = "misc_on"
 
 [metafile.create-fabric]
@@ -130,10 +154,13 @@ flavors = "misc_on"
 [metafile.creativecore]
 flavors = "misc_on"
 
-[metafile.cull-less-leaves]
+[metafile.ctm-refabricated]
 flavors = "misc_on"
 
 [metafile.cultural-delights-fabric]
+flavors = "misc_on"
+
+[metafile.daves-potioneering]
 flavors = "misc_on"
 
 [metafile.decorative-blocks]
@@ -151,13 +178,13 @@ flavors = "misc_on"
 [metafile.entityculling]
 flavors = "misc_on"
 
+[metafile.every-compat]
+flavors = "misc_on"
+
 [metafile.expanded-delight]
 flavors = "misc_on"
 
 [metafile.explorify]
-flavors = "misc_on"
-
-[metafile.extra-alchemy]
 flavors = "misc_on"
 
 [metafile.fabric-api]
@@ -172,10 +199,19 @@ flavors = "misc_on"
 [metafile.farmers-delight-fabric]
 flavors = "misc_on"
 
+[metafile.farmers-knives]
+flavors = "misc_on"
+
+[metafile.farmers-respite-fabric]
+flavors = "misc_on"
+
 [metafile.ferritecore-fabric]
 flavors = "misc_on"
 
 [metafile.findme]
+flavors = "misc_on"
+
+[metafile.forge-config-api-port-fabric]
 flavors = "misc_on"
 
 [metafile.framework-fabric]
@@ -184,7 +220,13 @@ flavors = "misc_on"
 [metafile.free-cam]
 flavors = "misc_on"
 
+[metafile.fusion-connected-textures]
+flavors = "misc_on"
+
 [metafile.geckolib]
+flavors = "misc_on"
+
+[metafile.iceberg-fabric]
 flavors = "misc_on"
 
 [metafile.immersive-structures]
@@ -205,7 +247,7 @@ flavors = "misc_on"
 [metafile.itemswapper]
 flavors = "misc_on"
 
-[metafile.kitsune]
+[metafile.javd]
 flavors = "misc_on"
 
 [metafile.kubejs]
@@ -221,12 +263,6 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.lazydfu]
-flavors = "misc_on"
-
-[metafile.leaves-slabs]
-flavors = "misc_on"
-
-[metafile.leaves-us-in-peace]
 flavors = "misc_on"
 
 [metafile.legendary-tooltips-fabric]
@@ -259,10 +295,13 @@ flavors = "misc_on"
 [metafile.modmenu]
 flavors = "misc_on"
 
+[metafile.mru]
+flavors = "misc_on"
+
 [metafile.natures-compass]
 flavors = "misc_on"
 
-[metafile.netherportalfix]
+[metafile.netherportalfix-fabric]
 flavors = "misc_on"
 
 [metafile.nethers-delight-fabric]
@@ -271,16 +310,7 @@ flavors = "misc_on"
 [metafile.oh-the-biomes-youll-go-fabric]
 flavors = "misc_on"
 
-[metafile.openblocks-elevator-fabric]
-flavors = "misc_on"
-
-[metafile.origins]
-flavors = "misc_on"
-
 [metafile.origins-classes]
-flavors = "misc_on"
-
-[metafile.origins-plus-plus]
 flavors = "misc_on"
 
 [metafile.origins-umbrellas]
@@ -292,7 +322,19 @@ flavors = "misc_on"
 [metafile.pehkui]
 flavors = "misc_on"
 
+[metafile.prism-fabric]
+flavors = "misc_on"
+
+[metafile.puzzles-lib]
+flavors = "misc_on"
+
 [metafile.reacharound]
+flavors = "misc_on"
+
+[metafile.rechiseled]
+flavors = "misc_on"
+
+[metafile.rechiseled-create]
 flavors = "misc_on"
 
 [metafile.reeses-sodium-options]
@@ -322,6 +364,12 @@ flavors = "misc_on"
 [metafile.satin-api]
 flavors = "misc_on"
 
+[metafile.selene]
+flavors = "misc_on"
+
+[metafile.shulkerboxtooltip]
+flavors = "misc_on"
+
 [metafile.simple-voice-chat]
 flavors = "misc_on"
 
@@ -331,22 +379,25 @@ flavors = "misc_on"
 [metafile.smooth-boot]
 flavors = "misc_on"
 
+[metafile.snow-under-trees-remastered]
+flavors = "misc_on"
+
 [metafile.sodium]
 flavors = "misc_on"
 
 [metafile.sodium-extra]
 flavors = "misc_on"
 
-[metafile.sodium-shadowy-path-blocks]
-flavors = "misc_on"
-
-[metafile.spark]
-flavors = "misc_on"
-
 [metafile.starlight]
 flavors = "misc_on"
 
 [metafile.status-effect-bars]
+flavors = "misc_on"
+
+[metafile.supermartijn642s-config-lib]
+flavors = "misc_on"
+
+[metafile.supermartijn642s-core-lib]
 flavors = "misc_on"
 
 [metafile.terrablender-fabric]
@@ -367,10 +418,10 @@ flavors = "misc_on"
 [metafile.twilight-origins]
 flavors = "misc_on"
 
-[metafile.visuality]
+[metafile.underwater-enchanting]
 flavors = "misc_on"
 
-[metafile.why-does-my-glass-sound-like-that]
+[metafile.visuality]
 flavors = "misc_on"
 
 [metafile.xaeros-minimap]
@@ -380,9 +431,6 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.xl-packets-fabric]
-flavors = "misc_on"
-
-[metafile.yacl]
 flavors = "misc_on"
 
 [metafile.youre-in-grave-danger]

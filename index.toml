@@ -241,11 +241,6 @@ hash = "a4693b1de50aa7020ca8395bafc393021d909f960df3b2f23866b54871feb615"
 metafile = true
 
 [[files]]
-file = "mods/farmers-respite-fabric.pw.toml"
-hash = "6d1fb32e4ebdb49d136e30df9c825e1bf45786e531435b3e2dda21fbb6de024f"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true

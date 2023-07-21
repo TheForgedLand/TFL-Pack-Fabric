@@ -46,7 +46,6 @@ fabric-language-kotlin: misc_on
 falling-leaves-fabric: misc_on
 farmers-delight-fabric: misc_on
 farmers-knives: misc_on
-farmers-respite-fabric: misc_on
 ferritecore-fabric: misc_on
 findme: misc_on
 forge-config-api-port-fabric: misc_on
@@ -62,6 +61,7 @@ inventory-profiles-next: misc_on
 itemphysic-lite: misc_on
 itemswapper: misc_on
 javd: misc_on
+kitsune: misc_on
 kubejs: misc_on
 kubejs-create: misc_on
 lambdabettergrass: misc_on
@@ -82,7 +82,9 @@ natures-compass: misc_on
 netherportalfix-fabric: misc_on
 nethers-delight-fabric: misc_on
 oh-the-biomes-youll-go-fabric: misc_on
+origins: misc_on
 origins-classes: misc_on
+origins-plus-plus: misc_on
 origins-umbrellas: misc_on
 owo-lib: misc_on
 pehkui: misc_on
