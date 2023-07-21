@@ -24,6 +24,7 @@ colorful-enchantments: misc_on
 connectivity: misc_on
 content-creator-server-status: misc_on
 corgilib: misc_on
+couplings: misc_on
 create-deco-fabric: misc_on
 create-enchantment-industry-fabric: misc_on
 create-fabric: misc_on
@@ -32,7 +33,9 @@ creativecore: misc_on
 ctm-refabricated: misc_on
 cultural-delights-fabric: misc_on
 daves-potioneering: misc_on
+debugify: misc_on
 decorative-blocks: misc_on
+default-options-fabric: misc_on
 delightful-creators-fabric: misc_on
 ecologics: misc_on
 effective: misc_on
@@ -104,6 +107,7 @@ satin-api: misc_on
 selene: misc_on
 shulkerboxtooltip: misc_on
 simple-voice-chat: misc_on
+sleep-warp: misc_on
 slice-and-dice: misc_on
 smooth-boot: misc_on
 snow-under-trees-remastered: misc_on
@@ -115,8 +119,8 @@ supermartijn642s-config-lib: misc_on
 supermartijn642s-core-lib: misc_on
 terrablender-fabric: misc_on
 the-twilight-forest: misc_on
-tooltipfix: misc_on
 towns-and-towers: misc_on
+trading-post: misc_on
 trinkets: misc_on
 twilight-origins: misc_on
 underwater-enchanting: misc_on
@@ -124,4 +128,5 @@ visuality: misc_on
 xaeros-minimap: misc_on
 xaeros-world-map: misc_on
 xl-packets-fabric: misc_on
+yacl: misc_on
 youre-in-grave-danger: misc_on
