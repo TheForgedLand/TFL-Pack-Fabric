@@ -1,6 +1,6 @@
 name = "Satin API"
 filename = "satin-1.9.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
