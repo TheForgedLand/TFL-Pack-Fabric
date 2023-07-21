@@ -115,6 +115,9 @@ flavors = "misc_on"
 [metafile.decorative-blocks]
 flavors = "misc_on"
 
+[metafile.default-options-fabric]
+flavors = "misc_on"
+
 [metafile.delightful-creators-fabric]
 flavors = "misc_on"
 
