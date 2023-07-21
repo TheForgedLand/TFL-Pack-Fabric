@@ -61,11 +61,6 @@ hash = "6881cf871671fd2d45882719f93d8bc8bb1a2736da6aeb607c59cd8f0d28aa22"
 metafile = true
 
 [[files]]
-file = "mods/better-lily-pads.pw.toml"
-hash = "557fd99c3ff4d8ae59b4cbb92fca84632431753457c96d861d5c3c3155c20fde"
-metafile = true
-
-[[files]]
 file = "mods/better-potion-visuals.pw.toml"
 hash = "0adf9210e7b4ec1d95d4b3a12756b2f92000d0959bc5f2f816aec1e39632c864"
 metafile = true

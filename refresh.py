@@ -57,7 +57,8 @@ with open("pack-config/custom_sources.yaml") as sources:
 	custom_sources = yaml.safe_load(sources); sources.close()
 for mod, mod_url in custom_sources.items():
 	os.system("bin/packwiz%s url add %s %s" % (extension, mod, mod_url))
-os.system("bin/packwiz%s refresh" % extension)
 
 
 update_flavors(get_modlist())
+
+os.system("bin/packwiz%s refresh" % extension)

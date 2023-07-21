@@ -94,9 +94,6 @@ flavors = "misc_on"
 [metafile.better-advancements]
 flavors = "misc_on"
 
-[metafile.better-lily-pads]
-flavors = "misc_on"
-
 [metafile.better-potion-visuals]
 flavors = "misc_on"
 
@@ -202,9 +199,6 @@ flavors = "misc_on"
 [metafile.farmers-knives]
 flavors = "misc_on"
 
-[metafile.farmers-respite-fabric]
-flavors = "misc_on"
-
 [metafile.ferritecore-fabric]
 flavors = "misc_on"
 
@@ -248,6 +242,9 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.javd]
+flavors = "misc_on"
+
+[metafile.kitsune]
 flavors = "misc_on"
 
 [metafile.kubejs]
@@ -310,7 +307,13 @@ flavors = "misc_on"
 [metafile.oh-the-biomes-youll-go-fabric]
 flavors = "misc_on"
 
+[metafile.origins]
+flavors = "misc_on"
+
 [metafile.origins-classes]
+flavors = "misc_on"
+
+[metafile.origins-plus-plus]
 flavors = "misc_on"
 
 [metafile.origins-umbrellas]
