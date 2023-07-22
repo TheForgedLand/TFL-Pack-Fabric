@@ -11,6 +11,11 @@ hash = "0b1a05b8cf2b6f7ed43ebb07082875e31e986aac660acb0056e4b4062cb6231c"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "40c4bf47c960b614d8b7eed9be26a756d951c79f794a532e14e9611cf3cf36a6"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "0fdc0f5bd1463c2c3af266420f74aa9011e6407ad10c8e26e931172f8b1ba97c"
 metafile = true
@@ -111,8 +116,8 @@ hash = "bd4c1da41f5e44004db0920732d151566f06631bf5c0579092e15d0ddc688a52"
 metafile = true
 
 [[files]]
-file = "mods/colorful-enchantments.pw.toml"
-hash = "f7f55814430da6621b809f47ab216fc723b6af4b622b16d8907b7f6a0029efdd"
+file = "mods/compact-help-command.pw.toml"
+hash = "b158d47b6e84b2b73e83d17f8f2dbca06cf4ec215d0d237e55a63716c199558d"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "a92bf97d548b17c87aa28768d02e65d5b22677ce3432c3ea930753b658898709"
+hash = "d991e7a0da96b5f6a4bedb714d8d7c1a259b2df788960838e493e5bc176b51a3"
 metafile = true
 
 [[files]]
@@ -291,6 +296,11 @@ hash = "bc41d7961ad011925f4e05edf4c868d3934e3a35cc05080941fbdecef21dfa61"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "af561f16418d62ddf59ca3ee66740554662f5310147c90c08653332cebc94d10"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures-ii-nether-edition.pw.toml"
 hash = "6da255d18e867ad6715ad931d183933f1fa680f5aa46f56680d757b2331d081a"
 metafile = true
@@ -356,6 +366,16 @@ hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "f494ef21a5ef844134aad77bb2e5132be64b79e5b83951b0073ab5bde6d2bc4c"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "ec9c6fcd35e2c4678114755db5ad063b5cb935f4ac1a8b635c8adc9b201e7e0d"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "f13cc3628b7d5ad6e880e666ada23bb0e48c2043a1316dc281d04c2eb767558f"
 metafile = true
@@ -388,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/microdurability.pw.toml"
 hash = "4ceeebacdd699dfbd48262a69d0ff4e7b6da588799ffeb72f206d1524b0c2d19"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.pw.toml"
+hash = "224b831a1cdce497428441731ebbfcbf4565b53f12225f21b90a7116e8b3c1b9"
 metafile = true
 
 [[files]]
@@ -536,6 +561,16 @@ hash = "2e814adc30cfdcd79da5ef3a711335e953decddd9009af332e413e1edb045731"
 metafile = true
 
 [[files]]
+file = "mods/server-hats.pw.toml"
+hash = "2cf8e5ba168f059abb78756b2d8720860db102fbe2ffc2bc4700d5e13fe4260a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "385e0ff16f7ecc2147c1829a4bfdb04e47773896b2b479225a7c320d9092fd55"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "d5e213d3d54b36d15d79bb1e5d105e50bdc84885fda88e66f0f2fa9002fceccf"
 metafile = true
@@ -573,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7efe60a5e540ab14416d43159601936336d4725125b5a2a5c3d0de80a1be6fbe"
 metafile = true
 
 [[files]]

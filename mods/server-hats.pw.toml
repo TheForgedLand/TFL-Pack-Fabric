@@ -1,0 +1,13 @@
+name = "Server Hats"
+filename = "server-hats-1.19-1.19.2-0.14.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "9455649c18ac0e9ed8f7e6103458599a89dadd3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4393604
+project-id = 549653

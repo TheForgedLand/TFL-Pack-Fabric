@@ -1,5 +1,6 @@
 additional-structures-fabric: misc_on
 advancement-plaques-fabric: misc_on
+alternate-current: misc_on
 amecs: misc_on
 another-furniture: misc_on
 appleskin: misc_on
@@ -20,7 +21,7 @@ cleancut: misc_on
 cloth-config: misc_on
 clumps: misc_on
 collective: misc_on
-colorful-enchantments: misc_on
+compact-help-command: misc_on
 connectivity: misc_on
 content-creator-server-status: misc_on
 corgilib: misc_on
@@ -56,6 +57,7 @@ free-cam: misc_on
 fusion-connected-textures: misc_on
 geckolib: misc_on
 iceberg-fabric: misc_on
+image2map: misc_on
 immersive-structures: misc_on
 immersive-structures-ii-nether-edition: misc_on
 indium: misc_on
@@ -69,6 +71,8 @@ kubejs-create: misc_on
 lambdabettergrass: misc_on
 lambdynamiclights: misc_on
 lazydfu: misc_on
+ledger: misc_on
+ledger-databases: misc_on
 legendary-tooltips-fabric: misc_on
 libipn: misc_on
 light-overlay: misc_on
@@ -76,6 +80,7 @@ lithium: misc_on
 log-begone: misc_on
 memoryleakfix: misc_on
 microdurability: misc_on
+minimotd: misc_on
 missing-wilds: misc_on
 mixintrace: misc_on
 modmenu: misc_on
@@ -105,6 +110,8 @@ roughly-enough-resources: misc_on
 roughly-enough-trades: misc_on
 satin-api: misc_on
 selene: misc_on
+server-hats: misc_on
+servercore: misc_on
 shulkerboxtooltip: misc_on
 simple-voice-chat: misc_on
 sleep-warp: misc_on
@@ -113,6 +120,7 @@ smooth-boot: misc_on
 snow-under-trees-remastered: misc_on
 sodium: misc_on
 sodium-extra: misc_on
+spark: misc_on
 starlight: misc_on
 status-effect-bars: misc_on
 supermartijn642s-config-lib: misc_on
