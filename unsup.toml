@@ -61,6 +61,9 @@ flavors = "misc_on"
 [metafile.chipped]
 flavors = "misc_on"
 
+[metafile.choicetheorems-overhauled-village]
+flavors = "misc_on"
+
 [metafile.cleancut]
 flavors = "misc_on"
 
