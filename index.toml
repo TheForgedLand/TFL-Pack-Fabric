@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
-hash = "f5f1aaed9146350a555eb1ce3152baf2c1e44c45f0bb4ff7deaafe95b421f015"
+hash = "3d71b497e1f227dac878a8c7da90a3868099951a3070bfa95fb4cf293738921a"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "43d7b415c2466dfe6730d8dc07b4069a240ef071ba1ff8c585798bcd109ab2b5"
+hash = "4ed84f447c20c218b9c90d16b6368e0597c598353e7957477f57c34abf58d337"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b1f5965557b582415a89cd0b632ed2599b086b092972eac3ce529cca722db3b7"
+hash = "3f557a0ae6849c76bcd536d7b5a458ac3be6814c7cc1e4ebfd0308bb7d9aee1f"
 metafile = true
 
 [[files]]
