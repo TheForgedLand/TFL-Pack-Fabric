@@ -96,6 +96,11 @@ hash = "ea9955c08a4269cdb19fc8a7d8cfcf73bd3c8a3a9be197ba6e2c1b7ab42e5a89"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "4ee4b7abc4bebd0d3c9a94a0ae0de701d334d48d6a18ca23fd2bc4655699986d"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "eb7f6a50483c6f0dcd286578573f3a0264dd70d9b548f2059dd264f50c1569fd"
 metafile = true

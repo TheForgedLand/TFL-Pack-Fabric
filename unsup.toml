@@ -10,6 +10,9 @@ flavors = "misc_on"
 [metafile.advancement-plaques-fabric]
 flavors = "misc_on"
 
+[metafile.alternate-current]
+flavors = "misc_on"
+
 [metafile.amecs]
 flavors = "misc_on"
 
@@ -70,7 +73,7 @@ flavors = "misc_on"
 [metafile.collective]
 flavors = "misc_on"
 
-[metafile.colorful-enchantments]
+[metafile.compact-help-command]
 flavors = "misc_on"
 
 [metafile.connectivity]
@@ -178,6 +181,9 @@ flavors = "misc_on"
 [metafile.iceberg-fabric]
 flavors = "misc_on"
 
+[metafile.image2map]
+flavors = "misc_on"
+
 [metafile.immersive-structures]
 flavors = "misc_on"
 
@@ -217,6 +223,12 @@ flavors = "misc_on"
 [metafile.lazydfu]
 flavors = "misc_on"
 
+[metafile.ledger]
+flavors = "misc_on"
+
+[metafile.ledger-databases]
+flavors = "misc_on"
+
 [metafile.legendary-tooltips-fabric]
 flavors = "misc_on"
 
@@ -236,6 +248,9 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.microdurability]
+flavors = "misc_on"
+
+[metafile.minimotd]
 flavors = "misc_on"
 
 [metafile.missing-wilds]
@@ -325,6 +340,12 @@ flavors = "misc_on"
 [metafile.selene]
 flavors = "misc_on"
 
+[metafile.server-hats]
+flavors = "misc_on"
+
+[metafile.servercore]
+flavors = "misc_on"
+
 [metafile.shulkerboxtooltip]
 flavors = "misc_on"
 
@@ -347,6 +368,9 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.sodium-extra]
+flavors = "misc_on"
+
+[metafile.spark]
 flavors = "misc_on"
 
 [metafile.starlight]
