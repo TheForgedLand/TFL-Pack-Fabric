@@ -9,6 +9,7 @@ hash = "6e627ee1b31f5be89e14c85e888f47463d8da9c2"
 
 [option]
 optional = true
+default = true
 
 [update]
 [update.modrinth]
