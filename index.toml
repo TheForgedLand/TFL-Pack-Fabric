@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "df801df353fdfbcab0c2650b7daa51a13556bec031c4c9f66f65814703f578da"
+hash = "fbbceeda76e9d0a8a7d5d329b6ef397d38852b4e55c6b3612a6b1677b21e0b28"
 metafile = true
 
 [[files]]
@@ -347,12 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "8b51b272666c8071b0c950ec91963e4747d5846bf8da0c35393f8bbecc772ee5"
+hash = "fdd92e932a58b10a1946f84f990ee0e9116b58a19bf4c63058bd13d658f2220b"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "4ed84f447c20c218b9c90d16b6368e0597c598353e7957477f57c34abf58d337"
+hash = "b72a2fc24146d1ab5a7134e15aab78ace30977d0ccb85477761a77ce58dfd7c8"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "02a9cf64342bf1e3bf3c14dc6fac232ac39133fb6822036207a2e26d01b2dc2c"
+hash = "f1c69585786e1f769dcd6a6ee85e4a8893a5d271a9a6261142585fe46072a4f2"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "614a19f87a84603cca2465bc41c2dad6919b1ea068178d5b78584f3706c38ca1"
+hash = "ab898833eea5b0cb8fe918a85a81feec4cf1f9b6853fb8845e537fd299c222c5"
 metafile = true
 
 [[files]]
@@ -682,12 +682,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d09b43106fb6b4df2db91dc2d72195535148e2845768bd1b786c09e12d0801d4"
+hash = "03b8a78a6c40458ea34ce2cc9f617979abc673883b57695bad6dc9db4dbfda03"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21ca1ada7fcfa709b334192d409af80ef54fad572c3290a95b3daef5293ecb26"
+hash = "ea14509fa8cff9615c35836583e755cdf6538b1025e1c4ce262bc06672b32d0d"
 metafile = true
 
 [[files]]
