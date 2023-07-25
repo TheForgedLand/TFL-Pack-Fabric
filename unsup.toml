@@ -421,6 +421,9 @@ flavors = "misc_on"
 [metafile.yacl]
 flavors = "misc_on"
 
+[metafile.yawp]
+flavors = "misc_on"
+
 [metafile.yosbr]
 flavors = "misc_on"
 
