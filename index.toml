@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "fbbceeda76e9d0a8a7d5d329b6ef397d38852b4e55c6b3612a6b1677b21e0b28"
+hash = "e9d2690e21e5a5bd2e1d818d25cc26d294737c7610c1382525c23f9d9b43ec55"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "09c50ece7a76b1a0ce1c3557d362162cc6ac496d997d40ef406e0a729af3871d"
+hash = "db97074842df9195ec06fed00fceff0db4aa82ad9760b3f7c7631918f80228ae"
 metafile = true
 
 [[files]]
