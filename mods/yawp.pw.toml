@@ -1,6 +1,6 @@
 name = "Yet Another World Protector"
 filename = "yawp-1.19.2-0.0.2.8-beta2-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
