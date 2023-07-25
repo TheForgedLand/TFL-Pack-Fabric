@@ -1,6 +1,550 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/XaeroWaypoints/Multiplayer_theforgedland.mine.bz/config.txt"
+hash = "60e8e793dd4b6dac72a5f1357ca4eb95f5e76e42e376b606a0944f6f4356aead"
+
+[[files]]
+file = "config/yosbr/XaeroWaypoints/Multiplayer_theforgedland.mine.bz/dim%0/mw$-585284436_1.txt"
+hash = "5fdc8ef1980694ad8671f9e2f546114d1ac374bb81c9dfaaea3061ff60b4bf76"
+
+[[files]]
+file = "config/yosbr/config/advancementplaques-common.toml"
+hash = "c6822b26381b5ef4bd295343c7277489eef9502ca68b1dc3d6710142dfc765d2"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/yosbr/config/architects_palette.json5"
+hash = "759534ddefd9c91f7826ec5c7a7fc593029a9aec82ac43924efd7a94d2ff8553"
+
+[[files]]
+file = "config/yosbr/config/backpacked-client.toml"
+hash = "bedfabffd437e3fe1834f9ac7450fd863f42de41b166ffa6b1e9e660bfcadb4e"
+
+[[files]]
+file = "config/yosbr/config/backpacked-common.toml"
+hash = "8a53533cd96bf62d3ad5cc9ea8d17fc759bed0d34b9df734c08a76f9adcaf2cc"
+
+[[files]]
+file = "config/yosbr/config/barteringstation-client.toml"
+hash = "5bfe02aedc8da01e2e5f821cd1d9303f487b8992866f5289c579b0101a0a7f73"
+
+[[files]]
+file = "config/yosbr/config/barteringstation-server.toml"
+hash = "b3e95ff6dbb4cd08afb1db4de5f4a3647b7f3ec144e0507db92ff88c3d6ae492"
+
+[[files]]
+file = "config/yosbr/config/betteradvancements.json"
+hash = "1224ab6a58dda480ec2ea6b734a54878941947997090f479a396aee5f7cf8d81"
+
+[[files]]
+file = "config/yosbr/config/betterstats.json"
+hash = "1170409cd01de4d26814848aa4951746a47674c0fd992af2c5eb9b80ecde2932"
+
+[[files]]
+file = "config/yosbr/config/byg/README.txt"
+hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
+
+[[files]]
+file = "config/yosbr/config/byg/backups/last_working_configs_backup.zip"
+hash = "80898f1f11855beb951f4abd5b12a9b074e63452536d07a51309ff1b50b8a46d"
+
+[[files]]
+file = "config/yosbr/config/byg/biomepedia.json5"
+hash = "8ef0cd2537acf9187204f7d9cbf94464d99eb3915cc92a293c3d3b64633c22f5"
+
+[[files]]
+file = "config/yosbr/config/byg/client/biomepedia_inventory.json5"
+hash = "fe34189905301fc2821a96e626544c1fdfb2da66fda123d7f38886b088c78f97"
+
+[[files]]
+file = "config/yosbr/config/byg/config_versions.json5"
+hash = "932b026a6dc19aa38289f2e2b93b17c65b4187db5f540a4fe7e960f3ce2ced41"
+
+[[files]]
+file = "config/yosbr/config/byg/end-biomes.json5"
+hash = "08f3326b9f2b62917a215b8030a3d4abff0fbe584c73f9e863c0cc988c01a380"
+
+[[files]]
+file = "config/yosbr/config/byg/growing-patterns.json5"
+hash = "814f5c8befdc35f81dd6b5438cb0a901f6ee3f3866bbbde1ebd5b675f50e65fc"
+
+[[files]]
+file = "config/yosbr/config/byg/nether-biomes.json5"
+hash = "5b50466ac66670989c91df4ad26553cb3a1bb6a513f1d4e871493f550935b3ae"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
+hash = "0e53d280eb90fb3c42f66b0ce58d4e08e638a51d676671ee5588846da14f70b8"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
+hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
+hash = "083c74dfff5f8541d50e6e6f94fd627e3ecc88c75c016119013039f64b6c0601"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
+hash = "c987a91a518e17b95214fb7a6b7123e0dbd03733f4d4263b7089d6b0954d3d15"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
+hash = "e6e5f4814231e5b973bcb84dba877bb2d5055135ef6d1d981897b0a0fcf2f241"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
+hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
+hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
+hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
+hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
+hash = "fede3df921646e66623ca524260c7ec659797af3256b601cc2d59b2b72056d0c"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
+hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
+hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
+hash = "a7f8583a1fdb161bd6a5695fae701b68404297f4b84d488a28a6071a170cbad0"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
+hash = "1e651cbb715fa60d88af9fc89092f2bca29e9ecc2ab971fb88f9f7b8ea05c4de"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
+hash = "9b82172c1a7d1e528957f21f08c33a2ce0dc25d0d79ce45ddbfd6e450aea4961"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
+hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
+hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
+hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
+hash = "64c5aedfd14d6b7a1e33a5c46b42d074c03fb2d45d7a100365f90d22ce7c781b"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
+hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
+hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/byg-overworld-biomes.json5"
+hash = "f4a68121c24f5cdeb58640119e24d428927af0858e756d6215b130e1375c260c"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/regions/rare_region_1.json5"
+hash = "179a4d61cf995a0d2f54a2ccd09774eb33b84080fe3ec66b154d2694016b8a29"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/regions/region_1.json5"
+hash = "f3fdb1f8ebe3959e1a73d7bd9e5d5fca5313a8b5110b6482309374d622a12a22"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/regions/region_2.json5"
+hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
+
+[[files]]
+file = "config/yosbr/config/byg/overworld/regions/region_3.json5"
+hash = "8fcadaf16f568fcddfc127cf91f429ad100f07283b7f149e291e1228355580d5"
+
+[[files]]
+file = "config/yosbr/config/byg/settings.json5"
+hash = "69315b2ed07954afc0c887a4b1059bc4b652f36e333ac4e859f7ce35c8270760"
+
+[[files]]
+file = "config/yosbr/config/byg/surface_rules/end_surface_rules.json5"
+hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
+
+[[files]]
+file = "config/yosbr/config/byg/surface_rules/nether_surface_rules.json5"
+hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
+
+[[files]]
+file = "config/yosbr/config/byg/surface_rules/overworld_surface_rules.json5"
+hash = "56b1bd278496f8fcaeb0088243a79a97fc51778b79a0635f7c641d5d261123b7"
+
+[[files]]
+file = "config/yosbr/config/byg/trades.json5"
+hash = "3c10a7ee2b9492878c0f70c88957447e78a37c921b1577bbfa905b128af657f3"
+
+[[files]]
+file = "config/yosbr/config/camerautils/camerautils.properties"
+hash = "4d390c4501c95a0404a7d0f6b15e36cd4d4a2e1276b9fbba751bef9ae8f77ffd"
+
+[[files]]
+file = "config/yosbr/config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/yosbr/config/charmonium.toml"
+hash = "0cafc6ffcf664fbff6f06a0ad4b92282ec3148abe21616d8d5f0f0b73240f27e"
+
+[[files]]
+file = "config/yosbr/config/collective.json5"
+hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
+
+[[files]]
+file = "config/yosbr/config/connectivity.json"
+hash = "64db15233b5135e7b1ff652278896570c6599e5421864488f3ad3573a340fa61"
+
+[[files]]
+file = "config/yosbr/config/couplings.toml"
+hash = "3ef046267c814eadadcdd3e065251fb682a530f62321bbb53588ea94b96f4371"
+
+[[files]]
+file = "config/yosbr/config/create-client.toml"
+hash = "1642ba698bbbe19ec8a9ba2b37cbcc466a70980c8e099543556faa2567f4d968"
+
+[[files]]
+file = "config/yosbr/config/create-common.toml"
+hash = "6f1b1e9797b6ac7edddae40c94e28e5de0b3b7e167a3cf10d52782fc94c64fc2"
+
+[[files]]
+file = "config/yosbr/config/createdeco-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/yosbr/config/createdeco-common.toml"
+hash = "8218d6c053f4ac108a171caf4ba7d1b4d2462b53a596328b250363c332bad32c"
+
+[[files]]
+file = "config/yosbr/config/ctm.json"
+hash = "108892821d53d2d12cbc07e37028e3c350a0d179a6620fc4e2067b6dcb9d6caa"
+
+[[files]]
+file = "config/yosbr/config/davespotioneering.json5"
+hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/yosbr/config/debugify-descriptions.json"
+hash = "d76035f9ea2c98fd22e99c3a2c628f4d284703fbc55b3d1a07be692f50df94a5"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "c3b0a39030d7d2f63059b8b9c1aa70b101874830099e9b1244e8f03eb67c531d"
+
+[[files]]
+file = "config/yosbr/config/ecologics.json"
+hash = "6b8db1b8c3f9dfb655a2db483db7c02972b147eb53591945b4782f9049054168"
+
+[[files]]
+file = "config/yosbr/config/effective.json"
+hash = "b2a67ba0133250f9c0912d7cef9530ef25c14572d7185e62c8362d4930014cbc"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/yosbr/config/everycomp-common.json"
+hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
+
+[[files]]
+file = "config/yosbr/config/everycomp-wood_types.json"
+hash = "2584ca7e9b344a6eb0ef50a07a151b8155c9946f05583470552b4326e829bab2"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "2a652c95930bf6141d1f2de3bec2ddadf2f1d6c7f3b1876722fb19222fb629aa"
+
+[[files]]
+file = "config/yosbr/config/fallingleaves.json"
+hash = "cf0b7704ee801cd859bb444cbd353ea863918dcf0ac016fb208aacaefda960d6"
+
+[[files]]
+file = "config/yosbr/config/farmersdelight.json"
+hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/yosbr/config/findme.json"
+hash = "4e0913a2fef137b2ba6345a2ce3e6104fb0872efe194c5eb7cbb75782b933fc6"
+
+[[files]]
+file = "config/yosbr/config/flywheel.json"
+hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
+
+[[files]]
+file = "config/yosbr/config/freecam.json5"
+hash = "0eab9e878415ec3e78d0ebc6b672c5fb375c1078963404113c726b6fb64a1b0f"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "e0a561d84b0950f6733b3501df1687c6432a322270404345ff2f906db1f42850"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/New World/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "dc63fd47a2c310c4d0b86b838b2edbc0acf8e0a93f1bf832bbb213a1d1f0223d"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/theforgedland.mine.bz&4444/prev-villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/theforgedland.mine.bz&4444/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/yosbr/config/itemswapper-server-cache.json"
+hash = "4dbbc3a53c61363de3a175980faa30d684da945c8175945f788236f9f9f03c4d"
+
+[[files]]
+file = "config/yosbr/config/itemswapper.json"
+hash = "922551726de814fa7e1bb7e8f1f3fa7c5e1db9c4d713177fd51508ffebc02ce4"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "9f60b82695421a721d6002c4bd9c143fe6f4fc718375e557798f3c553724fe6a"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "7f67fae8d33d88fc83ece3158c10466bc184d3e5945dec0553bbe307f3a29fc1"
+
+[[files]]
+file = "config/yosbr/config/legendarytooltips-common.toml"
+hash = "3429f00928014fb571566d4acf962570d79c5a40ef7f2882ac3298d44ee5d0e8"
+
+[[files]]
+file = "config/yosbr/config/lightoverlay.properties"
+hash = "88372e9eee5d21754b83cf7ce9362d18d37c620ce6c12fd3c12102d058f3dd4b"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/yosbr/config/logbegone.toml"
+hash = "f5c9519cf68b01a770080dd72a778c2f330acc2e7516c2d5fff13aff48dd850b"
+
+[[files]]
+file = "config/yosbr/config/microdurability.json5"
+hash = "515c588753b26bef5b593b8552bd81ad5daba8aa3856b372ccd744da36da868c"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
+
+[[files]]
+file = "config/yosbr/config/naturescompass.json"
+hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+
+[[files]]
+file = "config/yosbr/config/origins_server.json"
+hash = "a6d3f62d5bd66f479db393976508629975c65c32465ad11716cffbdc4447be8d"
+
+[[files]]
+file = "config/yosbr/config/pal.properties"
+hash = "f73dae30c7709935abe192548c540ad21656dc2f7f0669930e5b935a12eec504"
+
+[[files]]
+file = "config/yosbr/config/pehkui/config.json"
+hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
+
+[[files]]
+file = "config/yosbr/config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
+file = "config/yosbr/config/railways-client.toml"
+hash = "2e2c1ab8d38cd5cfaf48ec4bd12cc191a3fd856917ae2befddbcb63d02fb71b6"
+
+[[files]]
+file = "config/yosbr/config/railways-common.toml"
+hash = "31eb6ab09672f9e3812cc1625f5d838f92ae2db78c135d32056436e301212444"
+
+[[files]]
+file = "config/yosbr/config/reacharound.json"
+hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "6b8712ad3bbc8543df32ceb77614ea7e2da9a9007bbd519a1becb6b2d757070d"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/hints.json"
+hash = "f07051dd61e3a5619d685f04f3ec90f8c1149fc2aadc095e6fc62f78a65fe7c7"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
+hash = "2cccfb6e2c0623541367e6d9073976514620286d18acd81c09e10a4a434fe3d0"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
+hash = "ac3218892471cfdf40ded7dfb7e8410854f5d7215a8df53a31fcd594f9352cd1"
+
+[[files]]
+file = "config/yosbr/config/sleepwarp-client.json"
+hash = "966e1c197b0ad6c3130a87bebe0305ae132175aa4a56aa0337cdc0728869f96e"
+
+[[files]]
+file = "config/yosbr/config/sliceanddice-client.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/yosbr/config/sliceanddice-common.toml"
+hash = "b39636bb092d0e57809488c0b3a9e054a48ade6219071a147986633273fcf1c6"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "7eb2c9832f1adc79eb19fe0c0262d9cb7ed551cc59f79d4bdcf9373c3194c2c5"
+
+[[files]]
+file = "config/yosbr/config/snowundertrees.json5"
+hash = "71a8f1c600250d4fa1bd647bfbcc44101b0d2e09076fb9c667fd82c7ba09b3df"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "8e222bb8df0618b9184ad0a1bd2547729590982c2644bd92deba430834c73a94"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/yosbr/config/status-effect-bars.json"
+hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/yosbr/config/status/state-client.properties"
+hash = "4dde787c5eca74195829d6ef7f9193e419a854c0cd5b606643af1da4ad7ea427"
+
+[[files]]
+file = "config/yosbr/config/status/status-server.properties"
+hash = "e2f20f57760ef200ffa455e90a4d5f3784188a5113cf330f37bfa4c5da87f362"
+
+[[files]]
+file = "config/yosbr/config/terrablender.toml"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
+
+[[files]]
+file = "config/yosbr/config/towns_and_towers/structure_enable_or_disable.json5"
+hash = "976226b85369094bbcf6b21aaa1067f6efec0cc46142872f2b55c4f3f94c61df"
+
+[[files]]
+file = "config/yosbr/config/towns_and_towers/structure_rarity.json5"
+hash = "bc4a508a4d01a142664ad3fd8a02d736157fd3e4372395dc7adafa4709e39c20"
+
+[[files]]
+file = "config/yosbr/config/tradingpost-server.toml"
+hash = "f19572ca5d0f18801ae0d7bbfcceead1024a3c75f191494d8d293401333eba2d"
+
+[[files]]
+file = "config/yosbr/config/twilightforest-client.toml"
+hash = "47b2f3bd2a2a306ee4d83775f48e72713fb9505fdb98fb252c56f4889d576686"
+
+[[files]]
+file = "config/yosbr/config/twilightforest-common.toml"
+hash = "9b5ac9351d6ec7bf7032eaebd86e3ccb6b3e05d2c27d6ba52bb02244101a8745"
+
+[[files]]
+file = "config/yosbr/config/visuality.json"
+hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
+
+[[files]]
+file = "config/yosbr/config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/yosbr/config/voicechat/username-cache.json"
+hash = "50462e81f4714db9ff1b853450f2f0b86708a402e14789faa583229a0ef9cf65"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "f105bd2a3864632902cdc164d37ed03668bd15dfa30a0bfdb55066a815f0af13"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "b1d36bc6c45b56367117ac03345416edd7a7639e2d7d5f29a4aec26e465afbb8"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "e8829309851e3fd8d509cda619f35d17c5f6169baade5d9c642865cf05452021"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "b11f7cd35def986ed18e7fe0ad8084b019500298bda10f9a347d480a3de6084f"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "66994ae7cc5cda1d5fdaaff295cc693a501d6d217ab08161f7d2ec660859979c"
+
+[[files]]
+file = "config/yosbr/config/yigd.toml"
+hash = "a43a43583c1023840424ddc5ae8528b42cf601fe291977acce8f54f51cb07af6"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "791a7dc0187b122307a0213de476866196e73a27a2a9a1470f6883486bddd10c"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "56ea6066987bf414bbb23ab6d06de58907429e33c0efe98cce54a023201a22db"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "9efaf8b6c14654c04fec18563f9bfc6b051649525e1c8fc22e1c4388e3921e9c"
+
+[[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "4ef55e1a00df449abacd89e5f15038f3291e7babf08f2ab358d7dea1ece8f0ac"
 metafile = true
@@ -47,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-log-remover.pw.toml"
-hash = "964f8e9dbdd80db629fe535050922b8211e338cfe5645931b857e9ef51d98f80"
+hash = "c37ab69f2f63563cb850af0c04041666545d52a1d172bf83ce653a629d693e8f"
 metafile = true
 
 [[files]]
@@ -196,11 +740,6 @@ hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "252079e7b7a46ed45fcecd1d2c6ffcb700e3e9d93b47d95a309585020e283e75"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "78c61ff021c76d1479656c2c85315852cdf95e14342adbbeda5f6b69248554bb"
 metafile = true
@@ -212,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "0a6f25db5e12742cb77079809b1af6dfbb801ec909fe1df733200a2bc9136c43"
+hash = "04d9dd804e7585a19ad68646daf1bfb5e1025336527d6b07c7c6f000bd92359e"
 metafile = true
 
 [[files]]
@@ -702,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+hash = "8e8925e213f079b6e1bed1e89cc62f034a04111c87ee70217398a03f854128dc"
 metafile = true
 
 [[files]]
@@ -712,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/zombie-proof-doors.pw.toml"
-hash = "ce2dd1a1cd04645aa425d917232ad600d8d5ce3595c45403a23466dad6046cef"
+hash = "b6689d254af3e15595945c315963cc0ef3e4364f57963eceed3b03de7d638f56"
 metafile = true
 
 [[files]]

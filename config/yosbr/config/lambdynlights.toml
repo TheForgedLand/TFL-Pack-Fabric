@@ -1,0 +1,90 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				goat = true
+				rabbit = true
+				sheep = true
+				donkey = true
+				zombie = true
+				item = true
+				chest_minecart = true
+				pig = true
+				skeleton = true
+				bat = true
+				creeper = true
+				spider = true
+				glow_squid = true
+				enderman = true
+				zombie_villager = true
+				villager = true
+				iron_golem = true
+				cat = true
+				slime = true
+				wolf = true
+				witch = true
+				bee = true
+				drowned = true
+				fox = true
+				chicken = true
+				experience_orb = true
+				lightning_bolt = true
+				skeleton_horse = true
+				item_frame = true
+				cow = true
+				horse = true
+				allay = true
+				area_effect_cloud = true
+				armor_stand = true
+				arrow = true
+				axolotl = true
+				blaze = true
+				boat = true
+				chest_boat = true
+				cave_spider = true
+				cod = true
+				dolphin = true
+				dragon_fireball = true
+				elder_guardian = true
+				end_crystal = true
+				ender_dragon = true
+				endermite = true
+				evoker = true
+				evoker_fangs = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+				frog = true
+				ghast = true
+				giant = true
+				guardian = true
+				hoglin = true
+				husk = true
+				squid = true
+				salmon = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+

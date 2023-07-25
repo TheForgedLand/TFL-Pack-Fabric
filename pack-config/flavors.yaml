@@ -37,7 +37,6 @@ cultural-delights-fabric: misc_on
 daves-potioneering: misc_on
 debugify: misc_on
 decorative-blocks: misc_on
-default-options-fabric: misc_on
 delightful-creators-fabric: misc_on
 ecologics: misc_on
 effective: misc_on
@@ -138,4 +137,6 @@ xaeros-minimap: misc_on
 xaeros-world-map: misc_on
 xl-packets-fabric: misc_on
 yacl: misc_on
+yosbr: misc_on
 youre-in-grave-danger: misc_on
+zombie-proof-doors: misc_on

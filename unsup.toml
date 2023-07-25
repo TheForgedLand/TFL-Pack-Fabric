@@ -121,9 +121,6 @@ flavors = "misc_on"
 [metafile.decorative-blocks]
 flavors = "misc_on"
 
-[metafile.default-options-fabric]
-flavors = "misc_on"
-
 [metafile.delightful-creators-fabric]
 flavors = "misc_on"
 
@@ -424,5 +421,11 @@ flavors = "misc_on"
 [metafile.yacl]
 flavors = "misc_on"
 
+[metafile.yosbr]
+flavors = "misc_on"
+
 [metafile.youre-in-grave-danger]
+flavors = "misc_on"
+
+[metafile.zombie-proof-doors]
 flavors = "misc_on"
