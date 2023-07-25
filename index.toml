@@ -701,8 +701,18 @@ hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "bbbcf529b4c35f04e733922ca06dde4aac8d97a556e4396da25d99e2d079c0c9"
+metafile = true
+
+[[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "35f6a3eb633386dfefe0cbc0ec02bb7095badd666413f5a6eb5f85f352f7975d"
+metafile = true
+
+[[files]]
+file = "mods/zombie-proof-doors.pw.toml"
+hash = "ce2dd1a1cd04645aa425d917232ad600d8d5ce3595c45403a23466dad6046cef"
 metafile = true
 
 [[files]]
