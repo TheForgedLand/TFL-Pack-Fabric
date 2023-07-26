@@ -181,7 +181,7 @@ flavors = "misc_on"
 [metafile.iceberg-fabric]
 flavors = "misc_on"
 
-[metafile.image2map]
+[metafile.immersive-paintings]
 flavors = "misc_on"
 
 [metafile.immersive-structures]

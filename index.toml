@@ -840,8 +840,8 @@ hash = "bc41d7961ad011925f4e05edf4c868d3934e3a35cc05080941fbdecef21dfa61"
 metafile = true
 
 [[files]]
-file = "mods/image2map.pw.toml"
-hash = "af561f16418d62ddf59ca3ee66740554662f5310147c90c08653332cebc94d10"
+file = "mods/immersive-paintings.pw.toml"
+hash = "8794f397f6bec7ed4d7425e90f51317d45622b4dd1ad3f6c33bfd48f60d3763a"
 metafile = true
 
 [[files]]
