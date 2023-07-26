@@ -2,7 +2,14 @@
 
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
-phrases = ["Disconnecting VANILLA connection attempt", "Channels "]
+phrases = [
+"Disconnecting VANILLA connection attempt",
+"Channels ",
+"Unable to resolve texture",
+"Unable to load model
+"Unknown model loader",
+"Exception loading blockstate"
+]
 
-# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX:
 regex = ["Disconnecting VANILLA connection attempt", "Channels "]
