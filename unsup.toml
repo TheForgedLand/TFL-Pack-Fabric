@@ -118,9 +118,6 @@ flavors = "misc_on"
 [metafile.debugify]
 flavors = "misc_on"
 
-[metafile.decorative-blocks]
-flavors = "misc_on"
-
 [metafile.delightful-creators-fabric]
 flavors = "misc_on"
 
@@ -416,9 +413,6 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.xaeros-world-map]
-flavors = "misc_on"
-
-[metafile.xl-packets-fabric]
 flavors = "misc_on"
 
 [metafile.yacl]

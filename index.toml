@@ -18,7 +18,7 @@ hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
 file = "config/yosbr/config/architects_palette.json5"
-hash = "759534ddefd9c91f7826ec5c7a7fc593029a9aec82ac43924efd7a94d2ff8553"
+hash = "20a4f6d46eb4c4ed4f59d4f4f1725f289e4cb18730d2635b8e99e47ec59fac46"
 
 [[files]]
 file = "config/yosbr/config/backpacked-client.toml"
@@ -274,7 +274,7 @@ hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
 
 [[files]]
 file = "config/yosbr/config/everycomp-wood_types.json"
-hash = "2584ca7e9b344a6eb0ef50a07a151b8155c9946f05583470552b4326e829bab2"
+hash = "a3078e8e60874d1077584fc32a1a3e53b0bdc6c10b3258373b6ae75cb3798c64"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
@@ -735,11 +735,6 @@ hash = "90dec0bb053cd7eb7a5474af1b692917c0925bb938747a4e43215f1815e423e7"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "78c61ff021c76d1479656c2c85315852cdf95e14342adbbeda5f6b69248554bb"
 metafile = true
@@ -1061,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "cb3b0373ace30cc91f321185d6f040d881546e22dc6bde008f3c5784f95d60cc"
+hash = "32afa79131cf5fb2f5c98d75873459c03f109c80b3259c5ed0cfb03a83001754"
 metafile = true
 
 [[files]]
@@ -1235,11 +1230,6 @@ hash = "ea14509fa8cff9615c35836583e755cdf6538b1025e1c4ce262bc06672b32d0d"
 metafile = true
 
 [[files]]
-file = "mods/xl-packets-fabric.pw.toml"
-hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
 metafile = true
@@ -1263,7 +1253,3 @@ metafile = true
 file = "mods/zombie-proof-doors.pw.toml"
 hash = "b6689d254af3e15595945c315963cc0ef3e4364f57963eceed3b03de7d638f56"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "cf0844b8521b501e68eaa4a5dbfa14705d535d0c3db62f84d6e242ad707421e9"
