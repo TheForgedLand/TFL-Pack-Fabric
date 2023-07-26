@@ -840,6 +840,11 @@ hash = "bc41d7961ad011925f4e05edf4c868d3934e3a35cc05080941fbdecef21dfa61"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "b380fd29c4abfe31612b7058d154093b815e8695df841b35db980d8814fe8d9b"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "8794f397f6bec7ed4d7425e90f51317d45622b4dd1ad3f6c33bfd48f60d3763a"
 metafile = true
