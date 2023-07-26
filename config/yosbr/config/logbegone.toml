@@ -6,7 +6,7 @@ phrases = [
 "Disconnecting VANILLA connection attempt",
 "Channels ",
 "Unable to resolve texture",
-"Unable to load model
+"Unable to load model",
 "Unknown model loader",
 "Exception loading blockstate"
 ]

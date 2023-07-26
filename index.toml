@@ -358,7 +358,7 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/yosbr/config/logbegone.toml"
-hash = "af7cc39ff9dcd327bec6c3de4b022e1f8fe9af05a491c679695a6481707880a7"
+hash = "d0478c5bd38fbe57f4b607f1c7fd5a95bb0d37e729df33788273e8e5abc35b2c"
 
 [[files]]
 file = "config/yosbr/config/microdurability.json5"
