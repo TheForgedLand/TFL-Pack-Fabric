@@ -1061,7 +1061,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+hash = "cb3b0373ace30cc91f321185d6f040d881546e22dc6bde008f3c5784f95d60cc"
 metafile = true
 
 [[files]]
