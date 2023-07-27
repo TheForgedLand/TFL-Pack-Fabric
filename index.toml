@@ -245,10 +245,6 @@ file = "config/yosbr/config/ctm.json"
 hash = "108892821d53d2d12cbc07e37028e3c350a0d179a6620fc4e2067b6dcb9d6caa"
 
 [[files]]
-file = "config/yosbr/config/davespotioneering.json5"
-hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
-
-[[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
 hash = "d76035f9ea2c98fd22e99c3a2c628f4d284703fbc55b3d1a07be692f50df94a5"
 
@@ -620,6 +616,11 @@ hash = "134602a75b0ad5ce74f985a53ffcce4184fee8b30f1311df07ebe755afe76e02"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "10f7256af235c5b3b9f0d93c26c7ff38dcb0a4ca9e933da3dda9c096841b8c70"
+metafile = true
+
+[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "13462fbb53a570dca1cfbb7f6dea61b0048236d6688ef159e97d6cd3ebb613b6"
 metafile = true
@@ -722,11 +723,6 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights-fabric.pw.toml"
 hash = "3d71b497e1f227dac878a8c7da90a3868099951a3070bfa95fb4cf293738921a"
-metafile = true
-
-[[files]]
-file = "mods/daves-potioneering.pw.toml"
-hash = "e5494f983bd4aa56594bfc2cc997dbcb64399be217cc68128d3e45b61336f068"
 metafile = true
 
 [[files]]
@@ -1056,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "32afa79131cf5fb2f5c98d75873459c03f109c80b3259c5ed0cfb03a83001754"
+hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]

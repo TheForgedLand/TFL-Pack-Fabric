@@ -49,6 +49,9 @@ flavors = "misc_on"
 [metafile.better-stats]
 flavors = "misc_on"
 
+[metafile.brewin-and-chewin-fabric]
+flavors = "misc_on"
+
 [metafile.camera-utils]
 flavors = "misc_on"
 
@@ -110,9 +113,6 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.cultural-delights-fabric]
-flavors = "misc_on"
-
-[metafile.daves-potioneering]
 flavors = "misc_on"
 
 [metafile.debugify]
