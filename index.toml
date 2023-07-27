@@ -983,6 +983,11 @@ hash = "eef761054bf61722891e09bf8ca67fd6025e5fa5d4582e6eda881371d2407985"
 metafile = true
 
 [[files]]
+file = "mods/more-bundles.pw.toml"
+hash = "2383cf205b2f35bfbe9d0d74e592ef08d55c160a6f21c22f90cfc7a142a7160e"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "35d0f3887dcd7f06963705c1859c46da0402c461237ac3201ba640447506749c"
 metafile = true

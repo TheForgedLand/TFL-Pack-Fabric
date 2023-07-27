@@ -84,6 +84,7 @@ minimotd: misc_on
 missing-wilds: misc_on
 mixintrace: misc_on
 modmenu: misc_on
+more-bundles: misc_on
 mru: misc_on
 natures-compass: misc_on
 netherportalfix-fabric: misc_on

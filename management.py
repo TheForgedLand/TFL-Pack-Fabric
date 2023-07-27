@@ -138,3 +138,12 @@ class Pack:
 			except Exception as e: print(e)
 
 pack = Pack("pack.toml","unsup.toml")
+
+def updateAll(updateCustom:bool=False):
+	if updateCustom: pack.updateCustom()
+	print('')
+	pack.update()
+	print('')
+	pack.updateFlavors()
+	print('')
+	pack.refresh()

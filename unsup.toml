@@ -262,6 +262,9 @@ flavors = "misc_on"
 [metafile.modmenu]
 flavors = "misc_on"
 
+[metafile.more-bundles]
+flavors = "misc_on"
+
 [metafile.mru]
 flavors = "misc_on"
 
