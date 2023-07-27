@@ -26,7 +26,7 @@ hash = "bedfabffd437e3fe1834f9ac7450fd863f42de41b166ffa6b1e9e660bfcadb4e"
 
 [[files]]
 file = "config/yosbr/config/backpacked-common.toml"
-hash = "8a53533cd96bf62d3ad5cc9ea8d17fc759bed0d34b9df734c08a76f9adcaf2cc"
+hash = "b84e61879e4eb8f51a34f4d63bc1ff41e06f4577479c1dd29debe4b46f2ae2df"
 
 [[files]]
 file = "config/yosbr/config/barteringstation-client.toml"
@@ -50,7 +50,7 @@ hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
 file = "config/yosbr/config/byg/backups/last_working_configs_backup.zip"
-hash = "80898f1f11855beb951f4abd5b12a9b074e63452536d07a51309ff1b50b8a46d"
+hash = "5083d4455d2d50f5e312f8ceca53e4014dd30436e2bf4d1cd33e9d1f682fc577"
 
 [[files]]
 file = "config/yosbr/config/byg/biomepedia.json5"
@@ -246,7 +246,7 @@ hash = "108892821d53d2d12cbc07e37028e3c350a0d179a6620fc4e2067b6dcb9d6caa"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
-hash = "d76035f9ea2c98fd22e99c3a2c628f4d284703fbc55b3d1a07be692f50df94a5"
+hash = "0496b87ebfc48af7d0dca9f816b84bcecaae15a8ea773074bf8f25374dda40b0"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -270,7 +270,7 @@ hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
 
 [[files]]
 file = "config/yosbr/config/everycomp-wood_types.json"
-hash = "a3078e8e60874d1077584fc32a1a3e53b0bdc6c10b3258373b6ae75cb3798c64"
+hash = "4ee713e63ba18ef29734df5d28a0fd002d393029406e361808df960e911c9b7e"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
@@ -299,6 +299,14 @@ hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 [[files]]
 file = "config/yosbr/config/freecam.json5"
 hash = "0eab9e878415ec3e78d0ebc6b672c5fb375c1078963404113c726b6fb64a1b0f"
+
+[[files]]
+file = "config/yosbr/config/immersive_armors.json"
+hash = "8043a3e12e89c4d665d630276f28cdae12d61d1ca94b7fd498ddbcfed7318fe6"
+
+[[files]]
+file = "config/yosbr/config/immersive_paintings.json"
+hash = "6ee675f346b69c56fd6d29f90a719a713ce44385f4502dd1df505a97e769e06d"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
@@ -338,7 +346,7 @@ hash = "9f60b82695421a721d6002c4bd9c143fe6f4fc718375e557798f3c553724fe6a"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "7f67fae8d33d88fc83ece3158c10466bc184d3e5945dec0553bbe307f3a29fc1"
+hash = "c5a1662ae216a1ef0e420c3d652691f81245918110c9bee4618f881c5664bf27"
 
 [[files]]
 file = "config/yosbr/config/legendarytooltips-common.toml"
@@ -502,7 +510,7 @@ hash = "50462e81f4714db9ff1b853450f2f0b86708a402e14789faa583229a0ef9cf65"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "f105bd2a3864632902cdc164d37ed03668bd15dfa30a0bfdb55066a815f0af13"
+hash = "b396fe0bb12c8c038b6159e27c89732a65705142d8d3fc400befbfa974e56177"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
@@ -510,11 +518,11 @@ hash = "b1d36bc6c45b56367117ac03345416edd7a7639e2d7d5f29a4aec26e465afbb8"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "e8829309851e3fd8d509cda619f35d17c5f6169baade5d9c642865cf05452021"
+hash = "6e352d6bfb4c86714d79917cbf2b27a8a5ecbe98f6eff6bb62d36c297453300d"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "b11f7cd35def986ed18e7fe0ad8084b019500298bda10f9a347d480a3de6084f"
+hash = "574bc57e8ad3119a159365b8e2f369f98766497981fa157f8b95cbe0f52388f9"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
@@ -527,6 +535,10 @@ hash = "66994ae7cc5cda1d5fdaaff295cc693a501d6d217ab08161f7d2ec660859979c"
 [[files]]
 file = "config/yosbr/config/yigd.toml"
 hash = "a43a43583c1023840424ddc5ae8528b42cf601fe291977acce8f54f51cb07af6"
+
+[[files]]
+file = "config/yosbr/config/yosbr/config/byg/backups/last_working_configs_backup.zip"
+hash = "80898f1f11855beb951f4abd5b12a9b074e63452536d07a51309ff1b50b8a46d"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
