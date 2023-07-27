@@ -270,7 +270,7 @@ hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
 
 [[files]]
 file = "config/yosbr/config/everycomp-wood_types.json"
-hash = "4ee713e63ba18ef29734df5d28a0fd002d393029406e361808df960e911c9b7e"
+hash = "7bf040c8494962064633659c7b0b174ce20c9534971282c316ae5ca25fc4473a"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
@@ -375,6 +375,90 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
+
+[[files]]
+file = "config/yosbr/config/morebundles/config.json"
+hash = "c578aab0fa32cc41ac11464b686777b5f39dd0d053c37f17a0a0760dd91fa06a"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/lang/en_us.json"
+hash = "cb42756b0f6a57b5ae7756f2e809a9d323f59b087d8e8ff1a90df569a3b6f0f1"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/models/item/bread_bowl.json"
+hash = "7184e9a019c10531e7ad6c039a53296bd0e5bb6df71a01d68779554b67b3789a"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/models/item/large_bundle.json"
+hash = "c928e4bab56dc7167f48135858dc05fdb79a1c3b3fa2e54d05417d0dfdc39dc7"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/models/item/large_bundle_filled.json"
+hash = "4015acf367b4603a1efd4a8f627be8248eb9a5112a3d02565c9d6bb3088a590e"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/bread_bowl.png"
+hash = "0863988fd3cd27b6028570f05786fb1b6c11ed6b1d16df8e06fcb927bb763cb9"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/large_bundle.png"
+hash = "1df1e336456018725ff77f5ffd0bb453335956ec17a59437d63fea8137a4aa79"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/large_bundle_filled.png"
+hash = "8d68d398312a426d5db623aeef207201b82b8b7289378eecefe2cacf763bed45"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/large_bundle_filled_overlay.png"
+hash = "947e36ccc50880214cf0dece669bd95cb7e0b3adcfb9267d7d0239993cd7b99f"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/large_bundle_overlay.png"
+hash = "9b6584727e3ea7df33f67b5085ae6555bb9f7def61562f7125d9293c73c55a0e"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/santas_bag.png"
+hash = "b5f4254ec3ed64bb22b83896a814ab97fb688d7e04a8e06dbdde5404f31f0152"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/assets/morebundles/textures/item/santas_bag_filled.png"
+hash = "c5a672e7a3215f2f7d0fad594876df33d6bc41b4bf79f7aed1e196d7b2ef6fe6"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/bread_bowl.json"
+hash = "2fe23dc63a3e28aa680468b52f989cd29eb90e8ad1acb9ca1bea30d53febcaa8"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/bundle.json"
+hash = "f6cf9ae4fc800931e1fb37ad6a444d00e4f4298eed86f200dff447ee0f27efb7"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/gold_bundle.json"
+hash = "dc81957313844582c0781860f7d21e90d1bf3f5cb761b5d477d9b62065741016"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/iron_bundle.json"
+hash = "9cda340cea8ea27716e951ae2eeacd3b2ac04ccfa5dd42dfdccbca0193d808af"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_bundle.json"
+hash = "2975b3273fc28dde75742b2926c5968d5dac3938338018c28609be16d77320a0"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_gold_bundle.json"
+hash = "bf58689e290f023d98a5d3e6a353ec9c4f1d29ec57f3d9ea3e4e4a551ab1bdee"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_gold_bundle_2.json"
+hash = "54b9676469d7f2f7e64f1df5ab7dad107d19ff5681be9df6a891d560e18960ec"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_iron_bundle.json"
+hash = "c9c421cafbba8c878bfa786c69e6ccb4e9e28c7add01b00492b97d8e9e68d8e8"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_iron_bundle_2.json"
+hash = "28b4043463ec7d466b788ecec2d0838a4544f1f5763d0ed2d5ff4c1b2d626e1c"
 
 [[files]]
 file = "config/yosbr/config/naturescompass.json"
@@ -984,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-bundles.pw.toml"
-hash = "2383cf205b2f35bfbe9d0d74e592ef08d55c160a6f21c22f90cfc7a142a7160e"
+hash = "7494c138b1f4e1bff0e64eb7ff94af8557ff48f30d3bf8abf00858352b1a40a0"
 metafile = true
 
 [[files]]

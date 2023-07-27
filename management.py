@@ -1,7 +1,9 @@
 import yaml, toml
-import os, sys, platform, pexpect
+import os, sys, platform
 import Levenshtein as le
-from pexpect.popen_spawn import PopenSpawn
+from pexpect.popen_spawn import PopenSpawn as ps
+import pexpect as px
+import re
 
 class Pack:
 	match platform.system():
@@ -63,10 +65,33 @@ class Pack:
 			toml.dump(data, f)
 
 	def updateCustom(self):
+		SuccessfulUpdates=[]
+		FailedUpdates=[]
 		with open("pack-config/custom_sources.yaml") as sources:
 			custom_sources = yaml.safe_load(sources); sources.close()
 		for mod, mod_url in custom_sources.items():
-			os.system("bin/packwiz%s url add %s %s" % (self._extension, mod, mod_url))
+			customUpdater = ps(
+				'bin/packwiz%s url add "%s" %s' % (self._extension, mod, mod_url),
+				encoding='utf-8',
+			)
+			customUpdater.expect(px.EOF)
+			log=customUpdater.before
+			status = re.match("(?:Success)|(?:Fail)",log).group(0)# type: ignore
+			if status == "Success":
+				localPath=re.search("\(.*\)",log).group(0) # type: ignore
+				SuccessfulUpdates.append([mod,localPath,mod_url])
+			elif status == "Fail": FailedUpdates.append(mod)
+			else: print('\n---------------------------\n',log,'\n---------------------------\n')
+		if len(FailedUpdates) <= 0: pass
+		else:
+			print("Failed updating:")
+			for mod in FailedUpdates: print("- "+mod)
+		if len(SuccessfulUpdates) <= 0:pass
+		else:
+			print('Succesfully updated:')
+			for mod,path,url in SuccessfulUpdates: print("- %s %s" %(mod,path))
+
+			# os.system('bin/packwiz%s url add "%s" %s' % (self._extension, mod, mod_url))
 
 	def addMod(self,source:str=...,mod:str=..., ):
 		"""
@@ -77,38 +102,42 @@ class Pack:
 		"""
 		if source is ...: source = input("Source site [mr/cf]: ")
 		if mod is ...: mod = input("Mod name/URL: ")
-		packwiz = PopenSpawn(
+		packwiz = ps(
 			"bin/packwiz%s %s add %s" % (self._extension, source, mod),
 			encoding='utf-8',
-			logfile=sys.stdout
 		)
 
-		i = packwiz.expect(["Choose a number", pexpect.EOF])
+		i = packwiz.expect(["Choose a number", px.EOF])
+		print(packwiz.before)
 		if i == 0:
-			userinput = input()
-			packwiz.sendline(userinput)
-			if userinput == "0": print("\rCancelled!!")
+			packwiz.sendline(input("Choose a number: "))
+			print(packwiz.readlines()[-1])
 
 	def update(self):
-		updater = PopenSpawn(
+		p = re.compile(r'A supported update system for ".*" cannot be found\.\n')
+		updater = ps(
 			"bin/packwiz%s update --all" % (self._extension),
 			encoding='utf-8',
-			logfile=sys.stdout
 		)
 
-		i = updater.expect(["Do you want to update?", pexpect.EOF])
+		i = updater.expect([r"Do you want to update\?", px.EOF])
+		print(p.sub("",updater.before)) # type: ignore
 		if i == 0:
 			userinput = input()
 			updater.sendline(userinput)
-			if userinput in ["n", "N", "NO", "no","No"]: print("\rCancelled!")
-			elif userinput in ["y","Y","Yes","yes","YES"]: print("\rFiles Updated!")
+			print(updater.readlines()[-1])
 
 	def refresh(self):
 		self.updateFlavors()
 		os.system("bin/packwiz%s refresh" % self._extension)
 
 	def export(self):
-
+		pattern=re.compile(
+			"(Disclaimer:.*\n)"
+			+"|(Note that mods bundled.*\n)"
+			+"|(packwiz is currently unable to match metadata.*\n)",
+			re.M
+		)
 
 
 		for file in [
@@ -119,31 +148,38 @@ class Pack:
 				os.remove(file)
 				print('removing file: '+file)
 			except:pass
+		print()
 		for side in ['[C]','[S]']:
-			try:
-				print('\nExporting','server' if side == '[S]' else 'client','side pack...')
-				exporter = PopenSpawn(
-					"bin/packwiz%s cf export -s %s" % (
-						self._extension,
-						'server' if side == '[S]' else 'client'
-					)
-				)
-				exporter.wait()
-				print('done exporting file!')
+			print("------------------------------------------")
+			print()
+			print('Exporting','server' if side == '[S]' else 'client','side pack...')
+			exporter = ps(
+				"bin/packwiz%s cf export -s %s" % (
+					self._extension,
+					'server' if side == '[S]' else 'client',
+				),
+				encoding='utf-8'
+			)
+			i=exporter.expect(["Error","failed",px.EOF])
+			print(pattern.sub('',exporter.before)) # type: ignore
+			if i in [0,1]: pass
+			elif i == 2:
+				print("renaming...")
 				os.rename(
 					self.info['name']+'-'+self.info['version']+".zip",
 					self.info['name']+'-'+self.info['version']+side+'.zip'
 				)
-				print('-',self.info['name']+'-'+self.info['version']+side+'.zip','created!')
-			except Exception as e: print(e)
+				print('-',self.info['name']+'-'+self.info['version']+side+'.zip','created!\n')
+			print()
 
 pack = Pack("pack.toml","unsup.toml")
 
-def updateAll(updateCustom:bool=False):
-	if updateCustom: pack.updateCustom()
-	print('')
+def updateAll():
+	print()
 	pack.update()
-	print('')
+	print()
+	pack.updateCustom()
+	print()
 	pack.updateFlavors()
-	print('')
+	print()
 	pack.refresh()

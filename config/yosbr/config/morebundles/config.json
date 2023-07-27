@@ -1,0 +1,88 @@
+{
+  "config_version": 1,
+  "fail_policy": "FAIL ON ERROR",
+  "dispense_bundled_items": true,
+  "bundle_loader_enabled": true,
+  "regular_bundle_capacity": 64,
+  "bundles": [
+    {
+      "type": "regular_bundle",
+      "id": "large_bundle",
+      "capacity": 128,
+      "dyeable": true
+    },
+    {
+      "type": "bread_bowl",
+      "id": "bread_bowl",
+      "capacity": 32
+    },
+    {
+      "type": "regular_bundle",
+      "id": "santas_bag",
+      "capacity": 100000,
+      "generators": [
+        {
+          "type": "model",
+          "empty_texture": "morebundles:items/santas_bag",
+          "filled_texture": "morebundles:items/santas_bag_filled"
+        }
+      ]
+    },
+    {
+      "type": "regular_bundle",
+      "id": "iron_bundle",
+      "capacity": 128,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:iron_ingot"
+        }
+      ]
+    },
+    {
+      "type": "single_item_bundle",
+      "id": "large_iron_bundle",
+      "capacity": 512,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:iron_ingot"
+        }
+      ]
+    },
+    {
+      "type": "regular_bundle",
+      "id": "gold_bundle",
+      "capacity": 256,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "single_item_bundle",
+      "id": "large_gold_bundle",
+      "capacity": 1024,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:gold_ingot"
+        }
+      ]
+    }
+  ]
+}

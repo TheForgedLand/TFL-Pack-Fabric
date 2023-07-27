@@ -1,13 +1,7 @@
 name = "More Bundles!"
 filename = "morebundles-fabric-1.19.2-0.3.0.jar"
-side = "both"
 
 [download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/morebundles-fabric-1.19.2-0.3.0.jar"
 hash-format = "sha1"
-hash = "99b71bc4d5766e5b52922c8dae8fde923040cf8e"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4495886
-project-id = 541112
+hash = "50665e0422a2ffbc746e8515e6a8939d50426fa6"
