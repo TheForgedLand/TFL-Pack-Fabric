@@ -84,7 +84,17 @@ mode = "fancy"
 				husk = true
 				squid = true
 				salmon = true
+				stray = true
+				pillager = true
+				small_fireball = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
+
+			[light_sources.settings.entities.twilightforest]
+				ice_arrow = true
+				seeker_arrow = true
+
+			[light_sources.settings.entities.another_furniture]
+				seat = true
 

@@ -10,8 +10,8 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayHeight": 0.0,
     "displayed": true,
+    "displayHeight": 0.0,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
@@ -22,9 +22,9 @@
     "dotSize": 2.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "heightLimit": 20.0,
     "names": 0.0,
-    "iconScale": 1.0
+    "heightLimit": 20.0,
+    "iconScale": 0.75
   },
   "subCategories": [
     {
@@ -43,6 +43,21 @@
       },
       "subCategories": [
         {
+          "hardInclude": "nothing",
+          "includeList": [
+            "minecraft:villager"
+          ],
+          "includeListInSuperCategory": false,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "villagers",
+          "protection": false,
+          "settingOverrides": {
+            "color": 6.0
+          },
+          "subCategories": []
+        },
+        {
           "hardInclude": "players",
           "includeList": [],
           "includeListInSuperCategory": true,
@@ -52,8 +67,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {
@@ -91,7 +106,8 @@
           "name": "gui.xaero_entity_category_hostile",
           "protection": true,
           "settingOverrides": {
-            "renderOrder": 3.0
+            "renderOrder": 3.0,
+            "color": 4.0
           },
           "subCategories": [
             {
@@ -117,7 +133,9 @@
           "excludeList": [],
           "name": "gui.xaero_entity_category_friendly",
           "protection": true,
-          "settingOverrides": {},
+          "settingOverrides": {
+            "color": 10.0
+          },
           "subCategories": [
             {
               "hardInclude": "tamed",
@@ -146,7 +164,7 @@
       "protection": true,
       "settingOverrides": {
         "renderOrder": 1.0,
-        "color": 12.0
+        "color": 3.0
       },
       "subCategories": []
     },

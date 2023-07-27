@@ -6,7 +6,7 @@
 	#If enabled, hides the config button from the backpack screen
 	keepBackpackOnDeath = false
 	#The amount of slot rows in the backpack inventory.
-	backpackInventorySize = 1
+	backpackInventorySize = 2
 
 	[common.wandering_trader]
 		#If enabled, hides the config button from the backpack screen
@@ -27,4 +27,3 @@
 		wanderingTraderForgetTime = 200
 		#The maximum distance a Wandering Trader can detect a player. The longer the distance, the more difficult the challenge to pickpocket their backpack.
 		wanderingTraderMaxDetectionDistance = 10.0
-
