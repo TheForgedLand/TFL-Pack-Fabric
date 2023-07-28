@@ -1,13 +1,7 @@
 name = "Twilight Origins"
 filename = "Twilight Origins 1.0.1.jar"
-side = "both"
 
 [download]
+url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Twilight%20Origins%201.0.1.jar"
 hash-format = "sha1"
-hash = "63bb334511d373cee91e35edf3a7abc3f6e4d2cc"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4414710
-project-id = 831413
+hash = "0581a709b78e382992ac01fe6524537ac4ef9bce"

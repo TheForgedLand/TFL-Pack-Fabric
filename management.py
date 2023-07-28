@@ -65,6 +65,7 @@ class Pack:
 			toml.dump(data, f)
 
 	def updateCustom(self):
+		print("Updating custom sources...")
 		SuccessfulUpdates=[]
 		FailedUpdates=[]
 		with open("pack-config/custom_sources.yaml") as sources:

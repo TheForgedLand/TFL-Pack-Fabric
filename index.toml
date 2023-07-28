@@ -598,7 +598,7 @@ hash = "574bc57e8ad3119a159365b8e2f369f98766497981fa157f8b95cbe0f52388f9"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "a4693b1de50aa7020ca8395bafc393021d909f960df3b2f23866b54871feb615"
+hash = "2108545b6536f38cd6dd23e670c86d74c09440c85a53396dc25ed17e4aededff"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/kitsune.pw.toml"
-hash = "45ef4adfac4082e0f6262e9b46cdbe4da918ab73d2eac99ab03eb0c44703ef07"
+hash = "f85917abfa7a315175cbf5d7a2598fc35e0153798f7d5203d733bea3a4d6749f"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "c200629a3f5a299ba4db0509c9b5842e8e39133a19026cd94ac47c9e98234e84"
+hash = "38177d11fbcca543f2457023fc3db383b7f97fae57240620a020df6dfe1bdf52"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "93d172828f186dcd1367a69f01b3f291302320fe6cc91e81e29bae9c6f857011"
+hash = "b6cab8d27aa1cfd51b83d57ba47541c8e8004673fe08a9bcccba782f04bb96f5"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-origins.pw.toml"
-hash = "609ce6b6dff9dbecffd03b998271f679afe4959320883d17be8cc75ba1b67f47"
+hash = "c61712a39e17915d4215086fdc1ab6c0b442b750f8501dc16d9b8b3c717a7b22"
 metafile = true
 
 [[files]]
@@ -1302,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c6018049883190dee50c5a5ca7550142dd7578254e27cb4214b0dddeecdfe4dc"
+hash = "c18b6f8b2a0867e5857b2e9d9c42fbd3f28469a5f2e0de42bb615831c9c46910"
 metafile = true
 
 [[files]]
