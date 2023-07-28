@@ -77,6 +77,6 @@
   "MC-237493": true,
   "MC-249059": true,
   "opt_out_updater": false,
-  "gameplay_fixes_in_multiplayer": false,
+  "gameplay_fixes_in_multiplayer": true,
   "default_disabled": false
 }

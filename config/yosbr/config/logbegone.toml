@@ -10,7 +10,9 @@ phrases = [
 "Unknown model loader",
 "Exception loading blockstate",
 "Using missing texture",
-"farmersrespite"
+"farmersrespite",
+"Error from mod 'sleepwarp'",
+"Invalid mod icon for icon source"
 ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX:

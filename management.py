@@ -123,7 +123,7 @@ class Pack:
 		i = updater.expect([r"Do you want to update\?", px.EOF])
 		print(p.sub("",updater.before)) # type: ignore
 		if i == 0:
-			userinput = input()
+			userinput = input("Update? (y/n): ")
 			updater.sendline(userinput)
 			print(updater.readlines()[-1])
 

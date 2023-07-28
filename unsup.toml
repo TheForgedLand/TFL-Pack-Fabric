@@ -307,12 +307,6 @@ flavors = "misc_on"
 [metafile.reacharound]
 flavors = "misc_on"
 
-[metafile.rechiseled]
-flavors = "misc_on"
-
-[metafile.rechiseled-create]
-flavors = "misc_on"
-
 [metafile.reeses-sodium-options]
 flavors = "misc_on"
 

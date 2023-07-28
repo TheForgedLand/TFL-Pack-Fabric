@@ -49,10 +49,6 @@ file = "config/yosbr/config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/yosbr/config/byg/backups/last_working_configs_backup.zip"
-hash = "5083d4455d2d50f5e312f8ceca53e4014dd30436e2bf4d1cd33e9d1f682fc577"
-
-[[files]]
 file = "config/yosbr/config/byg/biomepedia.json5"
 hash = "8ef0cd2537acf9187204f7d9cbf94464d99eb3915cc92a293c3d3b64633c22f5"
 
@@ -202,7 +198,7 @@ hash = "3c10a7ee2b9492878c0f70c88957447e78a37c921b1577bbfa905b128af657f3"
 
 [[files]]
 file = "config/yosbr/config/camerautils/camerautils.properties"
-hash = "4d390c4501c95a0404a7d0f6b15e36cd4d4a2e1276b9fbba751bef9ae8f77ffd"
+hash = "b772d78d3180cc1a00ddcfd1a9f2f35f485204e98e4721b455fb7d26aa910ef6"
 
 [[files]]
 file = "config/yosbr/config/cardinal-components-api.properties"
@@ -250,7 +246,7 @@ hash = "0496b87ebfc48af7d0dca9f816b84bcecaae15a8ea773074bf8f25374dda40b0"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "c3b0a39030d7d2f63059b8b9c1aa70b101874830099e9b1244e8f03eb67c531d"
+hash = "5b5fc3b158b80e641706137011cd2a09442307c8cdc296ecf9c3b1fdc61dd632"
 
 [[files]]
 file = "config/yosbr/config/ecologics.json"
@@ -270,11 +266,11 @@ hash = "a850f57fa63f6470e626a321920dd7d08d9d380f2c8fd52499bb1873e4687433"
 
 [[files]]
 file = "config/yosbr/config/everycomp-wood_types.json"
-hash = "7bf040c8494962064633659c7b0b174ce20c9534971282c316ae5ca25fc4473a"
+hash = "23c28c7a2604d89402396fd84afa73192356a09e2dbd6e8393f17ed1489fd43c"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "2a652c95930bf6141d1f2de3bec2ddadf2f1d6c7f3b1876722fb19222fb629aa"
+hash = "ef0346eef276ebf1443a1e12cf5c7335739c6319e55026354d988ca844595fb8"
 
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
@@ -282,7 +278,7 @@ hash = "cf0b7704ee801cd859bb444cbd353ea863918dcf0ac016fb208aacaefda960d6"
 
 [[files]]
 file = "config/yosbr/config/farmersdelight.json"
-hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
+hash = "a6396c10a732371b5e55f9a9786ffbd2cfb5253f09e292670283d0df9892bada"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -313,12 +309,12 @@ file = "config/yosbr/config/indium-renderer.properties"
 hash = "e0a561d84b0950f6733b3501df1687c6432a322270404345ff2f906db1f42850"
 
 [[files]]
-file = "config/yosbr/config/inventoryprofilesnext/New World/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "d0b478e3f9d58d56e613c89e48b4c872a40bea935b70d3d9deef6a238d7fef88"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
@@ -346,7 +342,7 @@ hash = "9f60b82695421a721d6002c4bd9c143fe6f4fc718375e557798f3c553724fe6a"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "c5a1662ae216a1ef0e420c3d652691f81245918110c9bee4618f881c5664bf27"
+hash = "358bf95b2426153d092d13c9c62ba07c3e1becdbe9e05e86710249df06872064"
 
 [[files]]
 file = "config/yosbr/config/legendarytooltips-common.toml"
@@ -362,7 +358,7 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/yosbr/config/logbegone.toml"
-hash = "8a06a0fa46bb54be7174802193da150b408b2434eb14c7cb00f765de1b8d3c44"
+hash = "d7b4515bd43a2980290d64d1f5b156907c442d0ad40a44100bc0645a84045aa3"
 
 [[files]]
 file = "config/yosbr/config/microdurability.json5"
@@ -494,19 +490,11 @@ hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "6b8712ad3bbc8543df32ceb77614ea7e2da9a9007bbd519a1becb6b2d757070d"
+hash = "23cd3d6d3a78fb5044070b18a058f0e4eb8336bfd3cad719492681dd889b248d"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/hints.json"
 hash = "f07051dd61e3a5619d685f04f3ec90f8c1149fc2aadc095e6fc62f78a65fe7c7"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "2cccfb6e2c0623541367e6d9073976514620286d18acd81c09e10a4a434fe3d0"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "ac3218892471cfdf40ded7dfb7e8410854f5d7215a8df53a31fcd594f9352cd1"
 
 [[files]]
 file = "config/yosbr/config/sleepwarp-client.json"
@@ -550,7 +538,7 @@ hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 
 [[files]]
 file = "config/yosbr/config/status/state-client.properties"
-hash = "4dde787c5eca74195829d6ef7f9193e419a854c0cd5b606643af1da4ad7ea427"
+hash = "71a00006284e1b9418e926ac189379b52697c8442940f6fd31c9ff27adb0a16a"
 
 [[files]]
 file = "config/yosbr/config/status/status-server.properties"
@@ -602,7 +590,7 @@ hash = "b1d36bc6c45b56367117ac03345416edd7a7639e2d7d5f29a4aec26e465afbb8"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "6e352d6bfb4c86714d79917cbf2b27a8a5ecbe98f6eff6bb62d36c297453300d"
+hash = "b617d88080cec2a418ea649db2043f0eab3402ed1e678f395d147c6426e6468a"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -614,7 +602,7 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "66994ae7cc5cda1d5fdaaff295cc693a501d6d217ab08161f7d2ec660859979c"
+hash = "ed7d5d7218542132b7cdbd1d523c124cd30359cf1912edd82579ac0c4207fd27"
 
 [[files]]
 file = "config/yosbr/config/yigd.toml"
@@ -909,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "622c1191423d49feff1439d4bbbab6056c2500f4d22a362e0f6cfceadc60feaa"
+hash = "4c9a4232ea6a81d22e5b643a69ba3ff7997fe7c4d537d900045552ed1af61758"
 metafile = true
 
 [[files]]
@@ -1135,16 +1123,6 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "15e379fa4157e39c612231580347af0a2b7c5bb3e3565d3fa7d358a08e2befb7"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "fab0532fc558b6ac3eaf50211515242429d1aa05fc134f576170918471c13cfb"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "f1c69585786e1f769dcd6a6ee85e4a8893a5d271a9a6261142585fe46072a4f2"
 metafile = true
 
 [[files]]
