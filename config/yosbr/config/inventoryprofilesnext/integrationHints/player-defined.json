@@ -1,0 +1,83 @@
+{
+    "dev.sterner.brewinandchewin.client.screen.KegScreen": {
+        "ignore": true
+    },
+    "dev.sterner.brewinandchewin.common.block.screen.KegBlockScreenHandler": {
+        "ignore": true
+    },
+    "com.ianm1647.expandeddelight.util.inventory.screen.JuicerScreen": {
+        "ignore": true
+    },
+    "com.ianm1647.expandeddelight.util.inventory.screen.JuicerScreenHandler": {
+        "ignore": true
+    },
+    "com.nhoryzon.mc.farmersdelight.client.screen.CookingPotScreen": {
+        "ignore": true
+    },
+    "com.nhoryzon.mc.farmersdelight.entity.block.screen.CookingPotScreenHandler": {
+        "ignore": true
+    },
+    "twilightforest.client.UncraftingScreen": {
+        "ignore": true
+    },
+    "twilightforest.inventory.UncraftingMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.schematics.cannon.SchematicannonMenu": {
+        "ignore": true
+    },
+    "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": {
+        "disableFastSwipe": true,
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 0,
+                "bottom": 1500
+            },
+            "SORT": {
+                "horizontalOffset": 55,
+                "top": -1500,
+                "bottom": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 55,
+                "top": -1500,
+                "bottom": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 55,
+                "top": -1500,
+                "bottom": 8
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 43,
+                "top": 147
+            }
+        }
+    },
+    "me.salamander.morebundles.common.blockentity.BundleLoaderScreen": {
+        "ignore": true
+    },
+    "me.salamander.morebundles.common.blockentity.BundleLoaderContainerMenu": {
+        "ignore": true
+    },
+    "fuzs.barteringstation.client.gui.screens.inventory.BarteringStationScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 12,
+                "top": 66
+            },
+            "SORT": {
+                "horizontalOffset": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -11
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -11
+            }
+        }
+    }
+}

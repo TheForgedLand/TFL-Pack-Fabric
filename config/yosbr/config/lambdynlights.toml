@@ -87,9 +87,14 @@ mode = "fancy"
 				stray = true
 				pillager = true
 				small_fireball = true
+				tropical_fish = true
+				mooshroom = true
+				parrot = true
+				vindicator = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
+				camel = true
 
 			[light_sources.settings.entities.twilightforest]
 				ice_arrow = true

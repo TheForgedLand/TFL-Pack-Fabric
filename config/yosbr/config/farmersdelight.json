@@ -25,7 +25,7 @@
     "minecraft:beetroot_soup",
     "minecraft:rabbit_stew"
   ],
-  "overrideAllSoupItems": false,
+  "overrideAllSoupItems": true,
   "generateFDChestLoot": true,
   "generateVillageCompostHeaps": true,
   "generateWildCabbages": true,

@@ -8,7 +8,9 @@ phrases = [
 "Unable to resolve texture",
 "Unable to load model",
 "Unknown model loader",
-"Exception loading blockstate"
+"Exception loading blockstate",
+"Using missing texture",
+"farmersrespite"
 ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX:

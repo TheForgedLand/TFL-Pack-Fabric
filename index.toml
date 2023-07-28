@@ -362,7 +362,7 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
 file = "config/yosbr/config/logbegone.toml"
-hash = "d0478c5bd38fbe57f4b607f1c7fd5a95bb0d37e729df33788273e8e5abc35b2c"
+hash = "8a06a0fa46bb54be7174802193da150b408b2434eb14c7cb00f765de1b8d3c44"
 
 [[files]]
 file = "config/yosbr/config/microdurability.json5"
@@ -619,10 +619,6 @@ hash = "66994ae7cc5cda1d5fdaaff295cc693a501d6d217ab08161f7d2ec660859979c"
 [[files]]
 file = "config/yosbr/config/yigd.toml"
 hash = "a43a43583c1023840424ddc5ae8528b42cf601fe291977acce8f54f51cb07af6"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/byg/backups/last_working_configs_backup.zip"
-hash = "80898f1f11855beb951f4abd5b12a9b074e63452536d07a51309ff1b50b8a46d"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"

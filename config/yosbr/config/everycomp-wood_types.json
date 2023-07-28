@@ -78,7 +78,7 @@
       "ecologics.walnut": true
     },
     "wood_type": {
-      "ecologics.flowering_azalea": true,
+      "ecologics.flowering_azalea": false,
       "ecologics.azalea": true,
       "ecologics.coconut": true,
       "ecologics.walnut": true,
