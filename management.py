@@ -19,7 +19,7 @@ class Pack:
 		"""
 		self.source = source
 		self.flavors = flavors
-		self.info = toml.load(source)
+	def getInfo(self): return toml.load(self.source)
 
 	def getModlist(self):
 		modlist = {modname.replace(".pw.toml", "")
@@ -142,7 +142,7 @@ class Pack:
 
 
 		for file in [
-			self.info['name']+'-'+self.info['version']+side+'.zip'
+			self.getInfo()['name']+'-'+self.getInfo()['version']+side+'.zip'
 			for side in ['[C]','[S]','']
 		]:
 			try:
@@ -167,10 +167,10 @@ class Pack:
 			elif i == 2:
 				print("renaming...")
 				os.rename(
-					self.info['name']+'-'+self.info['version']+".zip",
-					self.info['name']+'-'+self.info['version']+side+'.zip'
+					self.getInfo()['name']+'-'+self.getInfo()['version']+".zip",
+					self.getInfo()['name']+'-'+self.getInfo()['version']+side+'.zip'
 				)
-				print('-',self.info['name']+'-'+self.info['version']+side+'.zip','created!\n')
+				print('-',self.getInfo()['name']+'-'+self.getInfo()['version']+side+'.zip','created!\n')
 			print()
 
 pack = Pack("pack.toml","unsup.toml")

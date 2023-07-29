@@ -11,7 +11,7 @@
     },
 
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "byg:chain_plating"
     },
 
     "B": {
@@ -23,7 +23,7 @@
     }
   },
   "result": {
-    "item": "morebundles:large_iron_bundle",
+    "item": "morebundles:large_chain_bundle",
     "count": 1
   },
 

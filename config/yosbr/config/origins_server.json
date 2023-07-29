@@ -868,7 +868,8 @@
       "origins-plus-plus:rat/slow_swimmer": true,
       "origins-plus-plus:rat/tail_whip": true,
       "origins-plus-plus:rat/toxicity_evolved": true,
-      "origins-plus-plus:rat/vicious_bite": true
+      "origins-plus-plus:rat/vicious_bite": true,
+      "origins:fall_immunity": true
     },
     "origins-plus-plus:beaver": {
       "enabled": true,

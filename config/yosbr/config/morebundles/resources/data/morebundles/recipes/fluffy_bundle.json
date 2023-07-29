@@ -1,7 +1,7 @@
 {
   "type": "morebundles:nbt_retain_shaped",
   "pattern": [
-    "SIS",
+    "SWS",
     "IBI",
     "LIL"
   ],
@@ -11,19 +11,21 @@
     },
 
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "twilightforest:arctic_fur"
     },
 
     "B": {
-      "item": "morebundles:large_bundle"
+      "item": "morebundles:chain_bundle"
     },
-
+    "W":{
+      "item": "byg:subzero_crystal_shard"
+    },
     "L": {
       "tag": "morebundles:bundle_material"
     }
   },
   "result": {
-    "item": "morebundles:large_iron_bundle",
+    "item": "morebundles:fluffy_bundle",
     "count": 1
   },
 

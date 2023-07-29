@@ -342,7 +342,7 @@ hash = "9f60b82695421a721d6002c4bd9c143fe6f4fc718375e557798f3c553724fe6a"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "358bf95b2426153d092d13c9c62ba07c3e1becdbe9e05e86710249df06872064"
+hash = "061612694e50c63f7090be4ecd79842a7b669cfb75288a8ea5a2ca9734354ce6"
 
 [[files]]
 file = "config/yosbr/config/legendarytooltips-common.toml"
@@ -374,11 +374,11 @@ hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
 
 [[files]]
 file = "config/yosbr/config/morebundles/config.json"
-hash = "c578aab0fa32cc41ac11464b686777b5f39dd0d053c37f17a0a0760dd91fa06a"
+hash = "edb50596368379838d7c8a7e80938c79b79cece8e356dabf7b15c836a930657b"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/assets/morebundles/lang/en_us.json"
-hash = "cb42756b0f6a57b5ae7756f2e809a9d323f59b087d8e8ff1a90df569a3b6f0f1"
+hash = "e8b1e1fef24ae94a4789cc92af82041a4e8670d90c8d0a7a7b4c10a9e17149e8"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/assets/morebundles/models/item/bread_bowl.json"
@@ -429,6 +429,14 @@ file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/bundl
 hash = "f6cf9ae4fc800931e1fb37ad6a444d00e4f4298eed86f200dff447ee0f27efb7"
 
 [[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/chain_bundle.json"
+hash = "6dd7235bd9211f69944294843be2bd6f7b8c0453032f6f227244cd53f658b35f"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/fluffy_bundle.json"
+hash = "b4e597925e5e1321fbcf57dcc0257c0046000986fc3a5cf75ca23ec7e92f5a5a"
+
+[[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/gold_bundle.json"
 hash = "dc81957313844582c0781860f7d21e90d1bf3f5cb761b5d477d9b62065741016"
 
@@ -439,6 +447,22 @@ hash = "9cda340cea8ea27716e951ae2eeacd3b2ac04ccfa5dd42dfdccbca0193d808af"
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_bundle.json"
 hash = "2975b3273fc28dde75742b2926c5968d5dac3938338018c28609be16d77320a0"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_chain_bundle.json"
+hash = "b279ee3144f04253a0ef9adc7958efefc004ca19204d31dbaf4b4e96fd9410e6"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_chain_bundle_2.json"
+hash = "bbf018e0043386e8f0f493df71e5aa0cd2e3f08c9021d2d0b086456f98054b16"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_fluffy_bundle.json"
+hash = "20ce5e9d35e7e3cd68a39c5f59da204f802c971d82acdacfe806456f86b6ec8d"
+
+[[files]]
+file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_fluffy_bundle_2.json"
+hash = "a2e7e39dc34c2915414d6e458733fd7cefb1e399e915ed0f1d82b0f601d8b167"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_gold_bundle.json"
@@ -462,7 +486,7 @@ hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
 
 [[files]]
 file = "config/yosbr/config/origins_server.json"
-hash = "a6d3f62d5bd66f479db393976508629975c65c32465ad11716cffbdc4447be8d"
+hash = "30e8a00970fa4cd409c3a77dd650d94285c258ddea910c8e6b75d2bd18152194"
 
 [[files]]
 file = "config/yosbr/config/pal.properties"
@@ -490,7 +514,7 @@ hash = "9240e617374d7c0691c537b940b1c5d417a94c4301908a1d9fbf08506a346ab1"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "23cd3d6d3a78fb5044070b18a058f0e4eb8336bfd3cad719492681dd889b248d"
+hash = "99f5f35f528260786429a7d7716c9e5fb8f3b86b06ff99748cdaf6cd2776d59b"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/hints.json"

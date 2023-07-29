@@ -91,6 +91,12 @@ mode = "fancy"
 				mooshroom = true
 				parrot = true
 				vindicator = true
+				turtle = true
+				phantom = true
+				painting = true
+				illusioner = true
+				fireball = true
+				leash_knot = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -99,7 +105,20 @@ mode = "fancy"
 			[light_sources.settings.entities.twilightforest]
 				ice_arrow = true
 				seeker_arrow = true
+				boar = true
+				dwarf_rabbit = true
+				deer = true
+				tiny_bird = true
+				kobold = true
+				raven = true
+				squirrel = true
+				death_tome = true
+				bighorn_sheep = true
+				moonworm_shot = true
 
 			[light_sources.settings.entities.another_furniture]
 				seat = true
+
+			[light_sources.settings.entities.railways]
+				conductor = true
 

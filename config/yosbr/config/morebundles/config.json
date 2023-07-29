@@ -6,9 +6,9 @@
   "regular_bundle_capacity": 64,
   "bundles": [
     {
-      "type": "regular_bundle",
+      "type": "single_item_bundle",
       "id": "large_bundle",
-      "capacity": 128,
+      "capacity": 256,
       "dyeable": true
     },
     {
@@ -81,6 +81,62 @@
         {
           "type": "texture",
           "material": "minecraft:gold_ingot"
+        }
+      ]
+    },
+    {
+      "type": "regular_bundle",
+      "id": "chain_bundle",
+      "capacity": 128,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "byg:chain_plating"
+        }
+      ]
+    },
+    {
+      "type": "single_item_bundle",
+      "id": "large_chain_bundle",
+      "capacity": 512,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "byg:chain_plating"
+        }
+      ]
+    },
+    {
+      "type": "regular_bundle",
+      "id": "fluffy_bundle",
+      "capacity": 256,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:prismarine_shard"
+        }
+      ]
+    },
+    {
+      "type": "single_item_bundle",
+      "id": "large_fluffy_bundle",
+      "capacity": 1024,
+      "generators": [
+        {
+          "type": "model"
+        },
+        {
+          "type": "texture",
+          "material": "minecraft:prismarine_shard"
         }
       ]
     }
