@@ -19,5 +19,6 @@ management.py
 .pytest_cache
 pack-config
 TFL-1.2.1.zip
-packwiz
-packwiz.exe
+bin
+*.md
+docs
