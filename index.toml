@@ -254,7 +254,7 @@ hash = "6b8db1b8c3f9dfb655a2db483db7c02972b147eb53591945b4782f9049054168"
 
 [[files]]
 file = "config/yosbr/config/effective.json"
-hash = "b2a67ba0133250f9c0912d7cef9530ef25c14572d7185e62c8362d4930014cbc"
+hash = "e03ee1b47ace11c18e9de62976b4272f9157e16326aa6f9dbdc61a9d87047a2e"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -446,11 +446,11 @@ hash = "9cda340cea8ea27716e951ae2eeacd3b2ac04ccfa5dd42dfdccbca0193d808af"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_bundle.json"
-hash = "2975b3273fc28dde75742b2926c5968d5dac3938338018c28609be16d77320a0"
+hash = "2e5eed2273f20a942abf20a144f8c6382dcf4290dea303cfb99e58c50ae15636"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_chain_bundle.json"
-hash = "b279ee3144f04253a0ef9adc7958efefc004ca19204d31dbaf4b4e96fd9410e6"
+hash = "e9352a7a352858c8326398663471e524ee9be780f7b59f592cffe35866ecb33d"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_chain_bundle_2.json"
@@ -458,7 +458,7 @@ hash = "bbf018e0043386e8f0f493df71e5aa0cd2e3f08c9021d2d0b086456f98054b16"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_fluffy_bundle.json"
-hash = "20ce5e9d35e7e3cd68a39c5f59da204f802c971d82acdacfe806456f86b6ec8d"
+hash = "c04b182b74b8f08be02790acd4976c4804b740846591f2d62445ea78716a0fae"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_fluffy_bundle_2.json"
@@ -466,7 +466,7 @@ hash = "a2e7e39dc34c2915414d6e458733fd7cefb1e399e915ed0f1d82b0f601d8b167"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_gold_bundle.json"
-hash = "bf58689e290f023d98a5d3e6a353ec9c4f1d29ec57f3d9ea3e4e4a551ab1bdee"
+hash = "e98f817a06ea109c8116334f052f16ae69f4de9b6b46f21bafd95a4e4f68b0d3"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_gold_bundle_2.json"
@@ -474,7 +474,7 @@ hash = "54b9676469d7f2f7e64f1df5ab7dad107d19ff5681be9df6a891d560e18960ec"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_iron_bundle.json"
-hash = "c9c421cafbba8c878bfa786c69e6ccb4e9e28c7add01b00492b97d8e9e68d8e8"
+hash = "54bb91c3472e4df856df6dfeccf04984c82a6aa1a0c2adc338f127097e3f9063"
 
 [[files]]
 file = "config/yosbr/config/morebundles/resources/data/morebundles/recipes/large_iron_bundle_2.json"
@@ -645,6 +645,30 @@ file = "config/yosbr/servers.dat"
 hash = "9efaf8b6c14654c04fec18563f9bfc6b051649525e1c8fc22e1c4388e3921e9c"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "36ffa3e802cae776ae43bd62dafae8c275e136c54ca8f31c42e7f8ff574c7f52"
+
+[[files]]
+file = "kubejs/server_scripts/diets.js"
+hash = "28bf2dbb8613f40ef0539f90273114b8b3f136c25b54f252286251f6ba721752"
+
+[[files]]
+file = "kubejs/server_scripts/misc-tags.js"
+hash = "b8f70235bce7f21634aa08a06e8224848a70eed44f85c9c8ac78688055a9d033"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "852eac65e76ced6946d40dd818dd65f74cb9350ad0acef2e71290b044908457c"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "4ef55e1a00df449abacd89e5f15038f3291e7babf08f2ab358d7dea1ece8f0ac"
 metafile = true
@@ -666,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "110104a692a585005b21072118d2bdf0b068f06acbfe5c7bca5393a741463f5f"
+hash = "cfb264629e2f3049c5afc3c1b40c8d7395a1813ede2c1c43b3ec761ca62548ef"
 metafile = true
 
 [[files]]
@@ -696,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "ccfa776ceb18c8682c928cc2aa3dc9aafac0d467667f09b8f2d15694f65a79ec"
+hash = "f441454302b4c2aef2865f4297700dad4d1e5b621f438b260b10f23d1632470f"
 metafile = true
 
 [[files]]
@@ -721,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
-hash = "10f7256af235c5b3b9f0d93c26c7ff38dcb0a4ca9e933da3dda9c096841b8c70"
+hash = "27b7c999f3dd629452ebb65ba5591471074c4a4dfd4f45edbe4c2450dc83be95"
 metafile = true
 
 [[files]]
@@ -736,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/chimes.pw.toml"
-hash = "909b55ac783674e90b97d08098f3d2ef7d111011b5a607a1eb30821150b60166"
+hash = "93c329243ab16f36256c4757d6209b8aae31c9bd156a97b2be16ebe562cbfab0"
 metafile = true
 
 [[files]]
@@ -801,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "e9d2690e21e5a5bd2e1d818d25cc26d294737c7610c1382525c23f9d9b43ec55"
+hash = "446fee7372a359167add6735ad1dfc5b7415cb5568d2241b0426f8dc2dc34d70"
 metafile = true
 
 [[files]]
@@ -891,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "2108545b6536f38cd6dd23e670c86d74c09440c85a53396dc25ed17e4aededff"
+hash = "d881e61b3fd236e547b105470f839bc97a7e444338e0090fe2865837d9e4f60f"
 metafile = true
 
 [[files]]
@@ -920,11 +944,6 @@ hash = "1a6455270ef1f096056128cf587c51dc041acba086553cf4e0cbe526adcbe582"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "4c9a4232ea6a81d22e5b643a69ba3ff7997fe7c4d537d900045552ed1af61758"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
@@ -941,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "8794f397f6bec7ed4d7425e90f51317d45622b4dd1ad3f6c33bfd48f60d3763a"
+hash = "0f9158a27c4a4ceffcdb7d3c14fbc86a8528e3c3b5441446c324f0dafa6190ce"
 metafile = true
 
 [[files]]
@@ -981,17 +1000,17 @@ metafile = true
 
 [[files]]
 file = "mods/kitsune.pw.toml"
-hash = "f85917abfa7a315175cbf5d7a2598fc35e0153798f7d5203d733bea3a4d6749f"
+hash = "2834b601b7710dd41d356c3f8a00d77400a34e59cdce1cea842209044b6f7f74"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "fdd92e932a58b10a1946f84f990ee0e9116b58a19bf4c63058bd13d658f2220b"
+hash = "7a7e6535fd15e28303f9604187fe0c60eda98eb6f187257e16745c7051af8099"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "438f2d6eb8dd37673c9ba97d19745edf7e7d9a3762d8da33c964e2c1529bd1fb"
+hash = "fa28adce5621535de8a27bdecaa7af4261028d8cbe99aec208097b35cd511d8d"
 metafile = true
 
 [[files]]
@@ -1076,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-bundles.pw.toml"
-hash = "7494c138b1f4e1bff0e64eb7ff94af8557ff48f30d3bf8abf00858352b1a40a0"
+hash = "17f66f88d2ec672f9d423975232024dab40cecfe68aed0e3f0d887cec3d5eb4c"
 metafile = true
 
 [[files]]
@@ -1111,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-plus-plus.pw.toml"
-hash = "38177d11fbcca543f2457023fc3db383b7f97fae57240620a020df6dfe1bdf52"
+hash = "9f65090146890ab154d01d8ad44f01557af141c1450cc93cf2a00f5fb82a4b9d"
 metafile = true
 
 [[files]]
@@ -1121,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "b6cab8d27aa1cfd51b83d57ba47541c8e8004673fe08a9bcccba782f04bb96f5"
+hash = "6fecab34d6f56ffbddcd347964335da7a84bee35c10bff42c71ccfebd37c96d7"
 metafile = true
 
 [[files]]
@@ -1131,12 +1150,17 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "324ee912c0110a4fc5039d5b691a419d059b7c958219d05b4749e2d3a795fb9a"
+hash = "bbe3094d52cb1606fa16840d399b07ca7db35536b343ac90ef025702e661727d"
 metafile = true
 
 [[files]]
 file = "mods/prism-fabric.pw.toml"
 hash = "1d1e70ec1e737533b5ee9c9a5371b85f65b7c31de480c5dc7622dfbfc85bf47c"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "c98dc920b22847e8b8b54c48a6c310d0e1aefcf095e1f1379db762089fc95499"
 metafile = true
 
 [[files]]
@@ -1301,7 +1325,7 @@ metafile = true
 
 [[files]]
 file = "mods/twilight-origins.pw.toml"
-hash = "c61712a39e17915d4215086fdc1ab6c0b442b750f8501dc16d9b8b3c717a7b22"
+hash = "b280890e82cfef37de021b8a3093d6c984a920122d117953efe7a254d1a97b06"
 metafile = true
 
 [[files]]
@@ -1316,17 +1340,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "03b8a78a6c40458ea34ce2cc9f617979abc673883b57695bad6dc9db4dbfda03"
+hash = "752597d7b38373f9cd2530d296ae58d053e960f9635ac8d385e9bc9ffdbbfa1d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ea14509fa8cff9615c35836583e755cdf6538b1025e1c4ce262bc06672b32d0d"
+hash = "38ade1c965cb989ca2e05e86f8aed1a55b128b5a918135240c01a29a05c6048a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c18b6f8b2a0867e5857b2e9d9c42fbd3f28469a5f2e0de42bb615831c9c46910"
+hash = "63178795eae41e09367aa7376a921767150f6e11a0b53268abbd44bf5f2e1498"
 metafile = true
 
 [[files]]

@@ -3,5 +3,5 @@ filename = "farmersknives-2.4.jar"
 
 [download]
 url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/farmersknives-2.4.jar"
-hash-format = "sha1"
-hash = "321355415cfa7a91a6c35910a3a18a3937dee62f"
+hash-format = "sha256"
+hash = "a59a5fca991cc355c41facc254c71ea55257854e0fff7e5637c1ec25c7707064"

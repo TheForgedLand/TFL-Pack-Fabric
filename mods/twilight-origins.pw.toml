@@ -3,5 +3,5 @@ filename = "Twilight Origins 1.0.1.jar"
 
 [download]
 url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Twilight%20Origins%201.0.1.jar"
-hash-format = "sha1"
-hash = "0581a709b78e382992ac01fe6524537ac4ef9bce"
+hash-format = "sha256"
+hash = "df01e330ba665931ca9e78572ea60a44e4953e3dab98d52f4b1dff301f2c36c1"

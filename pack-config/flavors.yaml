@@ -53,7 +53,6 @@ findme: misc_on
 forge-config-api-port-fabric: misc_on
 framework-fabric: misc_on
 free-cam: misc_on
-fusion-connected-textures: misc_on
 geckolib: misc_on
 iceberg-fabric: misc_on
 immersive-armors: misc_on
@@ -97,6 +96,7 @@ origins-umbrellas: misc_on
 owo-lib: misc_on
 pehkui: misc_on
 prism-fabric: misc_on
+probejs: misc_on
 puzzles-lib: misc_on
 reacharound: misc_on
 reeses-sodium-options: misc_on

@@ -22,3 +22,4 @@ TFL-1.2.1.zip
 bin
 *.md
 docs
+*.ipynb

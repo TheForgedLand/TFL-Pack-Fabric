@@ -1,7 +1,14 @@
-name = "YACL"
+name = "YetAnotherConfigLib"
 filename = "YetAnotherConfigLib-1.7.1.jar"
+side = "both"
+pin = true
 
 [download]
-url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/YetAnotherConfigLib-1.7.1.jar"
 hash-format = "sha1"
 hash = "9694c6e52e946820f9945e2b9ee8a463c1e426fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087063
+project-id = 667299

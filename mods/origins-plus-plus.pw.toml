@@ -3,5 +3,5 @@ filename = "origins-plus-plus-2.0.1.jar"
 
 [download]
 url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/origins-plus-plus-2.0.1.jar"
-hash-format = "sha1"
-hash = "b8233c6bb55c2ea63d0275c73844525fbbe6d53d"
+hash-format = "sha256"
+hash = "a430ae9b008a00ff7afd8519dfb5c8fbb12b2faa60a61b7301c348c5465942f1"

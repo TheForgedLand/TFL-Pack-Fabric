@@ -10,13 +10,13 @@
       "tag": "morebundles:bundle_material"
     },
     "S": {
-      "item": "minecraft:shulker_shell"
+      "item": "minecraft:chest"
     },
     "B": {
       "item": "minecraft:bundle"
     },
     "E": {
-      "item": "minecraft:ender_eye"
+      "item": "minecraft:diamond"
     }
   },
 

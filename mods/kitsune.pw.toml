@@ -3,5 +3,5 @@ filename = "Kitsune-1.1.9-CF.jar"
 
 [download]
 url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/Kitsune-1.1.9-CF.jar"
-hash-format = "sha1"
-hash = "9dc10898ec185fe031ced7a23b7f20a5cdbb33f9"
+hash-format = "sha256"
+hash = "ee549d198502aa790fbcc09ec82eba4a1e26e58fb9f6f3222e9912e7d7679bee"

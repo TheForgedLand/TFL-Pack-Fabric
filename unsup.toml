@@ -169,9 +169,6 @@ flavors = "misc_on"
 [metafile.free-cam]
 flavors = "misc_on"
 
-[metafile.fusion-connected-textures]
-flavors = "misc_on"
-
 [metafile.geckolib]
 flavors = "misc_on"
 
@@ -299,6 +296,9 @@ flavors = "misc_on"
 flavors = "misc_on"
 
 [metafile.prism-fabric]
+flavors = "misc_on"
+
+[metafile.probejs]
 flavors = "misc_on"
 
 [metafile.puzzles-lib]
