@@ -654,7 +654,7 @@ hash = "36ffa3e802cae776ae43bd62dafae8c275e136c54ca8f31c42e7f8ff574c7f52"
 
 [[files]]
 file = "kubejs/server_scripts/diets.js"
-hash = "28bf2dbb8613f40ef0539f90273114b8b3f136c25b54f252286251f6ba721752"
+hash = "31ad53294df0ebe2ee5df50b447ccdf407d4518bf389be112db0a33cd3b5bd1b"
 
 [[files]]
 file = "kubejs/server_scripts/misc-tags.js"
@@ -662,7 +662,7 @@ hash = "b8f70235bce7f21634aa08a06e8224848a70eed44f85c9c8ac78688055a9d033"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "852eac65e76ced6946d40dd818dd65f74cb9350ad0acef2e71290b044908457c"
+hash = "b5286747adb79c6fd3df48cd37a64d3fd4fb61c9d64a6ce33a716cbf7458caad"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "3c6eba70645837f316245ed78bc9e87ff07ee7fd5d25face511053ba1443b34a"
+hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
-hash = "78c61ff021c76d1479656c2c85315852cdf95e14342adbbeda5f6b69248554bb"
+hash = "2b132047172869916639b21e09bff0fec83249be3127f9c8d9ee6bc5cc2c5ad8"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d790a756c77127a5de646c6ca7a457e856e6d89b55ae694358dcde43b905160a"
+hash = "7a31f59c6abb297e39c0e2d593c55a8be59c89b8070e4669792ce3f87571e741"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "70aec7213867514755ddfe86bee5c04aaa7aaac3e966c0d8845298f3c59d137d"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "0f9158a27c4a4ceffcdb7d3c14fbc86a8528e3c3b5441446c324f0dafa6190ce"
+hash = "8f68e36e4964c084ac3b654259ddf1b8b5ed1ff0d3298cfa4d8f3365846bacfd"
 metafile = true
 
 [[files]]
@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "fa28adce5621535de8a27bdecaa7af4261028d8cbe99aec208097b35cd511d8d"
+hash = "6e9ddda523ddd5ea75fd7772da2588fe255a3d55158cfed40ee507e40437b76b"
 metafile = true
 
 [[files]]
@@ -1190,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "fa8678b72a0ebabf940797f9b1689477735f95bac03998b9814234714f70de80"
+hash = "503b6219da34a1cb9efd6293076680dd5819c554124e542f2b008cd931f0e061"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2e814adc30cfdcd79da5ef3a711335e953decddd9009af332e413e1edb045731"
+hash = "bc6c5e5bb7e2a6459f3e995d4f6a6c8a37d6d0c38cc1115fb20f0aad34138b9b"
 metafile = true
 
 [[files]]
@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "db97074842df9195ec06fed00fceff0db4aa82ad9760b3f7c7631918f80228ae"
+hash = "e185a2c1139bfe59c8ff0c7adb0c5cfcf6df7f300fa8145ea5db170cf6174e09"
 metafile = true
 
 [[files]]
@@ -1250,7 +1250,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "6e1de95a4d235aed4f478696387c422bafe5883d3b58f03032a83d7fcb0875eb"
+hash = "f937acb04fdf1b4449eeb8504698673368d189972bd02b9fd32b75eb146a6a43"
 metafile = true
 
 [[files]]
@@ -1340,12 +1340,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "752597d7b38373f9cd2530d296ae58d053e960f9635ac8d385e9bc9ffdbbfa1d"
+hash = "ed9166eed099e3b3af9c3fcc10bd41d8715f3ede7a55803369c35067ffd94e8c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "38ade1c965cb989ca2e05e86f8aed1a55b128b5a918135240c01a29a05c6048a"
+hash = "ab245e9f28c1dbe72ee156d20ac039450baa701ec0d48edb9ee0eb0f7791efae"
 metafile = true
 
 [[files]]
@@ -1355,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/yawp.pw.toml"
-hash = "e6ea16d6bc69c7bf0490d4b8f2046d2267fb678a93db62b87736669be3ec7101"
+hash = "d74dab47fab8eb4adf154f3c4a36d54f19053cd00122994fb4292723176d4c09"
 metafile = true
 
 [[files]]

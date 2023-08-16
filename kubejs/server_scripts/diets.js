@@ -25,7 +25,7 @@ ServerEvents.tags('item', event => {
     	.add("byg:nightshade_berry_pie")
     	.add("byg:crimson_berries")
     	.add("byg:crimson_berry_pie")
-
+		.add("twilightforest:torchberries")
 
    	event.get("origins-plus-plus:sweets")
 		.add("farmersdelight:hot_cocoa")
