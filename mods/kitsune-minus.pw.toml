@@ -1,0 +1,7 @@
+name = "kitsune-minus"
+filename = "kitsune-minus-1.0.0.jar"
+
+[download]
+url = "https://github.com/Infinidoge/kitsune-minus/releases/download/v1.0.0/kitsune-minus-1.0.0.jar"
+hash-format = "sha256"
+hash = "5c62632af8d1402087add1b44df6415075c6689997163a7bbb4b6802521b5440"

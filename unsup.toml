@@ -205,6 +205,9 @@ flavors = "misc_on"
 [metafile.kitsune]
 flavors = "misc_on"
 
+[metafile.kitsune-minus]
+flavors = "misc_on"
+
 [metafile.kubejs]
 flavors = "misc_on"
 

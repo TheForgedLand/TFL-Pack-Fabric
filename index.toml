@@ -999,6 +999,11 @@ hash = "ca6bf1c9732c17773e1b012bd498a8a2be8beb658336eff79aa713e7c8b85420"
 metafile = true
 
 [[files]]
+file = "mods/kitsune-minus.pw.toml"
+hash = "e1a87e4c9a508671ba45ddf9893460f38180144c2b9f9cae6d4ec063253ae4ef"
+metafile = true
+
+[[files]]
 file = "mods/kitsune.pw.toml"
 hash = "2834b601b7710dd41d356c3f8a00d77400a34e59cdce1cea842209044b6f7f74"
 metafile = true
