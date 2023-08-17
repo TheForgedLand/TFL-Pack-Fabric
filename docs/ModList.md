@@ -6,7 +6,7 @@ On another note, unless you experience issues with one of the mods in the [perfo
 
 Main mods:
 
-* [spotlight](ModList.md#spotlight)
+* [Spotlight](ModList.md#spotlight)
   * [Exploration and Nature](ModList.md#exploration-and-nature)
   * [Decoration &amp; Architecture](ModList.md#decoraton--architecture)
 * [Userside Aesthetics &amp; Quality of Life](ModList.md#userside-aesthetics--quality-of-life)
