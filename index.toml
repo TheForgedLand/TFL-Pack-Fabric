@@ -654,11 +654,11 @@ hash = "36ffa3e802cae776ae43bd62dafae8c275e136c54ca8f31c42e7f8ff574c7f52"
 
 [[files]]
 file = "kubejs/server_scripts/diets.js"
-hash = "31ad53294df0ebe2ee5df50b447ccdf407d4518bf389be112db0a33cd3b5bd1b"
+hash = "2637a19d57b6a5f4a5d9ec2fe7aebafaa1b02fc60c8ba172669edcb35010f240"
 
 [[files]]
 file = "kubejs/server_scripts/misc-tags.js"
-hash = "b8f70235bce7f21634aa08a06e8224848a70eed44f85c9c8ac78688055a9d033"
+hash = "4e7576a9e336e31724ee6038d38e847057101ef3d78dd9d64ba98511c9e299d8"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"

@@ -40,6 +40,7 @@ Main mods:
 * [**Origins**](https://curseforge.com/minecraft/mc-mods/origins) - Players choose an Origin at the beginning of the game to gain benefits and drawbacks
 
   * [**Kitsune Origin**](https://curseforge.com/minecraft/mc-mods/kitsune-origin) - adds a kitsune origin to your world
+  * [**Kitsune Minus**](https://github.com/Infinidoge/kitsune-minus) - Primarily based on Origins Minus, by the Sisby Folk! modified from Kitsune Origin.
   * [**Origins++**](https://modrinth.com/mod/origins-plus-plus) - A collection of more than 100 origins to fully expand the origins experience.
   * [**Origins: Classes**](https://curseforge.com/minecraft/mc-mods/origins-classes) - Add-on for Origins which adds classes
   * [**Origins: Umbrellas**](https://curseforge.com/minecraft/mc-mods/origins-umbrellas) - A umbrella mod for Origins
