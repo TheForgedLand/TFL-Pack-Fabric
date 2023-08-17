@@ -662,7 +662,7 @@ hash = "b8f70235bce7f21634aa08a06e8224848a70eed44f85c9c8ac78688055a9d033"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "b5286747adb79c6fd3df48cd37a64d3fd4fb61c9d64a6ce33a716cbf7458caad"
+hash = "ee17c596f25bd686e3f152890bfab7aad8d6223f3716f399f200c4c08bd57985"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "446fee7372a359167add6735ad1dfc5b7415cb5568d2241b0426f8dc2dc34d70"
+hash = "dae11de7d1652fad7117196963f6781e10a233e97d0c803434b65ae6a1eec42b"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "d881e61b3fd236e547b105470f839bc97a7e444338e0090fe2865837d9e4f60f"
+hash = "c24600673492455acc56cfdea6e4b7a3e277255ca8b4a38d99a8dfacae6c7c9d"
 metafile = true
 
 [[files]]
@@ -1005,12 +1005,12 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "7a7e6535fd15e28303f9604187fe0c60eda98eb6f187257e16745c7051af8099"
+hash = "e5a9d25f55c97dbe39ec56353942df312a0bec47b4829d1b5b772640bb9f57a1"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "6e9ddda523ddd5ea75fd7772da2588fe255a3d55158cfed40ee507e40437b76b"
+hash = "c84398ae30b1b3a5b336354b81dff75ddd5fa73ca7f2eef69ed6d154faa93202"
 metafile = true
 
 [[files]]

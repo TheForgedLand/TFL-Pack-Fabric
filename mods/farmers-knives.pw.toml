@@ -1,7 +1,13 @@
-name = "Farmers Knives"
-filename = "farmersknives-2.4.jar"
+name = "Farmer's Knives [Fabric]"
+filename = "farmersknives-2.4.1.jar"
+side = "both"
 
 [download]
-url = "https://github.com/AliCCfire/TFL-modpack/raw/CMOD/farmersknives-2.4.jar"
-hash-format = "sha256"
-hash = "a59a5fca991cc355c41facc254c71ea55257854e0fff7e5637c1ec25c7707064"
+hash-format = "sha1"
+hash = "bc97ed1b74062528d2f7b11279213225255d332f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4670083
+project-id = 628972
